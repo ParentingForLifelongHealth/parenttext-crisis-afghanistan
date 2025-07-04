@@ -69,7 +69,7 @@
         "translation": {
             "format": "translation_repo",
             "translation_repo": "https://github.com/IDEMSInternational/plh-digital-content",
-            "folder_within_repo": "translations/parent_text_crisis_global",
+            "folder_within_repo": "translations/parent_text_crisis_afghanistan",
             "commit_hash": "",
             "commit_tag": "",
             "languages": [
