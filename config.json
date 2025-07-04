@@ -93,7 +93,7 @@
             "format": "safeguarding",
             "sources" : [
                 {
-                    "key": "lan",
+                    "key": "prs",
                     "location": "1mrSKtsQoXYLMowNh816jUVnqjrdBq6of"
                 }
             ]
@@ -135,7 +135,7 @@
             "type": "translation",
             "sources": ["translation"],
             "languages": [
-                {"language": "lan", "code": "fr"}
+                {"language": "prs", "code": "fa"}
             ]
         },
         {
