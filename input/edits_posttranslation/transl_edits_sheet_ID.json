@@ -116,6 +116,15 @@
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
+        "node_identifier": "Regex:.*{generic_referrals}.*",
+        "change": "{generic_referrals}",
+        "condition_var": "",
+        "category": "📞 Dial 410"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
         "node_identifier": "Regex:.*{natural_disasters_referrals}.*",
         "change": "{natural_disasters_referrals}",
         "condition_var": "",
@@ -136,15 +145,6 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{health_referrals}.*",
         "change": "{health_referrals}",
-        "condition_var": "",
-        "category": ""
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{generic_referrals}.*",
-        "change": "{generic_referrals}",
         "condition_var": "",
         "category": ""
       },
