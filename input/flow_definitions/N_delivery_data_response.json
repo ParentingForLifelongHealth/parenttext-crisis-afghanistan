@@ -153,7 +153,7 @@
     "congrats_data": [
       {
         "ID": "final_completion",
-        "msg": "You have completed the programme. Well done!\nRemember, you can always return to ParentText to review these tips. Just type {MENU}.",
+        "msg": "You’ve completed the programme – well done!\nRemember, you can always return to {prog_name} to review any of the tips. Just type {MENU}.\n\nWe’ll check in with you in a month to see how you’re doing. Your feedback helps us make sure these tips truly support families like yours 🙂",
         "extra_msg": "Was ParentText helpful? If so, share it with a friend. Just send this link: {share link}"
       }
     ],

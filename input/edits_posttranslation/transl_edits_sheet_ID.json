@@ -480,15 +480,26 @@
         "replacement": ""
       }
     ],
+    "parenttext_name_eng": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{prog_name}.*",
+        "change": "{share link}",
+        "condition_var": "",
+        "category": "Light of Eye"
+      }
+    ],
     "parenttext_name_transl": [
       {
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*ParentText.*",
+        "node_identifier": "Regex:.*{prog_name}.*",
         "original": "ParentText",
-        "language": "lan",
-        "replacement": ""
+        "language": "prs",
+        "replacement": "نور چشم"
       }
     ]
   }
