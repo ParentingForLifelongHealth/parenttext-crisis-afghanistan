@@ -61,6 +61,13 @@
         "order": "1"
       },
       {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "parenttext_name_eng",
+        "status": "released",
+        "order": "1"
+      },
+      {
         "flow_type": "translation_editing",
         "flow_name": "",
         "sheet_name": "parenttext_name_transl",
@@ -486,7 +493,7 @@
         "flow_id": "Regex:.*",
         "original_row_id": "",
         "node_identifier": "Regex:.*{prog_name}.*",
-        "change": "{share link}",
+        "change": "{prog_name}",
         "condition_var": "",
         "category": "Light of Eye"
       }
@@ -497,7 +504,7 @@
         "flow_id": "Regex:.*",
         "original_row_id": "",
         "node_identifier": "Regex:.*{prog_name}.*",
-        "original": "ParentText",
+        "original": "{prog_name}",
         "language": "prs",
         "replacement": "نور چشم"
       }
