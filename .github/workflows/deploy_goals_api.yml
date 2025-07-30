@@ -5,7 +5,7 @@ on:
 
 jobs:
   pipeline:
-    uses: IDEMSInternational/parenttext-goals-webhooks/.github/workflows/deploy.yml@b5012a8dbb384faa4d9028655a4e9239b0f18459
+    uses: IDEMSInternational/parenttext-goals-webhooks/.github/workflows/deploy.yml@c1db31107c4898ace2813f63ab504afe4b5c5a68
     permissions:
       contents: 'read'
       id-token: 'write'
