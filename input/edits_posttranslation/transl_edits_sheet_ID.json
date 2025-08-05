@@ -114,7 +114,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*",
         "original": "**",
-        "language": "lan",
+        "language": "prs",
         "replacement": "*"
       }
     ],
@@ -126,7 +126,7 @@
         "node_identifier": "Regex:.*{generic_referrals}.*",
         "change": "{generic_referrals}",
         "condition_var": "",
-        "category": "📞 Dial 410"
+        "category": "Add referral"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -135,7 +135,7 @@
         "node_identifier": "Regex:.*{natural_disasters_referrals}.*",
         "change": "{natural_disasters_referrals}",
         "condition_var": "",
-        "category": ""
+        "category": "Add referral"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -144,7 +144,7 @@
         "node_identifier": "Regex:.*{mental_health_referrals}.*",
         "change": "{mental_health_referrals}",
         "condition_var": "",
-        "category": ""
+        "category": "Add referral"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -153,7 +153,7 @@
         "node_identifier": "Regex:.*{health_referrals}.*",
         "change": "{health_referrals}",
         "condition_var": "",
-        "category": ""
+        "category": "Add referral"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -162,7 +162,7 @@
         "node_identifier": "Regex:.*{family_referrals}.*",
         "change": "{family_referrals}",
         "condition_var": "",
-        "category": ""
+        "category": "Add referral"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -171,7 +171,7 @@
         "node_identifier": "Regex:.*{child_protection_referrals}.*",
         "change": "{child_protection_referrals}",
         "condition_var": "",
-        "category": ""
+        "category": "Add referral"
       }
     ],
     "referrals_transl": [
@@ -181,8 +181,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{natural_disasters_referrals}.*",
         "original": "{natural_disasters_referrals}",
-        "language": "lan",
-        "replacement": ""
+        "language": "prs",
+        "replacement": "Add referral"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -190,8 +190,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{mental_health_referrals}.*",
         "original": "{mental_health_referrals}",
-        "language": "lan",
-        "replacement": ""
+        "language": "prs",
+        "replacement": "Add referral"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -199,8 +199,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{health_referrals}.*",
         "original": "{health_referrals}",
-        "language": "lan",
-        "replacement": ""
+        "language": "prs",
+        "replacement": "Add referral"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -208,8 +208,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{generic_referrals}.*",
         "original": "{generic_referrals}",
-        "language": "lan",
-        "replacement": ""
+        "language": "prs",
+        "replacement": "Add referral"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -217,8 +217,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{family_referrals}.*",
         "original": "{family_referrals}",
-        "language": "lan",
-        "replacement": ""
+        "language": "prs",
+        "replacement": "Add referral"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -226,8 +226,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{child_protection_referrals}.*",
         "original": "{child_protection_referrals}",
-        "language": "lan",
-        "replacement": ""
+        "language": "prs",
+        "replacement": "Add referral"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -302,8 +302,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{HELP}.*",
         "original": "{HELP}",
-        "language": "",
-        "replacement": ""
+        "language": "prs",
+        "replacement": "Add translation"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -311,8 +311,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{MENU}.*",
         "original": "{MENU}",
-        "language": "",
-        "replacement": ""
+        "language": "prs",
+        "replacement": "Add translation"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -320,8 +320,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{PLAY}.*",
         "original": "{PLAY}",
-        "language": "",
-        "replacement": ""
+        "language": "prs",
+        "replacement": "Add translation"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -329,8 +329,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{STOP}.*",
         "original": "{STOP}",
-        "language": "",
-        "replacement": ""
+        "language": "prs",
+        "replacement": "Add translation"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -338,8 +338,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{START}.*",
         "original": "{START}",
-        "language": "",
-        "replacement": ""
+        "language": "prs",
+        "replacement": "Add translation"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -347,8 +347,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{PAUSE}.*",
         "original": "{PAUSE}",
-        "language": "",
-        "replacement": ""
+        "language": "prs",
+        "replacement": "Add translation"
       }
     ],
     "urls": [
@@ -359,7 +359,7 @@
         "node_identifier": "Regex:.*{share link}.*",
         "change": "{share link}",
         "condition_var": "",
-        "category": ""
+        "category": "Add translation"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -368,7 +368,7 @@
         "node_identifier": "Regex:.*{consent_link}.*",
         "change": "{consent_link}",
         "condition_var": "",
-        "category": ""
+        "category": "Add translation"
       }
     ],
     "urls_transl": [
@@ -378,8 +378,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{share link}.*",
         "original": "{share link}",
-        "language": "",
-        "replacement": ""
+        "language": "prs",
+        "replacement": "Add translation"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -387,8 +387,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{consent_link}.*",
         "original": "{consent_link}",
-        "language": "",
-        "replacement": ""
+        "language": "prs",
+        "replacement": "Add translation"
       }
     ],
     "joining_triggers_add_group": [
@@ -456,7 +456,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{joining_trigger}.*",
         "change": "{joining_trigger}",
-        "language": "lan",
+        "language": "prs",
         "replacement": "test"
       },
       {
@@ -465,8 +465,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{joining_trigger_group_a}.*",
         "change": "{joining_trigger}",
-        "language": "lan",
-        "replacement": ""
+        "language": "prs",
+        "replacement": "TEST_GROUP_A"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -474,8 +474,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{joining_trigger_group_b}.*",
         "change": "{joining_trigger}",
-        "language": "lan",
-        "replacement": ""
+        "language": "prs",
+        "replacement": "TEST_GROUP_B"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -483,8 +483,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{joining_trigger_group_c}.*",
         "change": "{joining_trigger}",
-        "language": "lan",
-        "replacement": ""
+        "language": "prs",
+        "replacement": "TEST_GROUP_C"
       }
     ],
     "parenttext_name_eng": [
