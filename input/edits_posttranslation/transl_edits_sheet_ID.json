@@ -303,7 +303,7 @@
         "node_identifier": "Regex:.*{HELP}.*",
         "original": "{HELP}",
         "language": "prs",
-        "replacement": "Add translation"
+        "replacement": "Add translation HELP"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -312,7 +312,7 @@
         "node_identifier": "Regex:.*{MENU}.*",
         "original": "{MENU}",
         "language": "prs",
-        "replacement": "Add translation"
+        "replacement": "Add translation MENU"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -321,7 +321,7 @@
         "node_identifier": "Regex:.*{PLAY}.*",
         "original": "{PLAY}",
         "language": "prs",
-        "replacement": "Add translation"
+        "replacement": "Add translation PLAY "
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -330,7 +330,7 @@
         "node_identifier": "Regex:.*{STOP}.*",
         "original": "{STOP}",
         "language": "prs",
-        "replacement": "Add translation"
+        "replacement": "Add translation STOP"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -339,7 +339,7 @@
         "node_identifier": "Regex:.*{START}.*",
         "original": "{START}",
         "language": "prs",
-        "replacement": "Add translation"
+        "replacement": "Add translation START"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -348,7 +348,7 @@
         "node_identifier": "Regex:.*{PAUSE}.*",
         "original": "{PAUSE}",
         "language": "prs",
-        "replacement": "Add translation"
+        "replacement": "Add translation PAUSE"
       }
     ],
     "urls": [

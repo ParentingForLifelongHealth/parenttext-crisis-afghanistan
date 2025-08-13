@@ -1,1 +1,632 @@
-[]
+[
+  {
+    "SourceText": "*A Friendly Chat*",
+    "text": "*یک گپ خودمانی*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Talk to your children about something that they are interested in! 😃",
+    "text": "با اطفال تان در مورد آنچه آنها علاقه دارند صحبت کنید!😃",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ A great way to start talking to your children is to ask them about something they're interested in. For example, you could discuss local stories, traditions, sports, favourite books, movies, friends, famous people, or school-related topics.",
+    "text": "⚽ بهترین راه برای شروع صحبت گفتگو با اطفال تان این است که از آن ها در باره موضوعی که به آن علاقمند هستند بپرسید. مثلاٌ می توانید درباره داستان های محلی، رسم و رواج ها، ورزش ها، کتاب ها، یا فلم های مورد علاقه، دوستان، موسیقی، افراد مشهور یا موضوعات مربوط به مکتب صحبت کنید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 You may not find everything your children share to be interesting, but it is important to show enthusiasm and an eagerness to learn. ",
+    "text": "👂 ممکن است همه‌چیزهایی را که اطفال تان با شما شریک می‌سازند جالب نیابید، اما مهم است که اشتیاق و علاقه‌مندی خود را نشان دهید. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Paying attention to what matters to your children can make a big difference in your relationship and their happiness.",
+    "text": "توجه کردن به چیزهایی که برای اطفال شما اهمیت دارد، می‌تواند تأثیر بزرگی بر رابطه شما و خوشحالی آن‌ها بگذارد.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Reflect on the Positive*",
+    "text": "* به نکات مثبت بیندیشید*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Spread Positivity! 🌈",
+    "text": "مثب اندیشی را گسترش دهید!🌈",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Together, take a minute to think about all the things you did today. ",
+    "text": "💡 همراه با طفل تان، یک دقیقه وقت بگیرید و به همه کارهایی که امروز انجام دادید فکر کنید. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "☀️ Take turns sharing one positive or fun thing that happened. This could be something small or big, like feeling good because you cleaned the house, paused to take some deep breaths, learnt a new dance move, or spent time with your family and friends.",
+    "text": "☀️ نوبتی با هم یک چیز مثبت یا خوشایند را که اتفاق افتاده شریک بسازید. این می‌تواند چیز خورد یا کلان باشد، مانند: احساس خوب به‌خاطر پاک‌کاری خانه، مکث کردن برای چند نفس عمیق، یاد گرفتن یک حرکت نو ، یا وقت گذرانی با خانواده و دوستان.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Try doing this every day - even more on the days it feels like you have not done anything special.",
+    "text": "⏰ تلاش کنید این کار را هر روز انجام دهید – به‌ویژه در روزهایی که احساس می‌کنید کار خاصی نکرده‌اید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*What is New?*",
+    "text": "*چه خبر؟*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Learning is fun! 🎓",
+    "text": "یادگیری خوشایند است! 🎓",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ Ask your children to think of a new, fun skill you could learn together. ",
+    "text": "❓ از اطفال تان بپرسید تا یک مهارت نو و جالب را که می‌توانید با هم یاد بگیرید، پیشنهاد دهند. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "For example, keeping a ball in the air with your foot, cooking a simple meal together, practising local language phrases, sharing stories from your culture, playing local games and sports, or learning about all the countries in your region.",
+    "text": "برای مثال: توپ را با پا در هوا نگه‌داشتن، پختن یک غذای ساده با هم، تمرین جملات زبان محلی، شریک ساختن داستان‌های فرهنگی، بازی‌های محلی، یا آشنایی با کشورهای منطقه.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Take turns trying out the new skill. Make sure to praise each other and learn and play together!",
+    "text": "🔄 نوبتی مهارت جدید را تمرین کنید. همدیگر را تشویق کنید و با هم یاد بگیرید و بازی کنید!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 Approach learning the skill in a kind and fun way, and do not judge your children or yourself for your ability in the skill.",
+    "text": "💛 یادگیری این مهارت را با مهربانی و خوشی دنبال کنید و خود یا طفل تان را به‌خاطر توانایی‌تان قضاوت نکنید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Check-in Chat*",
+    "text": "*گفت‌وگو بررسی حال و احوال*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Actively checking in on one another helps to keep relationships healthy! ⭐",
+    "text": "بررسی فعالانه احوال همدیگر باعث حفظ روابط سالم می‌شود! ⭐",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Ask each other questions like: \"What made you happy today?\" 👂 \"What was difficult today?\" 👂 \"How can I help you?\" 👂",
+    "text": "از یکدیگر بپرسید: «امروز چی چیزی خوشحال‌ات کرد؟» 👂 «امروز چی چیزی برایت دشوار بود؟» 👂 «چطور می‌تونم کمکت کنم؟» 👂",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "For this to be helpful, your children need to feel safe when sharing things with you. Be open to their responses. 💚",
+    "text": "رای مؤثر بودن این گفت‌وگو، طفل تان باید هنگام صحبت احساس امنیت کند. با ذهن باز به جواب هایش گوش دهید. 💚",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Older children tend to be more honest when they trust that what they say will not be used against them later.",
+    "text": "اطفال کلان تر زمانی صادقانه‌تر صحبت می‌کنند که مطمئن باشند گفته‌های‌شان بعداً علیه‌شان استفاده نمی‌شود.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Be kind to yourself if your children do not want to share their problems with you. 💙 Often, children are afraid to share as they are scared they will get in trouble. Getting upset with them won't help - keep showing you love them and give them time! 🌷",
+    "text": "اگر اطفال تان نخواستند مشکلات‌شان را با شما شریک سازند، خودتان را ملامت نکنید. 💙اغلب اطفال از شریک‌ساختن ترس دارند، چون می‌ترسند سرزنش شوند. عصبانی‌شدن کمکی نمی‌کند – به آن‌ها نشان دهید که دوست‌شان دارید و برای‌شان وقت بدهید! 🌷",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Express Yourself*",
+    "text": "* خود تان را ابراز کنید*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌈 This game can be played in pairs or as a group - stand facing each other or in a circle.",
+    "text": "🌈 این بازی را می‌توان دو نفری یا گروهی بازی کرد – رو‌به‌روی هم بایستید یا دایره تشکیل دهید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐Together, choose, a fun sound, or a clapping pattern to follow and choose a person to start the game by creating one simple movement. For example, raising their hand or nodding their head",
+    "text": "🎵 با هم صدای جالب یا الگوی کف زدن انتخاب کنید و یک نفر را برای آغاز بازی تعیین کنید تا یک حرکت ایجاد کند. بعنوان مثال، بالا کردن دست ها یا تکان دادن سر های شان",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 The person to their right must copy that movement and add their own move to it.",
+    "text": "👀 نفر سمت راست او باید آن حرکت را تکرار کرده و حرکت خودش را نیز به آن اضافه کند.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨ Go around the circle, each person adding a new movement",
+    "text": "✨ بصورت دایره ای بچرخید، هر نفر یک حرکت جدید اضافه کند",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 The first one who forgets someone's movement or does it in the wrong order chooses the next, sound, or pattern and starts the game again.",
+    "text": "🔄 اولین کسی که حرکات کسی را فراموش کند یا ترتیب را اشتباه برود، آهنگ یا صدای بعدی را انتخاب کرده و بازی را دوباره آغاز می‌کند.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉 Have fun trying out new movement with this game!",
+    "text": "🎉 با این بازی از امتحان‌کردن حرکات جدید لذت ببرید!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*2 Truths, 1 Lie*",
+    "text": "* 2 حقیقت، 1 دروغ*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "This is a fun, quick game, and the point of it is to learn things about each other. Make your answers as interesting as possible! 🎨",
+    "text": "این یک بازی سرگرم‌کننده و سریع است و هدف آن این است که چیزهایی درباره یکدیگر یاد بگیرید. جواب های تان را تا حد امکان جالب بسازید! 🎨",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Everyone thinks of 3 facts about themselves. 2 must be true, and 1 must be a lie. ",
+    "text": "💡 هر نفر باید 3 مورد درباره خودش بگوید. 2 مورد باید حقیقت داشته باشد و 1 مورد دروغ باشد. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔷 Here are some examples: I hate bananas, I enjoy dancing, and my favourite subject in school was maths.",
+    "text": "🔷 درینجا چند مثال آورده شده است: من از کیله بدم می‌آید، من از ورزش کردن خوشم می‌آید، مضمون مورد علاقه‌ام در مکتب ریاضی بود.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Share your facts with your children and ask them to guess which one is a lie. ",
+    "text": "👀 حقایق‌تان را با اطفال تان شریک کنید و از آن‌ها بخواهید حدس بزنند کدام یکی دروغ است. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Now ask them to do the same, and guess theirs.",
+    "text": "🔄 حالا از آن‌ها بخواهید همین کار را انجام دهند و شما حدس بزنید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Did you learn anything new about your children, or did they learn anything new about you? 💛",
+    "text": "آیا چیز جدیدی درباره اطفال تان یاد گرفتید؟ یا آن‌ها درباره شما؟ 💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Yes, No or Maybe*",
+    "text": "*بلی، نخیر یا شاید*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you tired of hearing your children say 'yes,' 'no,' or 'maybe' to all your questions? Turn your chat into a game and avoid one-word answers. 🎈",
+    "text": "از شنیدن جواب یک‌کلمه‌ای مثل «بله»، «نه» یا «شاید» از اطفال تان خسته شده‌اید؟ گفت‌وگو را به یک بازی تبدیل کنید و اجازه ندهید جواب یک‌کلمه‌ای داده شود! 🎈",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔴 Older children are known to give one-word answers to avoid talking. ",
+    "text": "🔴 اطفال کلانتر معمولاً برای جلوگیری از صحبت کردن، جواب های کوتاه می‌دهند. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 When you would like to really know how your children are doing",
+    "text": "💡 وقتی واقعاً می‌خواهید بدانید حال فرزندتان چطور است، گفتگو را به شکل بازی درآورید",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "you can turn your chat into a game. ",
+    "text": "گفتگو را به شکل بازی تبدیل کنید. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Take turns asking each other questions. The only rule is that you cannot use one-word responses like Yes, No, Maybe, Fine, and Okay.",
+    "text": "⭐ نوبتی از همدیگر سوال بپرسید. تنها قانون این است که هیچ‌کس اجازه ندارد فقط یک کلمه جواب بدهد؛ مثلاً بله، نه، شاید، خوب، یا قبول ممنوع است.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ You can ask about things your children like or what they did today. For example, how was your day? What are you excited about? Is there anything worrying you?",
+    "text": "⚽ می‌توانید درباره علایق فرزندتان یا کارهایی که امروز کرده سؤال کنید. مثلاً روزت چطور گذشت؟ از چی خوشحال هستی؟ چیزی هست که نگرانش باشی؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 It is important to let your children ask a question as well. Trust is built when your children can see that you are also sharing your life with them, not just trying to learn about their life.",
+    "text": "🔄 مهم است که به اطفال هم اجازه پرسیدن سوال بدهید. اعتماد زمانی ساخته می‌شود که اطفال ببینند شما نیز از زندگی خود شریک می‌سازید، نه فقط تلاش برای یاد گرفتن از آن‌ها.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Get Active*",
+    "text": "* فعال باشید*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Exercise is a great way to spend time together, and it is so good for your health. Find a sport or exercise activity that both you and your children want to do and try it out together! Be mindful of the safety of the space you are using for exercise. ",
+    "text": "ورزش یک راه عالی برای وقت‌گذرانی با هم و بسیار مفید برای سلامتی است. یک ورزش یا فعالیت فیزیکی پیدا کنید که هم شما و هم اطفال تان علاقه‌مند باشید، و با هم آن را امتحان کنید! حین انجام ورزش، به ایمنی مکانی که استفاده می‌کنید توجه داشته باشید. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Even walking for 10 minutes a day is good for you. ",
+    "text": "⏰ حتی 10 دقیقه پیاده‌روی در روز برای بدن مفید است. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽Together, try walking, running, dancing, stretching, playing games like hide-and-seek, or any other physical activities you enjoy.",
+    "text": "⚽ با هم امتحان کنید: پیاده‌روی، دویدن، حرکات کششی، بازی‌هایی مثل قایم‌ موشک یا هر فعالیت فیزیکی دیگری که لذت می‌برید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 Together, think of ways to make it even more fun. Can you run to a certain point? Take turns being the coach? Could there be a small, free reward, such as the opportunity to decide the next activity?",
+    "text": "🏆 با هم فکر کنید چطور می‌توانید این فعالیت‌ها را سرگرم‌کننده‌تر کنید. مثلاً می‌توانید مسابقه بگذارید تا یک نقطه خاص بدوید؟ نوبتی مربی باشید؟ یا پاداش خوردی بدهید، مثل اینکه نفر بعدی بازی را انتخاب کند؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌈 Exercise becomes easier and more enjoyable the more you do it. ",
+    "text": "🌈 هرچه بیشتر ورزش کنید، برای‌تان آسان‌تر و لذت‌بخش‌تر می‌شود. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 If you or your children do not like the first type of exercise you pick, try a new way to exercise.",
+    "text": "🔄 اگر شما یا اطفال تان از فعالیت اولی لذت نبردید، نوع دیگری از ورزش را امتحان کنید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Take a Pause With Your Children*",
+    "text": "* یک لحظه با اطفال تان مکث کنید*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Take a pause with your children. This helps them manage stress in a healthy way.",
+    "text": "با اطفال تا یک مکث کوتاه داشته باشید. این کار به آن‌ها کمک می‌کند تا فشارهای روانی را به شیوه‌ای سالم مدیریت کنند.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ You can take a pause together at any time, or try doing so at a specific time, such as before meals or bedtime.",
+    "text": "⏰شما می‌توانید در هر زمان، یا در زمان خاصی مانند پیش از صرف غذا یا هنگام خواب، این مکث را انجام دهید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Sit down together and close your eyes. Listen to your breath as it rises and falls. Notice how you feel. ",
+    "text": "👂با هم بنشینید و چشمان‌تان را ببندید. به نفس‌های‌تان گوش دهید، همان‌طور که داخل و خارج می‌شود. احساسات‌تان را در این لحظه در نظر بگیرید. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Take 5 more deep breaths.",
+    "text": "⭐ 5 نفس عمیق دیگر بکشید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 When you are ready, open your eyes again. Do you feel any different? ",
+    "text": "👀 وقتی آماده بودید، چشمان‌تان را باز کنید. آیا احساس متفاوتی دارید؟ ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏸ Ask your children what it was like to take a pause. Listen and accept whatever they say about it.",
+    "text": "از اطفال تان بپرسید که این مکث برای‌شان چگونه بود. به صحبت‌های‌شان گوش دهید و هر آنچه می‌گویند را با پذیرش کامل بپذیرید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*This Is Who I Am*",
+    "text": "*این من هستم*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Self-esteem refers to the way you value yourself, either positively or negatively. Helping your children have high self-esteem is a recipe for success! 🏆",
+    "text": "اعتماد به نفس یعنی چطور خودت را ارزش گذاری می‌کنی، چه به شکل مثبت و چه منفی. کمک کردن به اطفال تان برای داشتن اعتماد به نفس بالا، راه موفقیت است! 🏆",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐Share with your children 3 things you like about yourself!",
+    "text": "⭐ با اطفال تان 3 چیزی را که در خودتان دوست دارید، به اشتراک بگذارید!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3️⃣ Ask your children to tell you 3 things they like about themselves.",
+    "text": "3️⃣ از اطفال بخواهید 3 چیزی که در خودشان دوست دارند، برایتان بگویند.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "For example, I am great at treating others kindly. I am great at styling my hair. I am great at football. ⚽",
+    "text": "مثلاً: من در مهربانی با دیگران خوب هستم. من در مدل دادن به موهایم خوب هستم. من در فوتبال خوب هستم. ⚽",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If any of your children do not feel comfortable sharing these, ask them to write them down. 📝",
+    "text": "اگر اطفال تان راحت نیستند این‌ها را به زبان بیاورند، از آن‌ها بخواهید که آن‌ها را بنویسند. 📝",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Weekly Goal Setting*",
+    "text": "*تعیین اهداف هفتگی*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let's set some goals ⭐",
+    "text": "بیایید هدف‌هایی تعیین کنیم ⭐",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Setting smaller weekly goals that are easier to achieve can be helpful, especially when life feels uncertain. ",
+    "text": "⏰ تعیین هدف‌های خوردتر هفتگی که رسیدن به آن‌ها آسان‌تر است، مخصوصاً وقتی زندگی نامطمئن است، می‌تواند مفید باشد. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡Ask each of your children for one goal that they would like to achieve this week. ",
+    "text": "💡 از هر یک از اطفال تان بخواهید یک هدف که دوست دارند این هفته به آن برسند، بگویند. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Ensure this goal is both specific and achievable to reach within 1 week, such as practising deep breathing for 5 minutes every day, exercising for 10 minutes three times a week, journaling your feelings every night, or spending quality time with family or friends daily.",
+    "text": "🔄 مطمئن شوید که این هدف *خاص* و *قابل دسترس* باشد و بتوان ظرف 1 هفته به آن رسید، مثلاً: هر روز 5 دقیقه تمرین تنفس عمیق، سه بار در هفته 10 دقیقه ورزش، هر شب نوشتن احساسات، یا روزانه وقت با کیفیت گذراندن با خانواده یا دوستان.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 You can also share your own weekly goals with your children and support each other so you can both achieve your goals.",
+    "text": "💚 شما هم می‌توانید هدف‌های هفتگی خود را با اطفال به اشتراک بگذارید و از هم حمایت کنید تا هر دو به هدف‌هایتان برسید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉 Make sure to praise and celebrate your children for their hard work towards reaching their goals.",
+    "text": "🎉 حتماً تلاش اطفال تان برای رسیدن به هدف‌ها را تحسین و جشن بگیرید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔔 If your children do not reach their goals, that is okay. Discuss with them the steps they still need to take or how they could reach it a different way.",
+    "text": "🔔 اگر اطفال تان به هدفشان نرسیدند، مشکلی ندارد. با آن‌ها درباره مراحل باقی‌مانده یا روش‌های دیگر برای رسیدن به هدف صحبت کنید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*One-on-One Time*",
+    "text": "*فرصت یک به یک*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Spending time just with your children and taking an interest in them can improve your relationship. ",
+    "text": "💚 گذراندن وقت تنها با اطفال و نشان دادن علاقه به آن‌ها می‌تواند رابطه‌تان را بهبود بخشد. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 When your children are playing alone or occupying themselves, join them and show interest in what they are doing.",
+    "text": "👀 وقتی اطفال تان تنها بازی می‌کنند یا سرگرم خودشان هستند، به آن‌ها بپیوندید و به کاری که انجام می‌دهند علاقه نشان دهید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂Ask questions about their activity and listen to them.",
+    "text": "👂 درباره فعالیتشان سوال بپرسید و به آن‌ها گوش دهید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let your children lead the activity and follow them to build their confidence and autonomy. 😃",
+    "text": "بگذارید اطفال تان فعالیت را هدایت کنند و دنبالشان کنید تا اعتماد به نفس و استقلال شان تقویت شود. 😃",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Say what you see - describing everything and supporting your children's actions.",
+    "text": "👀 آنچه می‌بینید بگویید — همه چیز را توصیف کنید و از اقدامات اطفال حمایت کنید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Be positive, praise your children and enjoy spending this time with them. 😃💚",
+    "text": "مثبت باشید، اطفال تان را تحسین کنید و از گذراندن این زمان با آن‌ها لذت ببرید. 😃💚",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Animals*",
+    "text": "*حیوانات*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "**Active Animals** ",
+    "text": "**حیوانات فعال** ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Take turns with your children doing animal actions. You might hop like a frog, stretch like a cat, run like a dog, slither like a snake, or flap like a bird. Add your own actions and animals!",
+    "text": "نوبتی با اطفال تان حرکات حیوانات را انجام دهید. می‌توانید مثل قورباغه بپرید، مثل گربه کش بیایید، مثل سگ بدوید، مثل مار بخزید یا مثل پرنده بال بزنید. حرکات و حیوانات خودتان را هم اضافه کنید!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡**All the Animals We Can Think Of** ",
+    "text": "💡**تمام حیواناتی که می‌توانیم فکر کنیم** ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Consider groups of animals and discuss them with your children! ",
+    "text": "درباره گروه‌های مختلف حیوانات فکر کنید و با اطفال تان درباره آن‌ها صحبت کنید! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What are all the animals we can think of that have feathers? What are all the animals we can think of that eat plants? What animals can we think of that lay eggs?",
+    "text": "چه حیواناتی را می‌توانیم فکر کنیم که پر دارند؟ چه حیواناتی گیاه می‌خورند؟ چه حیواناتی را می‌توانیم فکر کنیم که تخم می‌گذارند؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Active Counting*",
+    "text": "*شمارش فعال*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👋 Clap, hop, jump: Play the following game with your children. Make it active!",
+    "text": "👋 دست بزنید، بپرید، جست زنید: این بازی را با اطفال تان انجام دهید و آن را فعال نگه دارید!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1️⃣ Clap hands 1 time. ",
+    "text": "1️⃣ 1 بار دست بزنید. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2️⃣ Clap hands 2 times.",
+    "text": "2️⃣ 2 بار دست بزنید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1️⃣ Jump 1 time. ",
+    "text": "1️⃣ 1 بار بپرید. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2️⃣ Jump 2 times.",
+    "text": "2️⃣ 2 بار بپرید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1️⃣ Hop 1 time.",
+    "text": "1️⃣ 1 بار یکپاه راه بروید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3️⃣ Hop 3 times.",
+    "text": "3️⃣ 3 بار به یکپاه راه بروید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Can you hop, then jump, then clap? ",
+    "text": "💡 می‌توانید ابتدا به یکپاه راه بروید، سپس بپرید و بعد دست بزنید؟ ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 Can you clap twice, jump once, and hop three times?",
+    "text": "🏆 می‌توانید دو بار دست بزنید، یک بار بپرید و سه بار جهش کنید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Remembering Instructions",
+    "text": "💡 به خاطر سپردن هدیات",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Take turns playing a game where you give 2-3 instructions that the other person has to remember to follow. Make sure physical movement is included!",
+    "text": "نوبتی بازی کنید که یکی 2-3 دستور می‌دهد و دیگری باید آن‌ها را به یاد داشته باشد و اجرا کند. حتما حرکات فیزیکی را داخلش بگنجانید!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "For example:",
+    "text": "بعنوان مثال:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Hop twice, turn around.",
+    "text": "دوبار یکپاه راه بروید، و بچرخید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Jump to the kitchen, pick up a spoon, then run back. ✅",
+    "text": "بپر به آشپزخانه، یک قاشق بردار، سپس بدو برگرد. ✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Animal Acting*",
+    "text": "*تقلید از حیوانات*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Get ready to roar like a lion or hop like a kangaroo! This fun and active game helps kids develop physical skills while also supporting speech and language development.",
+    "text": "آماده‌اید مانند شیر غرش کنید یا مثل کانگورو بپرید؟ این بازی فعال و جالب نه‌تنها برای اطفال کمک می‌کند تا توانایی‌های بدنی‌شان را پرورش دهند، بلکه باعث رشد مهارت‌های زبانی و گفتاری آنان نیز می‌شود.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Each player picks an animal of their choice. Then, take turns acting out the animal—can you mimic its sounds and movements? Roar, jump, crawl, or fly just like the animal you picked!",
+    "text": "هر بازیکن یک حیوان دلخواه خود را انتخاب می‌کند. سپس به نوبت نقش آن حیوان را بازی کنید — آیا می‌توانید صدای آن را بیاورید و حرکاتش را تقلید کنید؟ مثل حیوانی که انتخاب کرده‌اید، غرش کنید، بپرید، بخزید یا پرواز کنید!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "For older kids, turn it into a fun guessing game—see if others can guess which animal you’re pretending to be!",
+    "text": "برای کودکان کلان تر، این بازی را به یک بازی حدس‌زدنی جالب تبدیل کنید — ببینید آیا دیگران می‌توانند حدس بزنند که شما نقش کدام حیوان را بازی می‌کنید!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It’s a great way to get moving, learn, and have fun together!",
+    "text": "این یک روش عالی برای تحرک داشتن، یادگیری و لذت بردن در کنار یکدیگر است!",
+    "type": "text",
+    "note": ""
+  }
+]
