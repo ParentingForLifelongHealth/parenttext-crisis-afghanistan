@@ -3,62 +3,313 @@
     "version": "0.1.0"
   },
   "sheets": {
+    "READ THIS": [
+      {
+        "-": ""
+      },
+      {
+        "-": ""
+      },
+      {
+        "-": "This is a unique id for each start word. Do not edit this column"
+      },
+      {
+        "-": "A clear explanation of what the start word does and who it is for. Proposed by PLH for your review & suggestions. "
+      },
+      {
+        "-": "Write the start word in English "
+      },
+      {
+        "-": "Write the start word in your local language"
+      },
+      {
+        "-": "Select hybrid if a facilitator is supporting the user experience in any way — whether in person or remotely (e.g. via phone calls, WhatsApp guidance, or in-person sessions). Example: Parents are introduced to the chatbot by a facilitator during an in-person group session or receive onboarding support via WhatsApp group call. \n\nSelect digital if there is no facilitator support at all — parents engage with the chatbot completely on their own through remote channels. Example: Parents click a link shared in a public WhatsApp group and start using the chatbot without any assistance."
+      },
+      {
+        "-": "This field identifies how the user was recruited or introduced to the chatbot. It determines how data will be filtered on dashboards or used for disaggregation (e.g. by partner, pathway, or wave).\n        •        If a single partner has multiple recruitment pathways (such as CFS sessions, WhatsApp campaigns, or hotline referrals), create a unique start word for each pathway.\n        •        In the Description column, briefly explain the recruitment method for that start word (e.g. “Wave 1 parents recruited through CFS Dnipro sessions”).\n\nPLH will use this field to assign the correct user group tags for dashboard filtering."
+      },
+      {
+        "-": "Ignore this field "
+      },
+      {
+        "-": "Do not edit this column"
+      },
+      {
+        "-": "This is the maximum number of users allowed to enter the chatbot through this start word.\n        •        Once this number is reached, new users will be placed on a waiting list and will receive a message letting them know the chatbot is full for now.\n        •        If we see that some parents have dropped out during implementation, the cap can be increased to allow more users in.\n        •        When the cap is raised, the chatbot will automatically send a message to those on the waiting list, inviting them to begin.\n\nTo increase the cap during implementation, please reach out to Deepali."
+      },
+      {
+        "-": "Only applicable if you are working with multiple partners. Ignore for WVI"
+      },
+      {
+        "-": "Once the chatbot is ready, a link will be added here for the chatbot with the start word pre-entered.\nThis link can be shared directly with users or field staff to ensure they enter the correct version of the chatbot.\nThis helps reduce user error and ensures clean data by routing people through the correct entry point. The team can copy and share these links with the relevant on-the-ground staff once available."
+      },
+      {
+        "-": ""
+      },
+      {
+        "-": ""
+      },
+      {
+        "-": ""
+      },
+      {
+        "-": ""
+      }
+    ],
     "JoiningTriggers": [
       {
-        "ID": "testers",
-        "Trigger (en)": "test",
-        "Trigger (lan)": "",
-        "Link (en)": "",
-        "Link (lan)": "",
+        "ID": "test_en",
+        "Description": "Joining trigger for testers who do not speak Dari: This Joining trigger initiates the English version of the chatbot, which is only available for internal testing by the PLH and IDEMS teams. It is not visible or accessible to end users.",
+        "Trigger (en)": "test_eng",
+        "Trigger (prs)": "",
         "Experience (user group)": "digital",
         "Recruitment (user group)": "",
         "Additional (user group)": "",
         "Included in Reach? ": "",
         "Cap Users At": "",
         "Location, if applicable": "",
-        "Description": ""
+        "Link (en)": "",
+        "Link (lan)": ""
       },
       {
-        "ID": "group_a",
-        "Trigger (en)": "trigger_a",
-        "Trigger (lan)": "",
-        "Link (en)": "",
-        "Link (lan)": "",
+        "ID": "test_dari",
+        "Description": "Joining trigger for testers only and initates the chatbot in Dari. If you are not a caregiver and are testing the chatbot, please use this Joining trigger to use the chatbot. This helps ensure that real user data is not mixed with test data.",
+        "Trigger (en)": "test_dari",
+        "Trigger (prs)": "",
         "Experience (user group)": "digital",
-        "Recruitment (user group)": "Group_A",
+        "Recruitment (user group)": "",
         "Additional (user group)": "",
-        "Included in Reach? ": "reach",
-        "Cap Users At": "1000",
+        "Included in Reach? ": "",
+        "Cap Users At": "",
         "Location, if applicable": "",
-        "Description": ""
+        "Link (en)": "",
+        "Link (lan)": ""
       },
       {
-        "ID": "group_b",
-        "Trigger (en)": "trigger_b",
-        "Trigger (lan)": "",
-        "Link (en)": "",
-        "Link (lan)": "",
-        "Experience (user group)": "digital",
-        "Recruitment (user group)": "Group_B",
+        "ID": "af_wave_1_1",
+        "Description": "Joining trigger for parents in Zendajan who are part of wave 1 and recruited from Cheen Kalagh Village",
+        "Trigger (en)": "Healthy",
+        "Trigger (prs)": "صحت",
+        "Experience (user group)": "hybrid",
+        "Recruitment (user group)": "Wave 1",
         "Additional (user group)": "",
         "Included in Reach? ": "reach",
-        "Cap Users At": "1000",
-        "Location, if applicable": "",
-        "Description": ""
+        "Cap Users At": "35",
+        "Location, if applicable": "Cheen Kalagh Village",
+        "Link (en)": "",
+        "Link (lan)": ""
       },
       {
-        "ID": "group_c",
-        "Trigger (en)": "trigger_c",
-        "Trigger (lan)": "",
-        "Link (en)": "",
-        "Link (lan)": "",
-        "Experience (user group)": "digital",
-        "Recruitment (user group)": "Group_C",
+        "ID": "af_wave_1_2",
+        "Description": "Joining trigger for parents in Zendajan who are part of wave 1 and recruited from Cheshma Ghori village",
+        "Trigger (en)": "Hope",
+        "Trigger (prs)": "امید",
+        "Experience (user group)": "hybrid",
+        "Recruitment (user group)": "Wave 1",
         "Additional (user group)": "",
         "Included in Reach? ": "reach",
-        "Cap Users At": "1000",
-        "Location, if applicable": "",
-        "Description": ""
+        "Cap Users At": "39",
+        "Location, if applicable": "Cheshma Ghori village",
+        "Link (en)": "",
+        "Link (lan)": ""
+      },
+      {
+        "ID": "af_wave_1_3",
+        "Description": "Joining trigger for parents in Zendajan who are part of wave 1 and recruited from Koshkak village",
+        "Trigger (en)": "Child",
+        "Trigger (prs)": "طفل",
+        "Experience (user group)": "hybrid",
+        "Recruitment (user group)": "Wave 1",
+        "Additional (user group)": "",
+        "Included in Reach? ": "reach",
+        "Cap Users At": "127",
+        "Location, if applicable": "Koshkak village",
+        "Link (en)": "",
+        "Link (lan)": ""
+      },
+      {
+        "ID": "af_wave_1_4",
+        "Description": "Joining trigger for parents in Zendajan who are part of wave 1 and recruited from Koshkak village",
+        "Trigger (en)": "Care",
+        "Trigger (prs)": "مواظبت",
+        "Experience (user group)": "hybrid",
+        "Recruitment (user group)": "Wave 1",
+        "Additional (user group)": "",
+        "Included in Reach? ": "reach",
+        "Cap Users At": "48",
+        "Location, if applicable": "Koshkak village",
+        "Link (en)": "",
+        "Link (lan)": ""
+      },
+      {
+        "ID": "af_wave_1_5",
+        "Description": "Joining trigger for parents in Zendajan who are part of wave 1 and recruited from Nayeb Rafee village",
+        "Trigger (en)": "light",
+        "Trigger (prs)": "روشن",
+        "Experience (user group)": "hybrid",
+        "Recruitment (user group)": "Wave 1",
+        "Additional (user group)": "",
+        "Included in Reach? ": "reach",
+        "Cap Users At": "52",
+        "Location, if applicable": "Nayeb Rafee village",
+        "Link (en)": "",
+        "Link (lan)": ""
+      },
+      {
+        "ID": "af_wave_2_1",
+        "Description": "Joining trigger for parents in Zendajan who are part of wave 2 and recruited from Siaab village",
+        "Trigger (en)": "Happy",
+        "Trigger (prs)": "خوشحال",
+        "Experience (user group)": "hybrid",
+        "Recruitment (user group)": "Wave 2",
+        "Additional (user group)": "",
+        "Included in Reach? ": "reach",
+        "Cap Users At": "99",
+        "Location, if applicable": "Siaab village",
+        "Link (en)": "",
+        "Link (lan)": ""
+      },
+      {
+        "ID": "af_wave_2_2",
+        "Description": "Joining trigger for parents in Zendajan who are part of wave 2 and recruited from Sarboland village",
+        "Trigger (en)": "Faith",
+        "Trigger (prs)": "ایمان",
+        "Experience (user group)": "hybrid",
+        "Recruitment (user group)": "Wave 2",
+        "Additional (user group)": "",
+        "Included in Reach? ": "reach",
+        "Cap Users At": "99",
+        "Location, if applicable": "Sarboland village",
+        "Link (en)": "",
+        "Link (lan)": ""
+      },
+      {
+        "ID": "af_wave_2_3",
+        "Description": "Joining trigger for parents in Zendajan who are part of wave 2 and recruited from Qala Noak Village",
+        "Trigger (en)": "Life",
+        "Trigger (prs)": "زندگی",
+        "Experience (user group)": "hybrid",
+        "Recruitment (user group)": "Wave 2",
+        "Additional (user group)": "",
+        "Included in Reach? ": "reach",
+        "Cap Users At": "27",
+        "Location, if applicable": "Qala Noak Village",
+        "Link (en)": "",
+        "Link (lan)": ""
+      },
+      {
+        "ID": "af_wave_2_4",
+        "Description": "Joining trigger for parents in Zendajan who are part of wave 2 and recruited from Eaz Qalak Village",
+        "Trigger (en)": "Motivation",
+        "Trigger (prs)": "انگیزه",
+        "Experience (user group)": "hybrid",
+        "Recruitment (user group)": "Wave 2",
+        "Additional (user group)": "",
+        "Included in Reach? ": "reach",
+        "Cap Users At": "29",
+        "Location, if applicable": "Eaz Qalak Village",
+        "Link (en)": "",
+        "Link (lan)": ""
+      },
+      {
+        "ID": "af_wave_2_5",
+        "Description": "Joining trigger for parents in Zendajan who are part of wave 2 and recruited from Kernail Village",
+        "Trigger (en)": "Determination",
+        "Trigger (prs)": "اراده",
+        "Experience (user group)": "hybrid",
+        "Recruitment (user group)": "Wave 2",
+        "Additional (user group)": "",
+        "Included in Reach? ": "reach",
+        "Cap Users At": "45",
+        "Location, if applicable": "Kernail Village",
+        "Link (en)": "",
+        "Link (lan)": ""
+      }
+    ],
+    "joining_triggers_data": [
+      {
+        "ID": "test_en",
+        "triggers": "test_eng",
+        "groups": "digital",
+        "cap": "",
+        "location": ""
+      },
+      {
+        "ID": "test_dari",
+        "triggers": "test_dari",
+        "groups": "digital",
+        "cap": "",
+        "location": ""
+      },
+      {
+        "ID": "af_wave_1_1",
+        "triggers": "Healthy;صحت",
+        "groups": "hybrid;Wave 1;reach",
+        "cap": "35",
+        "location": "Cheen Kalagh Village"
+      },
+      {
+        "ID": "af_wave_1_2",
+        "triggers": "Hope;امید",
+        "groups": "hybrid;Wave 1;reach",
+        "cap": "39",
+        "location": "Cheshma Ghori village"
+      },
+      {
+        "ID": "af_wave_1_3",
+        "triggers": "Child;طفل",
+        "groups": "hybrid;Wave 1;reach",
+        "cap": "127",
+        "location": "Koshkak village"
+      },
+      {
+        "ID": "af_wave_1_4",
+        "triggers": "Care;مواظبت",
+        "groups": "hybrid;Wave 1;reach",
+        "cap": "48",
+        "location": "Koshkak village"
+      },
+      {
+        "ID": "af_wave_1_5",
+        "triggers": "light;روشن",
+        "groups": "hybrid;Wave 1;reach",
+        "cap": "52",
+        "location": "Nayeb Rafee village"
+      },
+      {
+        "ID": "af_wave_2_1",
+        "triggers": "Happy;خوشحال",
+        "groups": "hybrid;Wave 2;reach",
+        "cap": "99",
+        "location": "Siaab village"
+      },
+      {
+        "ID": "af_wave_2_2",
+        "triggers": "Faith;ایمان",
+        "groups": "hybrid;Wave 2;reach",
+        "cap": "99",
+        "location": "Sarboland village"
+      },
+      {
+        "ID": "af_wave_2_3",
+        "triggers": "Life;زندگی",
+        "groups": "hybrid;Wave 2;reach",
+        "cap": "27",
+        "location": "Qala Noak Village"
+      },
+      {
+        "ID": "af_wave_2_4",
+        "triggers": "Motivation;انگیزه",
+        "groups": "hybrid;Wave 2;reach",
+        "cap": "29",
+        "location": "Eaz Qalak Village"
+      },
+      {
+        "ID": "af_wave_2_5",
+        "triggers": "Determination;اراده",
+        "groups": "hybrid;Wave 2;reach",
+        "cap": "45",
+        "location": "Kernail Village"
       }
     ],
     "content_index": [
@@ -93,56 +344,26 @@
         "tags.3": ""
       }
     ],
-    "joining_triggers_data": [
-      {
-        "ID": "testers",
-        "triggers": "test",
-        "groups": "digital",
-        "cap": "",
-        "location": ""
-      },
-      {
-        "ID": "group_a",
-        "triggers": "trigger_a",
-        "groups": "digital;Group_A;reach",
-        "cap": "1000",
-        "location": ""
-      },
-      {
-        "ID": "group_b",
-        "triggers": "trigger_b",
-        "groups": "digital;Group_B;reach",
-        "cap": "1000",
-        "location": ""
-      },
-      {
-        "ID": "group_c",
-        "triggers": "trigger_c",
-        "groups": "digital;Group_C;reach",
-        "cap": "1000",
-        "location": ""
-      }
-    ],
     "cap_data": [
       {
-        "ID": "testers",
-        "var_key": "n_testers",
+        "ID": "test_en",
+        "var_key": "n_test_en",
         "var_value": ""
       },
       {
-        "ID": "group_a",
-        "var_key": "n_group_a",
-        "var_value": "1000"
+        "ID": "test_dari",
+        "var_key": "n_test_dari",
+        "var_value": ""
       },
       {
-        "ID": "group_b",
-        "var_key": "n_group_b",
-        "var_value": "1000"
+        "ID": "#REF!",
+        "var_key": "#REF!",
+        "var_value": "#REF!"
       },
       {
-        "ID": "group_c",
-        "var_key": "n_group_c",
-        "var_value": "1000"
+        "ID": "#REF!",
+        "var_key": "#REF!",
+        "var_value": "#REF!"
       }
     ]
   }

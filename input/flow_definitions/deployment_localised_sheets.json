@@ -125,6 +125,21 @@
         "tags.3": ""
       },
       {
+        "type": "create_triggers",
+        "sheet_name": "testing_triggers",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "",
+        "template_arguments": "",
+        "operation": "",
+        "status": "",
+        "group": "",
+        "tags.1": "trigger",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
         "type": "create_flow",
         "sheet_name": "demo_ltp_activity",
         "data_sheet": "",
@@ -133,7 +148,7 @@
         "data_model": "",
         "template_arguments": "ltp_activity_data",
         "operation": "",
-        "status": "draft",
+        "status": "",
         "group": "",
         "tags.1": "ltp_activity",
         "tags.2": "",
@@ -200,6 +215,50 @@
         "tags.3": ""
       }
     ],
+    "testing_triggers": [
+      {
+        "type": "K",
+        "keywords": "reset",
+        "match_type": "O",
+        "flow": "reset_variables",
+        "groups": ""
+      },
+      {
+        "type": "K",
+        "keywords": "newday",
+        "match_type": "O",
+        "flow": "campaign_demo",
+        "groups": ""
+      },
+      {
+        "type": "K",
+        "keywords": "test_ltp",
+        "match_type": "O",
+        "flow": "demo_ltp_activity",
+        "groups": ""
+      },
+      {
+        "type": "K",
+        "keywords": "test_module",
+        "match_type": "O",
+        "flow": "demo_module - lang_media_gender_onb_survey",
+        "groups": ""
+      },
+      {
+        "type": "K",
+        "keywords": "test_pause",
+        "match_type": "O",
+        "flow": "demo_pause - lang_media_gender_onb_survey",
+        "groups": ""
+      },
+      {
+        "type": "K",
+        "keywords": "test_survey",
+        "match_type": "O",
+        "flow": "test_surveys",
+        "groups": ""
+      }
+    ],
     "goal_data": [
       {
         "ID": "core",
@@ -217,7 +276,7 @@
         "age": "0|1|2|3| 4 | 5 | 6 | 7 | 8 | 9|10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Care for Yourself",
-        "name.prs": "Translation needed"
+        "name.prs": "از خودتان مراقبت کنید"
       },
       {
         "ID": "make_a_routine",
@@ -226,7 +285,7 @@
         "age": "0|1|2|3| 4 | 5 | 6 | 7 | 8 | 9|10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Make a Routine for Time Together",
-        "name.prs": "Translation needed"
+        "name.prs": "یک برنامه وقت گذراندن با همدیگر بسازید"
       },
       {
         "ID": "help_children_cope",
@@ -235,7 +294,7 @@
         "age": "0|1|2|3| 4 | 5 | 6 | 7 | 8 | 9|10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Help Children Cope with Crisis",
-        "name.prs": "Translation needed"
+        "name.prs": "به اطفال برای مقابله با بحران ها کمک کنید"
       },
       {
         "ID": "when_someone_dies",
@@ -244,7 +303,7 @@
         "age": "0|1|2|3| 4 | 5 | 6 | 7 | 8 | 9|10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Help Children when Someone Dies",
-        "name.prs": "Translation needed"
+        "name.prs": "به اطفال زمانی کسی وفات میکند کمک کنید"
       },
       {
         "ID": "protect_sexual_violence",
@@ -253,7 +312,7 @@
         "age": "0|1|2|3| 4 | 5 | 6 | 7 | 8 | 9|10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Protect our Children from Sexual Violence",
-        "name.prs": "Translation needed"
+        "name.prs": "اطفال مان را از خشونت جنسی محافظت کنیم"
       },
       {
         "ID": "keep_children_safe",
@@ -262,7 +321,7 @@
         "age": "0|1|2|3| 4 | 5 | 6 | 7 | 8 | 9|10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Keep Children Safe",
-        "name.prs": "Translation needed"
+        "name.prs": "اطفال را مصئون نگه دارید"
       },
       {
         "ID": "protect_from_traffickers",
@@ -271,7 +330,7 @@
         "age": "0|1|2|3| 4 | 5 | 6 | 7 | 8 | 9|10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Protect Your Children from Traffickers",
-        "name.prs": "Translation needed"
+        "name.prs": "از اطفال تان در برابر قاچاقچیان محافظت کنید"
       },
       {
         "ID": "care_in_a_shelter",
@@ -280,7 +339,7 @@
         "age": "0|1|2|3| 4 | 5 | 6 | 7 | 8 | 9|10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Care for your Children in a Shelter",
-        "name.prs": "Translation needed"
+        "name.prs": "از اطفال تان در پناهگاه محافظت کنید"
       },
       {
         "ID": "healthy_farm",
@@ -289,7 +348,7 @@
         "age": "0|1|2|3| 4 | 5 | 6 | 7 | 8 | 9|10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Healthy Farms, Strong Families",
-        "name.prs": "Translation needed"
+        "name.prs": "مزارع سالم، خانواده های نیرومند"
       }
     ],
     "goal_topic_link": [

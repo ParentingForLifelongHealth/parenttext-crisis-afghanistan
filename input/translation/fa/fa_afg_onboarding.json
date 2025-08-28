@@ -1,1 +1,476 @@
-[]
+[
+  {
+    "SourceText": "variables have been reset",
+    "text": "تنظیمات به حالت اولیه برگشته اند",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Variables have been reset",
+    "text": "متغییرها مجدداً تنظیم شدند",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It looks like this is not a good time. Please type 1 if you'd like to continue.",
+    "text": "به نظر می‌رسد اکنون زمان مناسبی نیست. اگر می‌خواهید ادامه دهید، لطفاً عدد 1 را وارد کنید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Please select your language:",
+    "text": ":Please select your language\nلطفاً زبان خود را انتخاب کنید:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean.",
+    "text": "معذرت، متوجه منظورتان نشدم.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome to {prog_name}. Every parent everywhere needs support. We hope we can help. 💚",
+    "text": "به {prog_name} خوش آمدید. هر پدر و مادری در هر جای دنیا به حمایت نیاز دارد. امیدواریم بتوانیم به شما کمک کنیم. 💚",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ In {prog_name} you'll receive lessons to help you support your child through tough times.",
+    "text": "✅ در {prog_name}، توصیه‌هایی دریافت خواهید کرد که به شما کمک می‌کنند در دوران سخت از اطفال‌تان حمایت کنید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🧡 You are a great parent. Thank you for joining us. ",
+    "text": "🧡 شما یک والد فوق‌العاده هستید. تشکر که به ما پیوستید. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ Participating in {prog_name} is optional.",
+    "text": "✅ شرکت در {prog_name} اختیاری است.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ We won’t ever ask for your name. Anything you share is safe, private, and anonymous.",
+    "text": "✅ ما هرگز نام شما را نمی‌پرسیم. هر چیزی که به اشتراک می‌گذارید ایمن، خصوصی و ناشناس است.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅Your anonymous information may also be shared with others working to help families like yours build strength and hope in tough times. All your information will be private and can’t be linked back to you.",
+    "text": "✅ معلومات ناشناس شما ممکن است با دیگرانی که در تلاش برای کمک به خانواده‌هایی مانند شما هستند، به اشتراک گذاشته شود. همه معلومات شما خصوصی باقی می‌ماند و قابل شناسایی نخواهد بود.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❌You can stop when you want. Just type {STOP}",
+    "text": "❌ هر زمان که خواستید، می‌توانید متوقف کنید. فقط کلمه {STOP} را بنویسید",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ To read our privacy policy, visit {consent}. If you are over 16 and consent to our privacy policy, select YES. Type \"EXIT\" if you do not want to participate.",
+    "text": "✅ برای خواندن سیاست حفظ حریم خصوصی ما، به {consent} مراجعه کنید. اگر بالای 16 سال هستید و با سیاست ما موافقید، گزینه \"YES\" را انتخاب کنید. اگر نمی‌خواهید شرکت کنید، \"EXIT\" را بنویسید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please press NO. If you made a mistake, please press BACK and choose another option.",
+    "text": "آیا مطمئن هستید که نمی‌خواهید این پیام‌ها را دریافت کنید؟ اگر نمی‌خواهید دیگر پیام‌ها را دریافت کنید، \"NO\" را فشار دهید. اگر مایلید و اشتباهاً انتخاب کرده اید، گزینه \"BACK\" را فشار دهید و انتخاب دیگری انجام دهید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay. If you decide you want these tips later, type {joining_trigger}.",
+    "text": "درست است. اگر بعداً تصمیم گرفتید که می‌خواهید این توصیه‌ها را دریافت کنید، {joining_trigger} را بنویسید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you! To complete this programme, you won’t be alone. You’ll have a parenting guide by your side. There are two supportive parenting experts you can choose from:",
+    "text": "تشکر! برای کامل کردن این برنامه، تنها نخواهید بود. یک راهنمای والدگری در کنار شما خواهد بود. شما می‌توانید از بین دو متخصص حمایتگر والدگری یکی را انتخاب کنید:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "<avatar description>",
+    "text": "<avatar description>",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Who would you like to be your guide?",
+    "text": "چه کسی را به‌عنوان راهنمای خود انتخاب می‌کنید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❔Before we get started, we have a few questions to make this journey personalised:",
+    "text": "❔ قبل از شروع، چند سؤال داریم تا این مسیر را شخصی‌سازی کنیم:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How old are you?",
+    "text": "چند ساله هستید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you a WOMAN or MAN?",
+    "text": "زن هستید یا مرد؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What is your relationship status?",
+    "text": "وضعیت مدنی تان چیست؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How many children do you take care of?",
+    "text": "چند طفل را تحت مراقبت دارید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "These tips are designed for those who look after children. Would you still like to receive the tips so you can share the advice with friends and family?",
+    "text": "این توصیه‌ها برای کسانی طراحی شده‌اند که از اطفال مراقبت می‌کنند. آیا هنوز مایل هستید این توصیه‌ها را دریافت کنید تا بتوانید آن‌ها را با دوستان و خانواده به اشتراک بگذارید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for your time. If you decide you want these tips later, type {joining_trigger}.",
+    "text": "تشکر از وقتی که گذاشتید. اگر بعداً خواستید این توصیه‌ها را دریافت کنید، {joining_trigger} را بنویسید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📍 Where are you located?",
+    "text": "محل زندگی تان کجاست؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📲 How would you prefer to receive content — with audio guides, with video guides, or just text?",
+    "text": "📲 ترجیح می‌دهید مطالب را به چه صورتی دریافت کنید — با راهنمای صوتی، با راهنمای تصویری، یا فقط متن؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thanks for answering our questions. We're ready to get started. 💚",
+    "text": "تشکر از پاسخگویی به سؤالات ما. آماده‌ایم تا شروع کنیم. 💚",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "To start, you can watch this video to learn about {prog_name}.",
+    "text": "برای شروع می‌توانید این ویدیو را ببینید تا درباره {prog_name} بیشتر بدانید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "English",
+    "text": "انگلیسی",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Dari",
+    "text": "دری",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "YES",
+    "text": "بلی",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "NO",
+    "text": "نخیر",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "BACK",
+    "text": "بازگشت",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "NEXT",
+    "text": "NEXT",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Female Name Placeholder",
+    "text": "نام پیش فرض زنانه",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Male Name Placeholder",
+    "text": "نام پیش فرض مردانه",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Under 18 years",
+    "text": "زیر 18 سال",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Over 18 years",
+    "text": "بالای 18 سال",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Woman",
+    "text": "زن",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Man",
+    "text": "مرد",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Single (not in a relationship)",
+    "text": "مجرد (تنها)",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Married",
+    "text": "متأهل",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Widowed",
+    "text": "بیوه",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "no",
+    "text": "نخیر",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Prefer not to say",
+    "text": "ترجیع میدهم جواب ندهم",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "None",
+    "text": "هیچکدام",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "One to three",
+    "text": "بین یک و سه",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "More than four",
+    "text": "بیشتر از چهار",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I want the tips",
+    "text": "توصیه ها را میخواهم",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I do not want the tips",
+    "text": "توصیه ها را نمیخواهم",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Sarboland Village",
+    "text": "قریه سربلند",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Video",
+    "text": "ویدیو",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Audio",
+    "text": "صوتی",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Text / Images",
+    "text": "متن/تصاویر",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "english",
+    "text": "انگلیسی",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "dari",
+    "text": "دری",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes",
+    "text": "بلی",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "exit",
+    "text": "خروج",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "back",
+    "text": "بازگشت",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no",
+    "text": "نخیر",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "female name placeholder",
+    "text": "نام پش فرض زنانه",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "male name placeholder",
+    "text": "نام پیش فرض مردانه",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "under 18 years",
+    "text": "زیر 18 سال",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "over 18 years",
+    "text": "بالای 18 سال",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "woman",
+    "text": "زن",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "man",
+    "text": "مرد",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "single (not in a relationship)",
+    "text": "مجرد (تنها)",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "married",
+    "text": "متأهل",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "widowed",
+    "text": "بیوه",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "prefer not to say",
+    "text": "ترجیع میدهم پاسخ ندهم",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "none",
+    "text": "هیچکدام",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "one to three",
+    "text": "بین یک و سه",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "more than four",
+    "text": "بیشتر از چهار",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i want the tips",
+    "text": "من توصیه ها را میخواهم",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i do not want the tips",
+    "text": "من توصیه ها را نمی خواهم",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "video",
+    "text": "ویدیو",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "audio",
+    "text": "صوتی",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "text / images",
+    "text": "متن/تصاویر",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+]

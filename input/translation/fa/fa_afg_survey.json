@@ -1,0 +1,686 @@
+[
+  {
+    "SourceText": "It looks like this is not a good time. Please type 1 if you'd like to continue.",
+    "text": "به نظر می‌رسد که فعلا زمان مناسبی نیست. لطفاً اگر می‌خواهید ادامه بدهید، عدد 1 را بنویسید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You will continue with your progress tomorrow.",
+    "text": "شما فردا ادامه‌ی روند خود را دریافت خواهید کرد.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Can you believe it’s been a month? ⏳",
+    "text": "باور می‌کنید که یک ماه گذشته؟ ⏳",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "We’d love to check in and see how you’re doing ❤️. It’ll take less than 5 minutes.",
+    "text": "خیلی خوشحال می‌شویم بدانیم حال‌تان چطور است ❤️. کمتر از ۵ دقیقه زمان می‌برد.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Is now a good time? 🙂",
+    "text": "آیا حالا وقت مناسبی هست؟ 🙂",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Press a number on your keypad: ",
+    "text": "لطفاً یکی از گزینه‌ها را از صفحه کلید خود انتخاب کنید: ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1. Yes",
+    "text": "1. بلی",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2. No",
+    "text": "2. نخیر",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay.",
+    "text": "مشکلی ندارد، صحیست.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean.",
+    "text": "متاسفم، متوجه منظور تان نشدم.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Variables have been reset",
+    "text": "متغییرها مجدداً تنظیم شدند",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Which survey would you like to test?",
+    "text": "میخواهید کدام نظر سنجی را امتحان کنید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1. baseline",
+    "text": "1. اولیه",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2. feedback",
+    "text": "2. بازخورد",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3. endline",
+    "text": "3. نهایی",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "4. 1 month",
+    "text": "4. 1 ماه",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "5. Exit demo",
+    "text": "5. خروج از نسخه آزمایشی",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Bye for now!",
+    "text": "برای فعلاً خدا نگهدار!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry, I don't understand",
+    "text": "معذرت، متوجه نشدم",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "We’ll ask 3 quick questions first 💬",
+    "text": "ابتدا 3 سوال کوتاه می‌پرسیم 💬",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "This helps us share tips that are right for families like yours ❤️ 🕊️",
+    "text": "این کار کمک می‌کند توصیه های متناسب با خانواده‌هایی مثل شما شریک بسازیم ❤️ 🕊️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Parenting is so important. How many days in the past week did you play with your children, help them learn something new, or talk with your children about how they’re doing?",
+    "text": "والد بودن خیلی مهم است. چند روز از هفته گذشته را با اطفال تان بازی کردید، چیزی جدید یادشان دادید یا درباره حالشان با آن‌ها صحبت کردید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You’re doing what you can, and that matters 💛, every small moment of connection counts 💪.",
+    "text": "شما در حال انجام کاری هستید که اهمیت دارد 💛، هر لحظه‌ی حتی کم ارتباطی ارزشمند است 💪.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That’s wonderful to hear 🌟💖, your time and care make a big difference in your child’s life.",
+    "text": "شنیدن این خبر عالیست 🌟💖، زمانی که برای اطفال می‌گذارید، تفاوت بزرگی ایجاد می‌کند.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That’s completely okay 💙, we’re here to support you, no matter where you’re at 💫🤝",
+    "text": "کاملاً مشکلی ندارد 💙، ما اینجاییم تا در هر مرحله ازین روند همراه‌تان باشیم 💫🤝",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "We know life can be stressful. Over the last week, how often did you feel nervous, anxious or on edge?",
+    "text": "می‌دانیم که زندگی می‌تواند استرس‌زا باشد. در هفته گذشته، چند بار احساس نگرانی، اضطراب یا تنش داشتید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That’s great to hear 💛Thank you for sharing ☀️",
+    "text": "شنیدن این خبر عالی است 💛 تشکر که با ما به اشتراک گذاشتید ☀️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for sharing 💙 We’re sorry to hear life has been stressful, and hope we can help 🤝",
+    "text": "تشکر از اشتراک‌گذاری 💙 متأسفیم که شرایط سختی داشته‌اید و امیدواریم بتوانیم کمک کنیم 🤝",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That’s okay 💙, no need to share more than you want to 🙏",
+    "text": "درست است 💙 نیازی نیست چیزی فراتر از میل‌تان بگویید 🙏",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Over the past week, how often were you not able to stop or control worrying?",
+    "text": "در هفته گذشته، چند بار نتوانستید نگرانی خود را متوقف یا کنترل کنید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "So glad to hear you’re feeling free from worry 💫  Thank you for taking a moment with us 🙏",
+    "text": "خیلی خوشحالیم که نگرانی ندارید 💫 تشکر که با ما همراه شدید 🙏",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you again for sharing with us 💛 Worry can be so difficult, and we hope ParentText can help.",
+    "text": "مجدداً تشکر از اینکه با ما در میان گذاشتید 💛 نگرانی می‌تواند بسیار دشوار باشد و امیدواریم ParentText بتواند کمک‌تان کند.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "No problem! Thank you for taking a moment with us 🙏",
+    "text": "مشکلی ندارد! تشکر که وقت گذاشتید 🙏",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Finally, we’d like to ask 5 more questions before your first tip!",
+    "text": "در پایان، قبل از دریافت اولین توصیه، 5 سوال دیگر هم داریم!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It’ll take only 2 minutes ⏱️,  and your answers help make these tips better for you and other families 💛",
+    "text": "این فقط 2 دقیقه طول می‌کشد ⏱️ و پاسخ‌های شما کمک می‌کند این توصیه ها برای شما و خانواده‌های دیگر بهتر شوند 💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to continue?",
+    "text": "آیا می‌خواهید ادامه دهید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How many days in the past week did you feel hopeful, purposeful, or like you have meaning?",
+    "text": "چند روز از هفته گذشته احساس امید، هدف داشتن یا معنا داشتن در زندگی داشتید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It’s okay if those feelings were rare this week. Some weeks are heavier than others 🙏",
+    "text": "صحیست اگر این احساسات در این هفته کم بودند. بعضی هفته‌ها سخت‌تر از دیگر هفته ها هستند 🙏",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That’s encouraging to hear 💛 Hope is a powerful ☀️",
+    "text": "شنیدن این خبر دلگرم‌کننده است 💛 امید نیرویی قدرتمند است ☀️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That’s encouraging to hear 💛 Hope is a powerful strength ☀️",
+    "text": "شنیدن این خبر دلگرم‌کننده است 💛 امید نکته قوت قدرتمند است ☀️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Prefer not to answer: That’s completely fine 💙 Thank you for taking a moment with this question 🙏",
+    "text": "نمی‌خواهید پاسخ دهید: کاملاً مشکلی ندارد 💙 تشکر که برای پاسخ دادن به این سؤال وقت گذاشتید 🙏",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your role as a parent is so important.  How many days in the past week did you know who your children were spending time with (both in person or online)?",
+    "text": "نقش شما به‌عنوان والد بسیار مهم است. چند روز از هفته گذشته می‌دانستید اطفال تان با چه کسانی وقت می‌گذراندن (چه حضوری و چه آنلاین)؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It’s understandable if this was hard to do recently. Even small moments of checking in can matter 🌱",
+    "text": "درک می‌کنیم که شاید این کار اخیراً سخت بوده باشد. حتی لحظه‌های کوتاه برای باخبر بودن هم اهمیت دارند 🌱",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That kind of care and attention makes a big difference 💛 You’re helping your children stay safe and connected 🌟",
+    "text": "این نوع توجه و مراقبت تفاوت زیادی ایجاد می‌کند 💛 شما به اطفال تان کمک می‌کنید که ایمن و متصل بمانند 🌟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That’s completely okay 💙 Thank you for taking the time to reflect 🙏",
+    "text": "کاملاً درست 💙 تشکر که وقت گذاشتید و تأمل کردید 🙏",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "We know life can be difficult. Over the last week, how often have you been bothered by little interest or pleasure in doing things?",
+    "text": "می‌دانیم که زندگی می‌تواند دشوار باشد. در هفته گذشته، چند بار احساس کردید علاقه‌ای به انجام کارها ندارید یا از انجامشان لذت نمی‌برید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That’s great to hear ✨",
+    "text": "عالیست که این خبر را می شنویم✨",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for sharing. We know these feelings can be difficult, and we hope we can help 🙏",
+    "text": "تشکر که به اشتراک گذاشتید. می‌دانیم این احساسات می‌توانند دشوار باشند و امیدواریم بتوانیم کمک کنیم 🙏",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That’s completely okay 💙 Thank you for taking a moment with this 🙏",
+    "text": "کاملاً درست💙 تشکر که برای این سؤال وقت گذاشتید 🙏",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Over the last week, how often have you been bothered by feeling down, depressed, or hopeless?",
+    "text": "در هفته گذشته، چند بار احساس غم، افسردگی یا نا امیدی داشتید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That’s wonderful to hear 🌿",
+    "text": "فوق العاده عالیست که اینرا میشنویم 🌿",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That sounds really hard 💛 We are sorry things have been difficult, and we hope we can help 🙏",
+    "text": "این واقعاً سخت به نظر می‌رسد 💛 متأسفیم که شرایط دشوار بوده و امیدواریم بتوانیم کمک‌تان کنیم 🙏",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That’s completely okay 💙 No pressure to share more than you want to 🙏",
+    "text": "کاملاً درست 💙 هیچ فشاری نیست که بیشتر از آنچه می‌خواهید، با ما به اشتراک بگذارید 🙏",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Final question! We know parenting can be stressful, especially at times when children misbehave 🙏",
+    "text": "آخرین سؤال! ما می‌دانیم که والدگری می‌تواند پراسترس باشد، به‌ویژه زمانی که اطفال رفتار بدی دارند 🙏",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How many days in the past week did you speak calmly with your children, when you were upset with them?",
+    "text": "چند روز از هفته گذشته را وقتی از دست اطفال تان ناراحت بودید، با او با آرامش صحبت کردید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you so much again for answering 💛 We hope ParentText strengthens you and your children!",
+    "text": "مجدداً تشکر از اینکه پاسخ داده اید 💛 و امیدواریم ParentText بتواند شما و اطفال تانرا توانمند بسازد!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Lastly, today we want to ask 2 questions to make these tips better for others 🎉",
+    "text": "در پایان، امروز می‌خواهیم 2 سوال دیگر بپرسیم تا این توصیه ها را برای دیگران بهتر کنیم 🎉",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Did these parenting tips help you and your family?",
+    "text": "آیا این توصیه ها والدگری به شما و خانواده‌تان کمک کرده‌اند؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "From using these tips, have you reached out to a trusted friend, family member, person, organisation, or helpline for support?",
+    "text": "آیا با استفاده از این توصیه ها، برای دریافت حمایت با یک دوست مورد اعتماد، یکی از اعضای خانواده، فردی دیگر، یک سازمان یا خط کمک تماس گرفته‌اید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thanks for your responses! You will help make ParentText better for families 🎉See you back for another tip soon.",
+    "text": "تشکراز پاسخ‌های شما! شما در بهتر شدن *ParentText* برای خانواده‌ها کمک می‌کنید 🎉 به‌زودی با یک توصیه‌ دیگر برمی‌گردیم.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you so much for participating in these tips! You are so brave and such an amazing caregiver.",
+    "text": "تشکر بسیار زیاد از شما که در این توصیه‌ها شرکت کردید! شما واقعاً شجاع و یک مراقب فوق‌العاده هستید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Today you will receive your final tips. First, we have 3 questions to ask about how you and your children are doing. ❤️",
+    "text": "امروز آخرین توصیه‌های خود را دریافت خواهید کرد. ابتدا، 3 سوال درباره وضعیت شما و اطفال‌تان داریم. ❤️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for your answers. ❤️",
+    "text": "تشکر از پاسخ‌های شما. ❤️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "We have 8 quick questions. Your answers help us make these tips better for parents and children finding strength and hope during tough times.",
+    "text": "ما 8 سوال کوتاه داریم. پاسخ‌های شما به ما کمک می‌کند تا این *توصیه‌ها* را برای والدین و اطفال که در شرایط سخت به دنبال امید و قدرت هستند، بهتر کنیم.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You’re doing what you can, and that matters 💛, every small moment of connection counts 💪",
+    "text": "شما دارید نهایت تلاشتان را می‌کنید، و این ارزشمند است 💛، هر لحظه حتی کم از ارتباط مهم است 💪",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1",
+    "text": "1",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "2",
+    "text": "2",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "3",
+    "text": "3",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "4",
+    "text": "4",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "5",
+    "text": "5",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "NEXT",
+    "text": "NEXT",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "0 days",
+    "text": "0 روز",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "1 day",
+    "text": "1 روز",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "2 days",
+    "text": "2 روز",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "3 days",
+    "text": "3 روز",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "4 days",
+    "text": "4 روز",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "5 days",
+    "text": "5 روز",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "6 days",
+    "text": "6 روز",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "7 days",
+    "text": "7 روز",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Prefer not to answer",
+    "text": "ترجیع میدهم پاسخ ندهم",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Not at all",
+    "text": "بصورت کل اصلاً",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Some days",
+    "text": "بعضی روزها",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "More than half the days",
+    "text": "بیشتر از نیمی از روزها",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Nearly every day",
+    "text": "تقریبا هر روز",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes",
+    "text": "بلی",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "No",
+    "text": "نخیر",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes, ALL of the tips helped",
+    "text": "بلی، همه توصیه ها مفید واقع شدند",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes, MANY of the tips helped",
+    "text": "بلی، اکثر توصیه ها مفید واقع شدند",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes, a FEW of the tips helped",
+    "text": "بلی، تعداد کمی از توصیه ها مفید واقع شدند",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "NONE of the tips helped",
+    "text": "هیچکدام از توصیه ها مفید واقع نشدند",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "1",
+    "text": "1",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "2",
+    "text": "2",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "3",
+    "text": "3",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "4",
+    "text": "4",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "5",
+    "text": "5",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "0 days",
+    "text": "0 روز",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "1 day",
+    "text": "1 روز",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "2 days",
+    "text": "2 روز",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "3 days",
+    "text": "3 روز",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "4 days",
+    "text": "4 روز",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "5 days",
+    "text": "5 روز",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "6 days",
+    "text": "6 روز",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "7 days",
+    "text": "7 روز",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "prefer not to answer",
+    "text": "ترجیع میدهم پاسخ ندهم",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "not at all",
+    "text": "بصورت کاملا اصلاً",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "some days",
+    "text": "بعضی از روز ها",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "more than half the days",
+    "text": "بیشتر از نیمی از روزها",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "nearly every day",
+    "text": "تقریباً هر روز",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes",
+    "text": "بلی",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no",
+    "text": "نخیر",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes, all of the tips helped",
+    "text": "بلی، تمام توصیه ها مفید واقع شدند",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes, many of the tips helped",
+    "text": "بلی، اکثر توصیه ها مفید واقغ شدند",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes, a few of the tips helped",
+    "text": "بلی، تعداد کمی از توصیه ها مفید واقع شدند",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "none of the tips helped",
+    "text": "هیچکدام شان مفید واقع نشدند",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+]

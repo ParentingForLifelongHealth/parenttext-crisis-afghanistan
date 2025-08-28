@@ -1,7 +1,7 @@
 [
   {
     "SourceText": "*A Friendly Chat*",
-    "text": "*یک گپ خودمانی*",
+    "text": "*یک صحبت دوستانه*",
     "type": "text",
     "note": ""
   },
@@ -628,5 +628,221 @@
     "text": "این یک روش عالی برای تحرک داشتن، یادگیری و لذت بردن در کنار یکدیگر است!",
     "type": "text",
     "note": ""
+  },
+  {
+    "SourceText": "Variables have been reset",
+    "text": "متغییرها مجدداً تنظیم شدند",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Which activity would you like to test?",
+    "text": "کدام فعالیت را دوست دارید امتحان کنید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1. friendly_chat",
+    "text": "1. یک صحبت دوستانه",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2. reflect_positive",
+    "text": "2. انعکاس مثبت اندیشی",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3. whats_new",
+    "text": "3. چه خبر",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "4. checkin_chat",
+    "text": "4. گفتگو و بررسی",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "5. express_yourself",
+    "text": "5. خودت را بیان کنید",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "6. 2truth_1lie",
+    "text": "6. 2حقیقت-1دروغ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "7. yes_no_maybe",
+    "text": "7. بلی-نخیر-شاید",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "8. get_active",
+    "text": "8. فعال شوید",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "9. take_a_pause",
+    "text": "9. یک مکث داشته باشید",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "10. who_i_am",
+    "text": "10. من کی هستم",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "11. setting_goal",
+    "text": "11. تعیین اهداف",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "12. one_on_one_time",
+    "text": "12. فرصت یک-به-یک",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "13. animals",
+    "text": "13. حیوانات",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "14. active_counting",
+    "text": "14. شمارش فعال",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "15. act_animal",
+    "text": "15. تقلید از حیوان",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type \"N\" to stop",
+    "text": "برای توقف \"N\" را وارد کنید",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean.",
+    "text": "معذرت، متوجه منظورتان نشدم.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type LTP to start again",
+    "text": "LTP برای شروع دوباره وارد کنید",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1",
+    "text": "1",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "2",
+    "text": "2",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "3",
+    "text": "3",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "4",
+    "text": "4",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "5",
+    "text": "5",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "6",
+    "text": "6",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "7",
+    "text": "7",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "8",
+    "text": "8",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "9",
+    "text": "9",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "10",
+    "text": "10",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "11",
+    "text": "11",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "12",
+    "text": "12",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "13",
+    "text": "13",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "14",
+    "text": "14",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "15",
+    "text": "15",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "n",
+    "text": "n",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
   }
 ]
