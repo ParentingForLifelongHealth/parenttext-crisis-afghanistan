@@ -61,7 +61,7 @@
         "ID": "test_en",
         "Description": "Joining trigger for testers who do not speak Dari: This Joining trigger initiates the English version of the chatbot, which is only available for internal testing by the PLH and IDEMS teams. It is not visible or accessible to end users.",
         "Trigger (en)": "test_eng",
-        "Trigger (prs)": "",
+        "Trigger (prs)": "testers",
         "Experience (user group)": "digital",
         "Recruitment (user group)": "",
         "Additional (user group)": "",
@@ -75,7 +75,7 @@
         "ID": "test_dari",
         "Description": "Joining trigger for testers only and initates the chatbot in Dari. If you are not a caregiver and are testing the chatbot, please use this Joining trigger to use the chatbot. This helps ensure that real user data is not mixed with test data.",
         "Trigger (en)": "test_dari",
-        "Trigger (prs)": "",
+        "Trigger (prs)": "testers",
         "Experience (user group)": "digital",
         "Recruitment (user group)": "",
         "Additional (user group)": "",
@@ -229,14 +229,14 @@
     "joining_triggers_data": [
       {
         "ID": "test_en",
-        "triggers": "test_eng",
+        "triggers": "test_eng;testers",
         "groups": "digital",
         "cap": "",
         "location": ""
       },
       {
         "ID": "test_dari",
-        "triggers": "test_dari",
+        "triggers": "test_dari;testers",
         "groups": "digital",
         "cap": "",
         "location": ""

@@ -280,15 +280,6 @@
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{START}.*",
-        "change": "{START}",
-        "condition_var": "",
-        "category": "START"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
         "node_identifier": "Regex:.*{PAUSE}.*",
         "change": "{PAUSE}",
         "condition_var": "",
@@ -303,7 +294,7 @@
         "node_identifier": "Regex:.*{HELP}.*",
         "original": "{HELP}",
         "language": "prs",
-        "replacement": "Add translation HELP"
+        "replacement": "کمک"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -312,7 +303,7 @@
         "node_identifier": "Regex:.*{MENU}.*",
         "original": "{MENU}",
         "language": "prs",
-        "replacement": "Add translation MENU"
+        "replacement": "فهرست"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -321,7 +312,7 @@
         "node_identifier": "Regex:.*{PLAY}.*",
         "original": "{PLAY}",
         "language": "prs",
-        "replacement": "Add translation PLAY "
+        "replacement": "نمایش"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -330,16 +321,7 @@
         "node_identifier": "Regex:.*{STOP}.*",
         "original": "{STOP}",
         "language": "prs",
-        "replacement": "Add translation STOP"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{START}.*",
-        "original": "{START}",
-        "language": "prs",
-        "replacement": "Add translation START"
+        "replacement": "توقف"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -348,7 +330,7 @@
         "node_identifier": "Regex:.*{PAUSE}.*",
         "original": "{PAUSE}",
         "language": "prs",
-        "replacement": "Add translation PAUSE"
+        "replacement": "مکث"
       }
     ],
     "urls": [
@@ -400,15 +382,42 @@
         "change": "{joining_trigger}",
         "condition_var": "@fields.joining_trigger_id",
         "category": "{joining_trigger}",
-        "category:group_a": "{joining_trigger_group_a}",
-        "condition:group_a": "group_a",
-        "condition_type:group_a": "has_only_phrase",
-        "category:group_b": "{joining_trigger_group_b}",
-        "condition:group_b": "group_b",
-        "condition_type:group_b": "has_only_phrase",
-        "category:group_c": "{joining_trigger_group_c}",
-        "condition:group_c": "group_c",
-        "condition_type:group_c": "has_only_phrase"
+        "category:test_en": "{joining_trigger_test_en}",
+        "condition:test_en": "test_en",
+        "condition_type:test_en": "has_only_phrase",
+        "category:test_dari": "{joining_trigger_test_dari}",
+        "condition:test_dari": "test_dari",
+        "condition_type:test_dari": "has_only_phrase",
+        "category:af_wave_1_1": "{joining_trigger_af_wave_1_1}",
+        "condition:af_wave_1_1": "Healthy",
+        "condition_type:af_wave_1_1": "has_only_phrase",
+        "category:af_wave_1_2": "{joining_trigger_af_wave_1_2}",
+        "condition:af_wave_1_2": "Hope",
+        "condition_type:af_wave_1_2": "has_only_phrase",
+        "category:af_wave_1_3": "{joining_trigger_af_wave_1_3}",
+        "condition:af_wave_1_3": "Child",
+        "condition_type:af_wave_1_3": "has_only_phrase",
+        "category:af_wave_1_4": "{joining_trigger_af_wave_1_4}",
+        "condition:af_wave_1_4": "Care",
+        "condition_type:af_wave_1_4": "has_only_phrase",
+        "category:af_wave_1_5": "{joining_trigger_af_wave_1_5}",
+        "condition:af_wave_1_5": "light",
+        "condition_type:af_wave_1_5": "has_only_phrase",
+        "category:af_wave_2_1": "{joining_trigger_af_wave_2_1}",
+        "condition:af_wave_2_1": "Happy",
+        "condition_type:af_wave_2_1": "has_only_phrase",
+        "category:af_wave_2_2": "{joining_trigger_af_wave_2_2}",
+        "condition:af_wave_2_2": "Faith",
+        "condition_type:af_wave_2_2": "has_only_phrase",
+        "category:af_wave_2_3": "{joining_trigger_af_wave_2_3}",
+        "condition:af_wave_2_3": "Life",
+        "condition_type:af_wave_2_3": "has_only_phrase",
+        "category:af_wave_2_4": "{joining_trigger_af_wave_2_4}",
+        "condition:af_wave_2_4": "Motivation",
+        "condition_type:af_wave_2_4": "has_only_phrase",
+        "category:af_wave_2_5": "{joining_trigger_af_wave_2_5}",
+        "condition:af_wave_2_5": "Determination",
+        "condition_type:af_wave_2_5": "has_only_phrase"
       }
     ],
     "joining_triggers_eng": [
@@ -416,37 +425,109 @@
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{joining_trigger}.*",
-        "change": "{joining_trigger}",
+        "node_identifier": "Regex:.*{joining_trigger_test_en}.*",
+        "change": "{joining_trigger_test_en}",
         "condition_var": "",
-        "category": "TEST"
+        "category": "test_eng"
       },
       {
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{joining_trigger_group_a}.*",
-        "change": "{joining_trigger_group_a}",
+        "node_identifier": "Regex:.*{joining_trigger_test_dari}.*",
+        "change": "{joining_trigger_test_dari}",
         "condition_var": "",
-        "category": "TEST_GROUP_A"
+        "category": "test_dari"
       },
       {
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{joining_trigger_group_b}.*",
-        "change": "{joining_trigger_group_b}",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_1_1}.*",
+        "change": "{joining_trigger_af_wave_1_1}",
         "condition_var": "",
-        "category": "TEST_GROUP_B"
+        "category": "Healthy"
       },
       {
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{joining_trigger_group_c}.*",
-        "change": "{joining_trigger_group_c}",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_1_2}.*",
+        "change": "{joining_trigger_af_wave_1_2}",
         "condition_var": "",
-        "category": "TEST_GROUP_C"
+        "category": "Hope"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_1_3}.*",
+        "change": "{joining_trigger_af_wave_1_3}",
+        "condition_var": "",
+        "category": "Child"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_1_4}.*",
+        "change": "{joining_trigger_af_wave_1_4}",
+        "condition_var": "",
+        "category": "Care"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_1_5}.*",
+        "change": "{joining_trigger_af_wave_1_5}",
+        "condition_var": "",
+        "category": "Light"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_2_1}.*",
+        "change": "{joining_trigger_af_wave_2_1}",
+        "condition_var": "",
+        "category": "Happy"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_2_2}.*",
+        "change": "{joining_trigger_af_wave_2_2}",
+        "condition_var": "",
+        "category": "Faith"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_2_3}.*",
+        "change": "{joining_trigger_af_wave_2_3}",
+        "condition_var": "",
+        "category": "Life"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_2_4}.*",
+        "change": "{joining_trigger_af_wave_2_4}",
+        "condition_var": "",
+        "category": "Motivation"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_2_5}.*",
+        "change": "{joining_trigger_af_wave_2_5}",
+        "condition_var": "",
+        "category": "Determination"
       }
     ],
     "joining_triggers_transl": [
@@ -454,37 +535,109 @@
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{joining_trigger}.*",
-        "change": "{joining_trigger}",
+        "node_identifier": "Regex:.*{joining_trigger_test_en}.*",
+        "original": "{joining_trigger}",
         "language": "prs",
-        "replacement": "test"
+        "replacement": "test_eng"
       },
       {
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{joining_trigger_group_a}.*",
-        "change": "{joining_trigger}",
+        "node_identifier": "Regex:.*{joining_trigger_test_dari}.*",
+        "original": "{joining_trigger}",
         "language": "prs",
-        "replacement": "TEST_GROUP_A"
+        "replacement": "test_dari"
       },
       {
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{joining_trigger_group_b}.*",
-        "change": "{joining_trigger}",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_1_1}.*",
+        "original": "{joining_trigger}",
         "language": "prs",
-        "replacement": "TEST_GROUP_B"
+        "replacement": "صحت"
       },
       {
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{joining_trigger_group_c}.*",
-        "change": "{joining_trigger}",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_1_2}.*",
+        "original": "{joining_trigger}",
         "language": "prs",
-        "replacement": "TEST_GROUP_C"
+        "replacement": "امید"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_1_3}.*",
+        "original": "{joining_trigger}",
+        "language": "prs",
+        "replacement": "طفل"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_1_4}.*",
+        "original": "{joining_trigger}",
+        "language": "prs",
+        "replacement": "مواظبت"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_1_5}.*",
+        "original": "{joining_trigger}",
+        "language": "prs",
+        "replacement": "روشن"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_2_1}.*",
+        "original": "{joining_trigger}",
+        "language": "prs",
+        "replacement": "خوشحال"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_2_2}.*",
+        "original": "{joining_trigger}",
+        "language": "prs",
+        "replacement": "ایمان"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_2_3}.*",
+        "original": "{joining_trigger}",
+        "language": "prs",
+        "replacement": "زندگی"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_2_4}.*",
+        "original": "{joining_trigger}",
+        "language": "prs",
+        "replacement": "انگیزه"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger_af_wave_2_5}.*",
+        "original": "{joining_trigger}",
+        "language": "prs",
+        "replacement": "اراده"
       }
     ],
     "parenttext_name_eng": [
