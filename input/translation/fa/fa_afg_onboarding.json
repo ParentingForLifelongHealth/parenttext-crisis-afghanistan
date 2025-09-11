@@ -72,20 +72,26 @@
     "note": ""
   },
   {
-    "SourceText": "✅ To read our privacy policy, visit {consent}. If you are over 16 and consent to our privacy policy, select YES. Type \"EXIT\" if you do not want to participate.",
-    "text": "✅ برای خواندن سیاست حفظ حریم خصوصی ما، به {consent} مراجعه کنید. اگر بالای 16 سال هستید و با سیاست ما موافقید، گزینه \"YES\" را انتخاب کنید. اگر نمی‌خواهید شرکت کنید، \"EXIT\" را بنویسید.",
+    "SourceText": "✅ To read our privacy policy, visit {consent}. If you are over 18 and consent to our privacy policy, select YES. Type \"EXIT\" if you do not want to participate.",
+    "text": "✅ برای خواندن پالیسی محرمیت ما، به {consent} مراجعه نمایید. اگر بالاتر از ۱۸ سال سن دارید و با پالیسی محرمیت ما موافق هستید، گزینه \"بلی\" را انتخاب کنید. اگر نمی‌خواهید در برنامه اشتراک کنید، کلمه\"خروج\" را بنویسید.",
     "type": "text",
     "note": ""
   },
   {
     "SourceText": "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please press NO. If you made a mistake, please press BACK and choose another option.",
-    "text": "آیا مطمئن هستید که نمی‌خواهید این پیام‌ها را دریافت کنید؟ اگر نمی‌خواهید دیگر پیام‌ها را دریافت کنید، \"NO\" را فشار دهید. اگر مایلید و اشتباهاً انتخاب کرده اید، گزینه \"BACK\" را فشار دهید و انتخاب دیگری انجام دهید.",
+    "text": "آیا مطمئن هستید که نمی‌خواهید این پیام‌ها را دریافت کنید؟ اگر نمی‌خواهید دیگر پیام‌ها را دریافت کنید، \"نخیر\" را فشار دهید. اگر مایلید و اشتباهاً انتخاب کرده اید، گزینه \"بازگشت\" را فشار دهید و انتخاب دیگری انجام دهید.",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "That's okay. If you decide you want these tips later, type {joining_trigger}.",
-    "text": "درست است. اگر بعداً تصمیم گرفتید که می‌خواهید این توصیه‌ها را دریافت کنید، {joining_trigger} را بنویسید.",
+    "SourceText": "If you ever want to receive these tips in the future just type {joining_trigger}.",
+    "text": "اگر در آینده خواستید این توصیه ها را دوباره دریافت کنید، فقط کلمه {joining_trigger} را بنویسید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "We hope to see you again soon.",
+    "text": "به امید دیدار دوباره شما به زودی.",
     "type": "text",
     "note": ""
   },
@@ -96,8 +102,14 @@
     "note": ""
   },
   {
-    "SourceText": "<avatar description>",
-    "text": "<avatar description>",
+    "SourceText": "Ms. Nizkay is 27 years old and has a degree in Public Administration. She runs parenting sessions where mothers and children feel safe and supported. Her work helps families find new ways to connect and grow together.",
+    "text": "خانم نیکزی 27 سال سن داشته و دارای مدرک لیسانس در رشته اداره عامه می باشد. او جلسات فرزند پروری را برگزار میکند، جایی که مادران و اطفال احساس امنیت و حمایت می کنند. کار او به خانواده ها کمک می کند تا راه های تازه ای برای ارتباط و رشد با هم پیدا کنند.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Mr. Joenda is 37 years old and has a degree in Journalism. After working as a reporter and announcer, he now supports children in Child-Friendly Spaces. His warmth helps boys and girls feel safe, while caregivers learn new ways to care for and engage with them.",
+    "text": "آقای جوینده 37 سال سن داشته و دارای مدرک لیسانس در رشته ژورنالیزم می باشد. او پس از مدتی کار بعنوان خبرنگار و گوینده، اکنون در فضای دوستدار طفل از اطفال حمایت میکند. مهربانی او سبب می شود دختران پسران احساس امنیت کنند و بر علاوه برای والدین و مراقبین روش های نوین محافظت از اطفال را می آموزاند.",
     "type": "text",
     "note": ""
   },
@@ -144,26 +156,26 @@
     "note": ""
   },
   {
-    "SourceText": "Thank you for your time. If you decide you want these tips later, type {joining_trigger}.",
-    "text": "تشکر از وقتی که گذاشتید. اگر بعداً خواستید این توصیه‌ها را دریافت کنید، {joining_trigger} را بنویسید.",
+    "SourceText": "{prog_name} is easiest to use when you receive content with video guides. Videos are fun and engaging, but we understand if you have limited mobile data. To save on data, you can choose to receive the same content with an audio guide or just text. ",
+    "text": "استفاده از {prog_name} زمانی ساده‌تر است که مطالب را همراه با ویدیوهای آموزشی دریافت کنید. ویدیوها جذاب و سرگرم‌کننده‌اند، اما درک می‌کنیم اگر بسته‌های انترنتی شما محدود باشد. برای صرفه‌جویی در مصرف انترنت، می‌توانید همین مطالب را فقط با صوت یا متن ساده نیز دریافت کنید. ",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "📍 Where are you located?",
-    "text": "محل زندگی تان کجاست؟",
+    "SourceText": "📲 How would you prefer to receive content — with video guides, with audio guides, or just text?",
+    "text": "📲 ترجیح می‌دهید مطالب را چگونه دریافت کنید — با ویدیوهای آموزشی، فایل‌های صوتی یا فقط متن؟",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "📲 How would you prefer to receive content — with audio guides, with video guides, or just text?",
-    "text": "📲 ترجیح می‌دهید مطالب را به چه صورتی دریافت کنید — با راهنمای صوتی، با راهنمای تصویری، یا فقط متن؟",
+    "SourceText": "Great! Thanks for letting us know your preference. 👌 Before we continue, here’s something important about the illustrations you’ll see in {prog_name}. They are AI adaptations of original work by Orli Setton created for Parenting for Lifelong Health, and shared under a CC BY-SA 4.0 International licence.",
+    "text": "عالی! تشکر که انتخاب تانرا با ما شریک ساختید. 👌 پیش از شروع، نکته مهمی در مورد تصاویر/تصویرسازی‌هایی که در {prog_name} می‌بینید: این تصاویر نسخه‌های تطبیق‌یافته هوش مصنوعی از آثار اصلی *اورلی سیتون* هستند که برای برنامه «تربیه اطفال برای زندگی طولانی» ساخته شده‌اند و تحت جواز بین‌المللی CC BY-SA 4.0 به اشتراک گذاشته شده‌اند.",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "Thanks for answering our questions. We're ready to get started. 💚",
-    "text": "تشکر از پاسخگویی به سؤالات ما. آماده‌ایم تا شروع کنیم. 💚",
+    "SourceText": "We're ready to get started. 💚",
+    "text": "ما آماده هستیم تا شروع کنیم.💚",
     "type": "text",
     "note": ""
   },
@@ -175,7 +187,7 @@
   },
   {
     "SourceText": "English",
-    "text": "انگلیسی",
+    "text": "English",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -205,31 +217,43 @@
   },
   {
     "SourceText": "NEXT",
-    "text": "NEXT",
+    "text": "بعدی",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
-    "SourceText": "Female Name Placeholder",
-    "text": "نام پیش فرض زنانه",
+    "SourceText": "Ms. Nizkay",
+    "text": "خانم نیکزی",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
-    "SourceText": "Male Name Placeholder",
-    "text": "نام پیش فرض مردانه",
+    "SourceText": "Mr. Joenda",
+    "text": "آقای جوینده",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
-    "SourceText": "Under 18 years",
-    "text": "زیر 18 سال",
+    "SourceText": "18-24 years old",
+    "text": "بین 18-24 سال سن",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
-    "SourceText": "Over 18 years",
-    "text": "بالای 18 سال",
+    "SourceText": "25-34 years old",
+    "text": "بین 25-34 سال سن",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "35-44 years old",
+    "text": "بین 35-44 سال سن",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Over 55 years old",
+    "text": "بالای 55 سال سن",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -242,6 +266,12 @@
   {
     "SourceText": "Man",
     "text": "مرد",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Prefer not to say",
+    "text": "ترجیع میدهم جواب ندهم",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -260,18 +290,6 @@
   {
     "SourceText": "Widowed",
     "text": "بیوه",
-    "type": "quick_replies",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
-  },
-  {
-    "SourceText": "no",
-    "text": "نخیر",
-    "type": "quick_replies",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
-  },
-  {
-    "SourceText": "Prefer not to say",
-    "text": "ترجیع میدهم جواب ندهم",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -306,12 +324,6 @@
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
-    "SourceText": "Sarboland Village",
-    "text": "قریه سربلند",
-    "type": "quick_replies",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
-  },
-  {
     "SourceText": "Video",
     "text": "ویدیو",
     "type": "quick_replies",
@@ -331,7 +343,7 @@
   },
   {
     "SourceText": "english",
-    "text": "انگلیسی",
+    "text": "english",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -366,26 +378,38 @@
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "female name placeholder",
-    "text": "نام پش فرض زنانه",
+    "SourceText": "ms. nizkay",
+    "text": "خانم نیکزی",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "male name placeholder",
-    "text": "نام پیش فرض مردانه",
+    "SourceText": "mr. joenda",
+    "text": "آقای جوینده",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "under 18 years",
-    "text": "زیر 18 سال",
+    "SourceText": "18-24 years old",
+    "text": "بین 18-24 سال سن",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "over 18 years",
-    "text": "بالای 18 سال",
+    "SourceText": "25-34 years old",
+    "text": "بین 25-34 سال سن",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "35-44 years old",
+    "text": "بین 35-44 سال سن",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "over 55 years old",
+    "text": "بالای 55 سال سن",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -398,6 +422,12 @@
   {
     "SourceText": "man",
     "text": "مرد",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "prefer not to say",
+    "text": "ترجیع میدهم پاسخ ندهم",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -416,12 +446,6 @@
   {
     "SourceText": "widowed",
     "text": "بیوه",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "prefer not to say",
-    "text": "ترجیع میدهم پاسخ ندهم",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },

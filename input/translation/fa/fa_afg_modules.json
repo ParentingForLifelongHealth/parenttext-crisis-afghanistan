@@ -19,13 +19,13 @@
   },
   {
     "SourceText": "▶️Press play to learn 4️⃣tips on how to take care of yourself: ",
-    "text": "▶️دکمه پخش را بزنید تا با 4️⃣ توصیه های درباره چگونه محافظت از خودتان آشنا شوید: ",
+    "text": "▶️دکمه نمایش را بزنید تا با 4️⃣ توصیه های درباره چگونه محافظت از خودتان آشنا شوید: ",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "1️⃣**REST**",
-    "text": "1️⃣**استراحت کنید**",
+    "SourceText": "1️⃣ **REST**",
+    "text": "1️⃣ **استراحت کنید**",
     "type": "text",
     "note": ""
   },
@@ -36,8 +36,8 @@
     "note": ""
   },
   {
-    "SourceText": "3️⃣**BREATHE**",
-    "text": "3️⃣**نفس بکشید**",
+    "SourceText": "3️⃣ **BREATHE**",
+    "text": "3️⃣ **نفس بکشید**",
     "type": "text",
     "note": ""
   },
@@ -55,7 +55,7 @@
   },
   {
     "SourceText": "Take care of yourself as much as possible and try to rest whenever you can.",
-    "text": "ا حد امکان از خود محافظت کنید و هر زمانی که توانستید، استراحت نمایید.",
+    "text": "در حد امکان از خود محافظت کنید و هر زمانی که توانستید، استراحت نمایید.",
     "type": "text",
     "note": ""
   },
@@ -121,7 +121,7 @@
   },
   {
     "SourceText": "When we are in crisis, things can feel unfamiliar. Having routines helps your children feel safe and stable.",
-    "text": "وقتی با بحران مواجه هستیم، همه‌چیز ممکن است ناآشنا به نظر برسد. داشتن برنامه روزانه به فرزندان‌تان احساس امنیت و ثبات می‌دهد.",
+    "text": "وقتی با بحران مواجه هستیم، همه‌چیز ممکن است نا آشنا به نظر برسد. داشتن برنامه روزانه به فرزندان‌تان احساس امنیت و ثبات می‌دهد.",
     "type": "text",
     "note": ""
   },
@@ -133,25 +133,25 @@
   },
   {
     "SourceText": "▶️Press play to learn 3️⃣ tips on making routines to spend time together with your children:",
-    "text": "▶️ پخش را بزنید 3️⃣ نکته درباره ایجاد کار های روزانه برای وقت‌گذرانی با اطفال تان را یاد بگیرید:",
+    "text": "▶️ نمایش را بزنید 3️⃣ نکته درباره ایجاد کار های روزانه برای وقت‌گذرانی با اطفال تان را یاد بگیرید:",
     "type": "text",
     "note": ""
   },
   {
     "SourceText": "1️⃣ **DO IT DAILY**",
-    "text": "1️⃣ **هر روز انجامش بده**",
+    "text": "1️⃣ **هر روز انجامش دهید**",
     "type": "text",
     "note": ""
   },
   {
     "SourceText": "2️⃣ **PLAY EVERY DAY**",
-    "text": "2️⃣ **هر روز بازی کن**",
+    "text": "2️⃣ **هر روز بازی کنید**",
     "type": "text",
     "note": ""
   },
   {
     "SourceText": "3️⃣ **PRACTISE BEING CALM**",
-    "text": "3️⃣ **تمرین آرام بودن را انجام بده**",
+    "text": "3️⃣ **تمرین آرام بودن را انجام دهید**",
     "type": "text",
     "note": ""
   },
@@ -289,7 +289,7 @@
   },
   {
     "SourceText": "▶️ Press play to learn 3️⃣ tips on how you can support your children during tough times: ",
-    "text": "برای یادگیری 3️⃣ توصیه درباره‌ی چگونگی حمایت از اطفال تان در دوران سخت، دکمه ▶️ پخش را فشار دهید: ",
+    "text": "برای یادگیری 3️⃣ توصیه درباره‌ی چگونگی حمایت از اطفال تان در دوران سخت، دکمه ▶️ نمایش را فشار دهید: ",
     "type": "text",
     "note": ""
   },
@@ -403,7 +403,7 @@
   },
   {
     "SourceText": "▶️Press play 3️⃣ tips on how to help your children when someone dies: ",
-    "text": "▶️برای تماشا فشار دهید 3️⃣ توصیه برای کمک به اطفال تان وقتی کسی فوت می‌کند: ",
+    "text": "▶️برای نمایش فشار دهید 3️⃣ توصیه برای کمک به اطفال تان وقتی کسی فوت می‌کند: ",
     "type": "text",
     "note": ""
   },
@@ -414,8 +414,8 @@
     "note": ""
   },
   {
-    "SourceText": "2️⃣**ACCEPT FEELINGS** ",
-    "text": "2️⃣**احساسات را بپذیرید** ",
+    "SourceText": "2️⃣ **ACCEPT FEELINGS** ",
+    "text": "2️⃣ **احساسات را بپذیرید** ",
     "type": "text",
     "note": ""
   },
@@ -499,7 +499,7 @@
   },
   {
     "SourceText": "Adolescents and young teenagers from around the age of 12 years will wonder about why things happen.",
-    "text": "نوجوانان و نوجوانان جوان از حدود 12 سال به بالا، ممکن است درباره چرایی اتفاق‌ها فکر کنند.",
+    "text": "نوجوانان و نوجوانان از حدود 12 سال به بالا، ممکن است درباره چرایی اتفاق‌ها فکر کنند.",
     "type": "text",
     "note": ""
   },
@@ -534,20 +534,20 @@
     "note": ""
   },
   {
-    "SourceText": "This can include things like threatening, pressuring or forcing someone to have sex, or touching them in a sexual way, ",
-    "text": "این می‌تواند شامل تهدید، فشار آوردن یا مجبور کردن فرد به رابطه جنسی یا لمس کردن او به شکل جنسی باشد. ",
+    "SourceText": "This can include things like threatening, pressuring or forcing someone to have sex, or touching them in a sexual way. ",
+    "text": "این می‌تواند شامل مواردی چون تهدید کردن، تحت فشار قرار دادن یا مجبور ساختن کسی به انجام رابطه جنسی و یا لمس کردن او به گونه‌ای غیراخلاقی باشد. ",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "Sexual violence can be committed by a stranger, a friend, or even a family member",
-    "text": "خشونت جنسی ممکن است توسط یک بی گانه و فرد ناشناس، دوست، یا حتی یکی از اعضای خانواده انجام شود",
+    "SourceText": "Sexual violence can be committed by a stranger, a friend, or even a family member.",
+    "text": "خشونت جنسی ممکن است از سوی یک فرد ناشناس، یک دوست یا حتی یکی از اعضای خانواده صورت گیرد.",
     "type": "text",
     "note": ""
   },
   {
     "SourceText": "▶️Press play to learn 6️⃣ tips for protecting your child from sexual violence:",
-    "text": "▶️ برای یادگیری 6️⃣ توصیه درباره محافظت از اطفال در برابر خشونت جنسی دکمه پخش را بزنید:",
+    "text": "▶️ برای یادگیری 6️⃣ توصیه درباره محافظت از اطفال در برابر خشونت جنسی دکمه نمایش را بزنید:",
     "type": "text",
     "note": ""
   },
@@ -612,14 +612,8 @@
     "note": ""
   },
   {
-    "SourceText": "Remember, you can do this with words and with body. ",
-    "text": "به یاد داشته باشید که این کار را می‌توان هم با کلمات و هم با زبان بدن انجام داد. ",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "Talking about this with your child helps protect them.",
-    "text": "صحبت در این‌باره با اطفال به آن‌ها کمک می‌کند تا از خودشان محافظت کنند.",
+    "SourceText": "Remember, you can do this with words and with body. Talking about this with your child helps protect them.",
+    "text": "به یاد داشته باشید که این کار را می‌تواند هم از طریق گفتار و هم از طریق حرکات بدنی انجام شود. گفت‌وگو در این مورد با اطفال تان، به حفاظت او کمک می‌کند.",
     "type": "text",
     "note": ""
   },
@@ -644,12 +638,6 @@
   {
     "SourceText": "Let them know it’s always okay to talk to a trusted adult, like a parent or a teacher, if someone makes them feel uncomfortable.",
     "text": "به آن‌ها اطمینان دهید که همیشه می‌توانند با یک شخص کلانتر مورد اعتماد مانند پدر، مادر یا معلم صحبت کنند، اگر کسی باعث ناراحتی یا آزار آن‌ها شد.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "3️⃣**RECOGNIZE**",
-    "text": "3️⃣**تشخیص دهید**",
     "type": "text",
     "note": ""
   },
@@ -696,12 +684,6 @@
     "note": ""
   },
   {
-    "SourceText": "4️⃣**LISTEN**",
-    "text": "4️⃣**گوش دادن**",
-    "type": "text",
-    "note": ""
-  },
-  {
     "SourceText": "Take a deep breath so you can respond calmly.",
     "text": "نفس عمیق بکشید تا بتوانید آرام واکنش نشان دهید.",
     "type": "text",
@@ -732,8 +714,8 @@
     "note": ""
   },
   {
-    "SourceText": "5️⃣**RESPOND**: What might help what is going on?**",
-    "text": "5️⃣ **واکنش نشان دادن: چه چیزی می‌تواند کمک کند؟**",
+    "SourceText": "5️⃣ **RESPOND**: What might help what is going on?",
+    "text": "5️⃣*پاسخ‌دهی*: چه کاری می‌تواند برای بهبود وضعیت مفید باشد؟",
     "type": "text",
     "note": ""
   },
@@ -750,14 +732,8 @@
     "note": ""
   },
   {
-    "SourceText": "Right now, your child needs you to be there for them with love. ",
-    "text": "در حال حاضر، او بیش از هر چیز به عشق و حمایت شما نیاز دارد. ",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "Remind them that it is not their fault what other people did to them. ",
-    "text": "به او یادآوری کنید که گناه او نیست که دیگران با او بد رفتار کرده‌اند. ",
+    "SourceText": "Right now, your child needs you to be there for them with love. Remind them that it is not their fault what other people did to them. ",
+    "text": "در این لحظه، طفل تان بیش از هر چیز نیاز دارد که شما با محبت در کنار او باشید. به او یادآور شوید که او مسئول آنچه دیگران در حقش انجام داده‌اند نیست. ",
     "type": "text",
     "note": ""
   },
@@ -775,13 +751,13 @@
   },
   {
     "SourceText": "It can be hard to see your child feeling upset or confused, but there is a lot you can do to support them. ",
-    "text": "دیدن ناراحتی یا سردرگمی فرزندتان سخت است، اما شما می‌توانید حمایت بزرگی باشید. ",
+    "text": "دیدن ناراحتی یا سردرگمی طفل تان سخت است، اما شما می‌توانید حمایت بزرگی باشید. ",
     "type": "text",
     "note": ""
   },
   {
     "SourceText": "💚 Reassure them it’s not their fault and they are safe and loved. ",
-    "text": "💚 به او اطمینان بدهید که گناهکار نیست و در امنیت و مورد محبت است. ",
+    "text": "💚 به او اطمینان بدهید که او گناهکار نیست و در امنیت و مورد محبت است. ",
     "type": "text",
     "note": ""
   },
@@ -793,7 +769,7 @@
   },
   {
     "SourceText": "Thank you for joining us. Talking about sexual violence with your children will go a long way to protect them. It is not easy but necessary. They are lucky to have you. Be proud of yourself.",
-    "text": "تشکر که با ما همراه بودید. صحبت با اطفال درباره خشونت جنسی گامی مهم برای محافظت از آن‌هاست. آسان نیست، اما ضروری‌ست. فرزندتان خوش‌شانس است که شما را دارد. به خودتان افتخار کنید.",
+    "text": "تشکر که با ما همراه بودید. صحبت با اطفال درباره خشونت جنسی گامی مهم برای محافظت از آن‌هاست. آسان نیست، اما ضروریست. فرزندتان خوش‌شانس است که شما را دارد. به خودتان افتخار کنید.",
     "type": "text",
     "note": ""
   },
@@ -811,7 +787,7 @@
   },
   {
     "SourceText": "Press Play ▶️ to learn 3️⃣ tips on how to keep your children safe in an unsafe situation:",
-    "text": "▶️ دکمه پخش را فشار دهید تا با 3️⃣ توصیه مهم برای محافظت از اطفال در شرایط ناامن آشنا شوید:",
+    "text": "▶️ دکمه نمایش را فشار دهید تا با 3️⃣ توصیه مهم برای محافظت از اطفال در شرایط ناامن آشنا شوید:",
     "type": "text",
     "note": ""
   },
@@ -835,7 +811,7 @@
   },
   {
     "SourceText": "Here are 3️⃣ tips on how to keep your children safe in an unsafe situation:",
-    "text": "در اینجا 3️⃣ نکته برای حفظ امنیت اطفال در موقعیت‌های ناامن آمده است:",
+    "text": "در اینجا 3️⃣ نکته برای حفظ امنیت اطفال در موقعیت‌های نا امن آمده است:",
     "type": "text",
     "note": ""
   },
@@ -853,7 +829,7 @@
   },
   {
     "SourceText": "Identify a meeting point and make a plan in case you get separated.",
-    "text": "یک نقطه ملاقات مشخص کنید و در صورت جدا شدن، با هم برنامه‌ریزی داشته باشید.",
+    "text": "یک نکته ملاقات مشخص کنید و در صورت جدا شدن، با هم برنامه‌ریزی داشته باشید.",
     "type": "text",
     "note": ""
   },
@@ -919,13 +895,13 @@
   },
   {
     "SourceText": "Press Play ▶️ to learn 5️⃣ things for you to do to help protect your children from traffickers.",
-    "text": "دکمه ▶️ پخش را بزنید تا با 5 موردی آشنا شوید که می‌توانید برای محافظت از اطفال تان در برابر قاچاقچیان انجام دهید.",
+    "text": "دکمه ▶️ نمایش را بزنید تا با 5 موردی آشنا شوید که می‌توانید برای محافظت از اطفال تان در برابر قاچاقچیان انجام دهید.",
     "type": "text",
     "note": ""
   },
   {
     "SourceText": "1️⃣ **TEACH YOUR CHILD**",
-    "text": "1️⃣ **به طفل خود یاد بدهید**",
+    "text": "1️⃣ **به طفل خود یاد بدهید*",
     "type": "text",
     "note": ""
   },
@@ -1356,12 +1332,6 @@
     "note": ""
   },
   {
-    "SourceText": "4️⃣**CARE FOR YOUR ANIMALS**",
-    "text": "4️⃣**از حیوانات خود محافظت کنید**",
-    "type": "text",
-    "note": ""
-  },
-  {
     "SourceText": "💧Give animals shade and clean drinking water",
     "text": "💧 به حیوانات سایه و آب آشامیدنی پاک بدهید",
     "type": "text",
@@ -1458,171 +1428,9 @@
     "note": ""
   },
   {
-    "SourceText": "Variables have been reset",
-    "text": "متغییر ها مجدداً تنظیم شدند",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "Which flow would you like to test?",
-    "text": "میخواهید کدام جریان را امتحان کنید؟",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "1. care_for_yourself",
-    "text": "1. مراقبت از خود",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "2. make_a_routine",
-    "text": "2. ایجاد یک برنامه روزانه",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "3. help_children_cope",
-    "text": "3. کمک به اطفال برای کنار آمدن به شرایط سخت",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "4. when_someone_dies",
-    "text": "4. وقتی کسی وفات میکند",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "5. protect_sexual_violence",
-    "text": "5. محافظت از اطفال در برابر خشونت جنسی",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "6. keep_children_safe",
-    "text": "6. محافظت از اطفال",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "7. protect_from_traffickers",
-    "text": "7. محافظت اطفال در برابر قاچاقچیان انسان",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "8. care_in_a_shelter",
-    "text": "8. محافظت در یک پناهگاه",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "9. healthy_farm",
-    "text": "9. کشت زار سالم",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "Type \"N\" to stop",
-    "text": "برای توقف \"N\" را وارد کنید",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "Sorry, I don't understand what you mean.",
-    "text": "معذرت، متوجه منظورتان نشدم.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "Type the trigger to start again",
-    "text": "کلمه کلیدی را برای شروع وارد کنید",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "1. breath_body_awareness",
-    "text": "1. آگاهی از تنفس بدن",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "2. body_scan",
-    "text": "2. چک کردن بدن",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "3. loving_kindness meditation",
-    "text": "3. مراقبه مهربانی و محبت",
-    "type": "text",
-    "note": ""
-  },
-  {
     "SourceText": "NEXT",
-    "text": "NEXT",
+    "text": "بعدی",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
-  },
-  {
-    "SourceText": "1",
-    "text": "1",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "2",
-    "text": "2",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "3",
-    "text": "3",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "4",
-    "text": "4",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "5",
-    "text": "5",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "6",
-    "text": "6",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "7",
-    "text": "7",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "8",
-    "text": "8",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "9",
-    "text": "9",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "n",
-    "text": "n",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
   }
 ]

@@ -232,84 +232,108 @@
         "triggers": "test_eng;testers",
         "groups": "digital",
         "cap": "",
-        "location": ""
+        "location": "",
+        "variables.1.name": "referral type",
+        "variables.1.value": "other"
       },
       {
         "ID": "test_dari",
         "triggers": "test_dari;testers",
         "groups": "digital",
         "cap": "",
-        "location": ""
+        "location": "",
+        "variables.1.name": "referral type",
+        "variables.1.value": "other"
       },
       {
         "ID": "af_wave_1_1",
         "triggers": "Healthy;صحت",
         "groups": "hybrid;Wave 1;reach",
         "cap": "35",
-        "location": "Cheen Kalagh Village"
+        "location": "Cheen Kalagh Village",
+        "variables.1.name": "referral type",
+        "variables.1.value": "other"
       },
       {
         "ID": "af_wave_1_2",
         "triggers": "Hope;امید",
         "groups": "hybrid;Wave 1;reach",
         "cap": "39",
-        "location": "Cheshma Ghori village"
+        "location": "Cheshma Ghori village",
+        "variables.1.name": "referral type",
+        "variables.1.value": "other"
       },
       {
         "ID": "af_wave_1_3",
         "triggers": "Child;طفل",
         "groups": "hybrid;Wave 1;reach",
         "cap": "127",
-        "location": "Koshkak village"
+        "location": "Koshkak village",
+        "variables.1.name": "referral type",
+        "variables.1.value": "Koshkak Nayeb Kernail"
       },
       {
         "ID": "af_wave_1_4",
         "triggers": "Care;مواظبت",
         "groups": "hybrid;Wave 1;reach",
         "cap": "48",
-        "location": "Koshkak village"
+        "location": "Koshkak village",
+        "variables.1.name": "referral type",
+        "variables.1.value": "Koshkak Nayeb Kernail"
       },
       {
         "ID": "af_wave_1_5",
         "triggers": "light;روشن",
         "groups": "hybrid;Wave 1;reach",
         "cap": "52",
-        "location": "Nayeb Rafee village"
+        "location": "Nayeb Rafee village",
+        "variables.1.name": "referral type",
+        "variables.1.value": "Koshkak Nayeb Kernail"
       },
       {
         "ID": "af_wave_2_1",
         "triggers": "Happy;خوشحال",
         "groups": "hybrid;Wave 2;reach",
         "cap": "99",
-        "location": "Siaab village"
+        "location": "Siaab village",
+        "variables.1.name": "referral type",
+        "variables.1.value": "Siaab"
       },
       {
         "ID": "af_wave_2_2",
         "triggers": "Faith;ایمان",
         "groups": "hybrid;Wave 2;reach",
         "cap": "99",
-        "location": "Sarboland village"
+        "location": "Sarboland village",
+        "variables.1.name": "referral type",
+        "variables.1.value": "Sarboland"
       },
       {
         "ID": "af_wave_2_3",
         "triggers": "Life;زندگی",
         "groups": "hybrid;Wave 2;reach",
         "cap": "27",
-        "location": "Qala Noak Village"
+        "location": "Qala Noak Village",
+        "variables.1.name": "referral type",
+        "variables.1.value": "other"
       },
       {
         "ID": "af_wave_2_4",
         "triggers": "Motivation;انگیزه",
         "groups": "hybrid;Wave 2;reach",
         "cap": "29",
-        "location": "Eaz Qalak Village"
+        "location": "Eaz Qalak Village",
+        "variables.1.name": "referral type",
+        "variables.1.value": "other"
       },
       {
         "ID": "af_wave_2_5",
         "triggers": "Determination;اراده",
         "groups": "hybrid;Wave 2;reach",
         "cap": "45",
-        "location": "Kernail Village"
+        "location": "Kernail Village",
+        "variables.1.name": "referral type",
+        "variables.1.value": "Koshkak Nayeb Kernail"
       }
     ],
     "content_index": [

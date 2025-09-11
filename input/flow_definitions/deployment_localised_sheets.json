@@ -471,33 +471,33 @@
         "uuid": "a05091c4-f68f-42fd-bb48-444db89694b4"
       },
       {
-        "ID": "calm_encourage",
-        "name": "calm_encourage",
-        "uuid": "61c277d5-a5c0-49df-8875-7f927a236a0d"
-      },
-      {
-        "ID": "prepare_to_travel",
-        "name": "prepare_to_travel",
-        "uuid": "c2c5d2d8-bc44-438b-8a28-67613a2b6752"
-      },
-      {
-        "ID": "travel_safely",
-        "name": "travel_safely",
-        "uuid": "aa16b81b-76ff-4463-af7d-8b30013e2e25"
-      },
-      {
         "ID": "protect_sexual_violence",
         "name": "protect_sexual_violence",
-        "uuid": "41bc4999-915f-443c-854c-b17a90c82ce7"
+        "uuid": "61c277d5-a5c0-49df-8875-7f927a236a0d"
       },
       {
         "ID": "when_someone_dies",
         "name": "when_someone_dies",
+        "uuid": "c2c5d2d8-bc44-438b-8a28-67613a2b6752"
+      },
+      {
+        "ID": "keep_children_safe",
+        "name": "keep_children_safe",
+        "uuid": "aa16b81b-76ff-4463-af7d-8b30013e2e25"
+      },
+      {
+        "ID": "protect_from_traffickers",
+        "name": "protect_from_traffickers",
+        "uuid": "41bc4999-915f-443c-854c-b17a90c82ce7"
+      },
+      {
+        "ID": "care_in_a_shelter",
+        "name": "care_in_a_shelter",
         "uuid": "2a1c42a2-1469-4f8b-867c-707c9d3e4094"
       },
       {
-        "ID": "building_strength",
-        "name": "building_strength",
+        "ID": "healthy_farm",
+        "name": "healthy_farm",
         "uuid": "2a1c42a2-1469-4f8b-867c-707c9d3e4091"
       },
       {
@@ -509,6 +509,11 @@
         "ID": "1month",
         "name": "1month",
         "uuid": "2a1c42a2-1469-4f8b-867c-707c9d3e4095"
+      },
+      {
+        "ID": "1month_reminder",
+        "name": "1month_reminder",
+        "uuid": "2a1c42a2-1469-4f8b-867c-707c9d3e4096"
       }
     ],
     "webhook_settings": [
@@ -530,7 +535,43 @@
         "value": "CrisisAfghanistan"
       }
     ],
-    "local_triggers": [],
+    "local_triggers": [
+      {
+        "type": "K",
+        "keywords": "کمک",
+        "match_type": "O",
+        "flow": "uncaught_message_flow",
+        "groups": ""
+      },
+      {
+        "type": "K",
+        "keywords": "فهرست",
+        "match_type": "O",
+        "flow": "uncaught_message_flow",
+        "groups": ""
+      },
+      {
+        "type": "K",
+        "keywords": "نمایش",
+        "match_type": "O",
+        "flow": "uncaught_message_flow",
+        "groups": ""
+      },
+      {
+        "type": "K",
+        "keywords": "توقف",
+        "match_type": "O",
+        "flow": "uncaught_message_flow",
+        "groups": ""
+      },
+      {
+        "type": "K",
+        "keywords": "مکث",
+        "match_type": "O",
+        "flow": "uncaught_message_flow",
+        "groups": ""
+      }
+    ],
     "reset_onboarding": [
       {
         "row_id": "",

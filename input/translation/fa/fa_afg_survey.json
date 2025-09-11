@@ -60,68 +60,14 @@
     "note": ""
   },
   {
-    "SourceText": "Variables have been reset",
-    "text": "متغییرها مجدداً تنظیم شدند",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "Which survey would you like to test?",
-    "text": "میخواهید کدام نظر سنجی را امتحان کنید؟",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "1. baseline",
-    "text": "1. اولیه",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "2. feedback",
-    "text": "2. بازخورد",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "3. endline",
-    "text": "3. نهایی",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "4. 1 month",
-    "text": "4. 1 ماه",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "5. Exit demo",
-    "text": "5. خروج از نسخه آزمایشی",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "Bye for now!",
-    "text": "برای فعلاً خدا نگهدار!",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "Sorry, I don't understand",
-    "text": "معذرت، متوجه نشدم",
-    "type": "text",
-    "note": ""
-  },
-  {
     "SourceText": "We’ll ask 3 quick questions first 💬",
     "text": "ابتدا 3 سوال کوتاه می‌پرسیم 💬",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "This helps us share tips that are right for families like yours ❤️ 🕊️",
-    "text": "این کار کمک می‌کند توصیه های متناسب با خانواده‌هایی مثل شما شریک بسازیم ❤️ 🕊️",
+    "SourceText": "This helps us share tips that are right for families like yours ❤️",
+    "text": "این به ما کمک میکند توصیه های را به اشتراک بگذاریم که برای خانواده های مانند شما مناسب باشد❤️",
     "type": "text",
     "note": ""
   },
@@ -204,8 +150,8 @@
     "note": ""
   },
   {
-    "SourceText": "It’ll take only 2 minutes ⏱️,  and your answers help make these tips better for you and other families 💛",
-    "text": "این فقط 2 دقیقه طول می‌کشد ⏱️ و پاسخ‌های شما کمک می‌کند این توصیه ها برای شما و خانواده‌های دیگر بهتر شوند 💛",
+    "SourceText": "It’ll take only 2 minutes ⏱️, and your answers help make these tips better for you and other families 💛",
+    "text": "فقط 2 دقیقه⏱️ وقت می گیرد و پاسخ های شما کمک میکند این توصیه ها برای شما و دیگر خانواده ها بهتر شود💛",
     "type": "text",
     "note": ""
   },
@@ -240,8 +186,8 @@
     "note": ""
   },
   {
-    "SourceText": "Prefer not to answer: That’s completely fine 💙 Thank you for taking a moment with this question 🙏",
-    "text": "نمی‌خواهید پاسخ دهید: کاملاً مشکلی ندارد 💙 تشکر که برای پاسخ دادن به این سؤال وقت گذاشتید 🙏",
+    "SourceText": "That’s completely fine 💙 Thank you for taking a moment with this question 🙏",
+    "text": "کاملاً قابل قبول است 💙 تشکر که وقت خود را برای پاسخ به این سوالات اختصاص دادید🙏",
     "type": "text",
     "note": ""
   },
@@ -343,7 +289,7 @@
   },
   {
     "SourceText": "Did these parenting tips help you and your family?",
-    "text": "آیا این توصیه ها والدگری به شما و خانواده‌تان کمک کرده‌اند؟",
+    "text": "آیا این توصیه ها فرزند پروری به شما و خانواده‌تان کمک کرده‌اند؟",
     "type": "text",
     "note": ""
   },
@@ -354,8 +300,8 @@
     "note": ""
   },
   {
-    "SourceText": "Thanks for your responses! You will help make ParentText better for families 🎉See you back for another tip soon.",
-    "text": "تشکراز پاسخ‌های شما! شما در بهتر شدن *ParentText* برای خانواده‌ها کمک می‌کنید 🎉 به‌زودی با یک توصیه‌ دیگر برمی‌گردیم.",
+    "SourceText": "Thanks for your responses! You will help make ParentText better for families. 🎉 See you back for another tip soon.",
+    "text": "تشکر از پاسخ های تان! شما کمک می کنید تا ParentText برای خانواده بهتر شود. 🎉 به زودی با توصیه ای دیگر بر می گردیم.",
     "type": "text",
     "note": ""
   },
@@ -368,6 +314,12 @@
   {
     "SourceText": "Today you will receive your final tips. First, we have 3 questions to ask about how you and your children are doing. ❤️",
     "text": "امروز آخرین توصیه‌های خود را دریافت خواهید کرد. ابتدا، 3 سوال درباره وضعیت شما و اطفال‌تان داریم. ❤️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It’ll take only 2 minutes ⏱️,  and your answers help make these tips better for you and other families 💛",
+    "text": "این فقط 2 دقیقه طول می‌کشد ⏱️ و پاسخ‌های شما کمک می‌کند این توصیه ها برای شما و خانواده‌های دیگر بهتر شوند 💛",
     "type": "text",
     "note": ""
   },
@@ -398,24 +350,6 @@
   {
     "SourceText": "2",
     "text": "2",
-    "type": "quick_replies",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
-  },
-  {
-    "SourceText": "3",
-    "text": "3",
-    "type": "quick_replies",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
-  },
-  {
-    "SourceText": "4",
-    "text": "4",
-    "type": "quick_replies",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
-  },
-  {
-    "SourceText": "5",
-    "text": "5",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -548,24 +482,6 @@
   {
     "SourceText": "2",
     "text": "2",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "3",
-    "text": "3",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "4",
-    "text": "4",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "5",
-    "text": "5",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },

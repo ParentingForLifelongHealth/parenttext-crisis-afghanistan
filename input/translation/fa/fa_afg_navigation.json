@@ -145,19 +145,19 @@
   },
   {
     "SourceText": "If you do not want to receive any more messages, please type \"EXIT\".",
-    "text": "اگر نمی‌خواهید پیام‌های بیشتری دریافت کنید، لطفاً \"EXIT\" را بنویسید.",
+    "text": "اگر نمی‌خواهید پیام‌های بیشتری دریافت کنید، لطفاً \"خروج\" را بنویسید.",
     "type": "text",
     "note": ""
   },
   {
     "SourceText": "If you made a mistake, please type \"BACK\".",
-    "text": "اگر اشتباه نوشته اید، لطفاً \"BACK\" را بنویسید.",
+    "text": "اگر اشتباه نوشته اید، لطفاً \"بازگشت\" را بنویسید.",
     "type": "text",
     "note": ""
   },
   {
     "SourceText": "Thank you for participating. If you want to return to continue receiving tips, type HELLO. ",
-    "text": "تشکر از همراهی شما. اگر می‌خواهید دوباره دریافت نکات را ادامه دهید، \"HELLO\" را بنویسید. ",
+    "text": "تشکر از همراهی شما. اگر می‌خواهید دوباره دریافت نکات را ادامه دهید، \"سلام\" را بنویسید. ",
     "type": "text",
     "note": ""
   },
@@ -205,7 +205,7 @@
   },
   {
     "SourceText": "Let’s get started. Press NEXT to begin.",
-    "text": "بیایید شروع کنیم. برای آغاز، دکمه NEXT را فشار دهید.",
+    "text": "بیایید شروع کنیم. برای آغاز، دکمه بعدی را فشار دهید.",
     "type": "text",
     "note": ""
   },
@@ -270,8 +270,8 @@
     "note": "Strings like @fields.xxx and @results.yyy should not be translated."
   },
   {
-    "SourceText": "@(word_count(fields.s_modules_compl) +1). Return to Main Menu",
-    "text": "@(word_count(fields.s_modules_compl) +1). بازگشت به فهرست اصلی",
+    "SourceText": "@(word_count(join(reverse(split(fields.s_modules_compl,\" \")), \" \")) +1). Return to Main Menu",
+    "text": "@(word_count(join(reverse(split(fields.s_modules_compl,\" \")), \" \")) +1). بازگشت به فهرست",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
   },
@@ -313,7 +313,7 @@
   },
   {
     "SourceText": "Remember, you can always return to {prog_name} to review any of the tips. Just type {MENU}.",
-    "text": "یاد‌تان باشد که همیشه می‌توانید به {prog_name} برگردید و هر کدام از توصیه ها را مرور کنید. فقط کافی‌ست بنویسید {MENU}.",
+    "text": "یاد‌تان باشد که همیشه می‌توانید به {prog_name} برگردید و هر کدام از توصیه ها را مرور کنید. فقط کافیست بنویسید {MENU}.",
     "type": "text",
     "note": ""
   },
@@ -331,7 +331,7 @@
   },
   {
     "SourceText": "It’s a difficult moment for your family. I’m here today with a few tips to create small moments of connection with your child to give them the routine and stability you all need right now. ",
-    "text": "این روزها، زمان دشواری برای خانواده‌تان است. امروز با چند توصیه ها همراه شما هستم تا لحظات کمی از ارتباط را با اطفال تان بسازید و کار ها روزانه و ثباتی را که همگی به آن نیاز دارید، ایجاد کنید. ",
+    "text": "این روزها، وقت های دشواری برای خانواده‌تان است. امروز با چند توصیه ها همراه شما هستم تا لحظات کمی از ارتباط را با اطفال تان بسازید و کار ها روزانه و ثباتی را که همگی به آن نیاز دارید، ایجاد کنید. ",
     "type": "text",
     "note": ""
   },
@@ -540,20 +540,20 @@
     "note": ""
   },
   {
-    "SourceText": "Your current media setting is Text / Images.",
-    "text": "تنظیمات فعلی رسانه‌ای شما متن / تصویر است.",
+    "SourceText": "You are receiving content with text and images.",
+    "text": "شما مطالبی را که دریافت میکنید شامل متن و تصاویر می باشد.",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "Your current media setting is Audio.",
-    "text": "تنظیمات فعلی رسانه‌ای شما: صوتی است.",
+    "SourceText": "You are receiving content with Audio.",
+    "text": "شما مطالبی را که دریافت میکنید شامل صدا و صوت می باشد.",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "Your current media setting is",
-    "text": "تنظیمات فعلی رسانه‌ای شما است",
+    "SourceText": "You are receiving content with",
+    "text": "شما مطالبی را که دریافت میکنید شامل",
     "type": "text",
     "note": ""
   },
@@ -601,7 +601,7 @@
   },
   {
     "SourceText": "*DAY @fields.curr_demo_day*",
-    "text": "*DAY @fields.curr_demo_day*",
+    "text": "*روز @fields.curr_demo_day*",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated."
   },
@@ -624,14 +624,20 @@
     "note": ""
   },
   {
+    "SourceText": "You’ve completed the {prog_name} – well done! There are no new tips available, but you can always review any of the completed tips by selecting option 1 in the {MENU}",
+    "text": "آفرین! شما برنامه {prog_name} را تکمیل نمودید- هیچ توصیه جدید در دسترس نیست، اما شما همیشه می توانید توصیه های تکمیل شده را با انتخاب گزینه 1 در {MENU} مرور کنید",
+    "type": "text",
+    "note": ""
+  },
+  {
     "SourceText": "Thanks for reaching out 🤍 It really shows how much you care about your children. Right now, the programme is full, but we’ve added you to the waiting list. As soon as a spot opens up, we’ll let you know.",
     "text": "تشکر از تماس شما 🤍 این واقعاً نشان می‌دهد که چقدر برای اطفال تان اهمیت قائل هستید. در حال حاضر ظرفیت برنامه پر است، اما شما را در لیست انتظار قرار دادیم. به محض اینکه جای خالی ایجاد شود، به شما اطلاع خواهیم داد.",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "Variables have been reset",
-    "text": "متغییرها مجدداً تنظیم شدند",
+    "SourceText": "Here is a video about {prog_name}.",
+    "text": "در این جا یک ویدیو درباره {prog_name} موجود است.",
     "type": "text",
     "note": ""
   },
@@ -649,7 +655,7 @@
   },
   {
     "SourceText": "If you ever want to receive these tips in the future just type HELLO. ",
-    "text": "اگر در آینده بخواهید این توصیه ها را دریافت کنید، فقط \"HELLO\" را بنویسید. ",
+    "text": "اگر در آینده بخواهید این توصیه ها را دریافت کنید، فقط \"سلام\" را بنویسید. ",
     "type": "text",
     "note": ""
   },
@@ -661,7 +667,7 @@
   },
   {
     "SourceText": "That's okay. If you ever decide to come back, type HELLO. ",
-    "text": "درست است. اگر تصمیم گرفتید بازگردید، فقط \"HELLO\" را بنویسید. ",
+    "text": "درست است. اگر تصمیم گرفتید بازگردید، فقط \"سلام\" را بنویسید. ",
     "type": "text",
     "note": ""
   },
@@ -758,12 +764,6 @@
   {
     "SourceText": "A fun activity I can do with my child",
     "text": "یک فعالیت سرگرم کننده ای که می توانم با طفل خود انجام دهم",
-    "type": "quick_replies",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
-  },
-  {
-    "SourceText": "Proceed to the next tip",
-    "text": "ادامه، به توصیه بعدی",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -1106,12 +1106,6 @@
   {
     "SourceText": "a fun activity i can do with my child",
     "text": "یک فعالیت سرگرم کننده یی که می توانم با طفل خود انجام بدهم",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "proceed to the next tip",
-    "text": "ادامه، به توصیه بعدی",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
