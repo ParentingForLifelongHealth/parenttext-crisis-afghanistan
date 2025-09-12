@@ -7,6 +7,13 @@
       {
         "flow_type": "flow_editing",
         "flow_name": "",
+        "sheet_name": "referrals_add_location",
+        "status": "released",
+        "order": "0"
+      },
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
         "sheet_name": "referrals_eng",
         "status": "released",
         "order": "1"
@@ -118,6 +125,116 @@
         "replacement": "*"
       }
     ],
+    "referrals_add_location": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{generic_referrals}.*",
+        "change": "{generic_referrals}",
+        "condition_var": "@fields.referral_type",
+        "category": "{generic_referrals}",
+        "category:Siaab": "{generic_referrals_Siaab}",
+        "condition:Siaab": "Siaab",
+        "condition_type:Siaab": "has_only_phrase",
+        "category:Sarboland": "{generic_referrals_Sarboland}",
+        "condition:Sarboland": "Sarboland",
+        "condition_type:Sarboland": "has_only_phrase",
+        "category:Koshkak Nayeb Kernail": "{generic_referrals_Koshkak Nayeb Kernail}",
+        "condition:Koshkak Nayeb Kernail": "Koshkak Nayeb Kernail",
+        "condition_type:Koshkak Nayeb Kernail": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{natural_disasters_referrals}.*",
+        "change": "{natural_disasters_referrals}",
+        "condition_var": "@fields.referral_type",
+        "category": "{natural_disasters_referrals}",
+        "category:Siaab": "{natural_disasters_referrals_Siaab}",
+        "condition:Siaab": "Siaab",
+        "condition_type:Siaab": "has_only_phrase",
+        "category:Sarboland": "{natural_disasters_referrals_Sarboland}",
+        "condition:Sarboland": "Sarboland",
+        "condition_type:Sarboland": "has_only_phrase",
+        "category:Koshkak Nayeb Kernail": "{natural_disasters_referrals_Koshkak Nayeb Kernail}",
+        "condition:Koshkak Nayeb Kernail": "Koshkak Nayeb Kernail",
+        "condition_type:Koshkak Nayeb Kernail": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{mental_health_referrals}.*",
+        "change": "{mental_health_referrals}",
+        "condition_var": "@fields.referral_type",
+        "category": "{mental_health_referrals}",
+        "category:Siaab": "{mental_health_referrals_Siaab}",
+        "condition:Siaab": "Siaab",
+        "condition_type:Siaab": "has_only_phrase",
+        "category:Sarboland": "{mental_health_referrals_Sarboland}",
+        "condition:Sarboland": "Sarboland",
+        "condition_type:Sarboland": "has_only_phrase",
+        "category:Koshkak Nayeb Kernail": "{mental_health_referrals_Koshkak Nayeb Kernail}",
+        "condition:Koshkak Nayeb Kernail": "Koshkak Nayeb Kernail",
+        "condition_type:Koshkak Nayeb Kernail": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{health_referrals}.*",
+        "change": "{health_referrals}",
+        "condition_var": "@fields.referral_type",
+        "category": "{health_referrals}",
+        "category:Siaab": "{health_referrals_Siaab}",
+        "condition:Siaab": "Siaab",
+        "condition_type:Siaab": "has_only_phrase",
+        "category:Sarboland": "{health_referrals_Sarboland}",
+        "condition:Sarboland": "Sarboland",
+        "condition_type:Sarboland": "has_only_phrase",
+        "category:Koshkak Nayeb Kernail": "{health_referrals_Koshkak Nayeb Kernail}",
+        "condition:Koshkak Nayeb Kernail": "Koshkak Nayeb Kernail",
+        "condition_type:Koshkak Nayeb Kernail": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{family_referrals}.*",
+        "change": "{family_referrals}",
+        "condition_var": "@fields.referral_type",
+        "category": "{family_referrals}",
+        "category:Siaab": "{family_referrals_Siaab}",
+        "condition:Siaab": "Siaab",
+        "condition_type:Siaab": "has_only_phrase",
+        "category:Sarboland": "{family_referrals_Sarboland}",
+        "condition:Sarboland": "Sarboland",
+        "condition_type:Sarboland": "has_only_phrase",
+        "category:Koshkak Nayeb Kernail": "{family_referrals_Koshkak Nayeb Kernail}",
+        "condition:Koshkak Nayeb Kernail": "Koshkak Nayeb Kernail",
+        "condition_type:Koshkak Nayeb Kernail": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{child_protection_referrals}.*",
+        "change": "{child_protection_referrals}",
+        "condition_var": "@fields.referral_type",
+        "category": "{child_protection_referrals}",
+        "category:Siaab": "{child_protection_referrals_Siaab}",
+        "condition:Siaab": "Siaab",
+        "condition_type:Siaab": "has_only_phrase",
+        "category:Sarboland": "{child_protection_referrals_Sarboland}",
+        "condition:Sarboland": "Sarboland",
+        "condition_type:Sarboland": "has_only_phrase",
+        "category:Koshkak Nayeb Kernail": "{child_protection_referrals_Koshkak Nayeb Kernail}",
+        "condition:Koshkak Nayeb Kernail": "Koshkak Nayeb Kernail",
+        "condition_type:Koshkak Nayeb Kernail": "has_only_phrase"
+      }
+    ],
     "referrals_eng": [
       {
         "type_of_edit": "replace_bit_of_text",
@@ -125,6 +242,33 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{generic_referrals}.*",
         "change": "{generic_referrals}",
+        "condition_var": "",
+        "category": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{generic_referrals_Siaab}.*",
+        "change": "{generic_referrals_Siaab}",
+        "condition_var": "",
+        "category": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{generic_referrals_Sarboland}.*",
+        "change": "{generic_referrals_Sarboland}",
+        "condition_var": "",
+        "category": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{generic_referrals_Koshkak Nayeb Kernail}.*",
+        "change": "{generic_referrals_Koshkak Nayeb Kernail}",
         "condition_var": "",
         "category": "Add referral"
       },
@@ -141,8 +285,62 @@
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
+        "node_identifier": "Regex:.*{natural_disasters_referrals_Siaab}.*",
+        "change": "{natural_disasters_referrals_Siaab}",
+        "condition_var": "",
+        "category": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{natural_disasters_referrals_Sarboland}.*",
+        "change": "{natural_disasters_referrals_Sarboland}",
+        "condition_var": "",
+        "category": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{natural_disasters_referrals_Koshkak Nayeb Kernail}.*",
+        "change": "{natural_disasters_referrals_Koshkak Nayeb Kernail}",
+        "condition_var": "",
+        "category": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
         "node_identifier": "Regex:.*{mental_health_referrals}.*",
         "change": "{mental_health_referrals}",
+        "condition_var": "",
+        "category": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{mental_health_referrals_Siaab}.*",
+        "change": "{mental_health_referrals_Siaab}",
+        "condition_var": "",
+        "category": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{mental_health_referrals_Sarboland}.*",
+        "change": "{mental_health_referrals_Sarboland}",
+        "condition_var": "",
+        "category": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{mental_health_referrals_Koshkak Nayeb Kernail}.*",
+        "change": "{mental_health_referrals_Koshkak Nayeb Kernail}",
         "condition_var": "",
         "category": "Add referral"
       },
@@ -159,8 +357,62 @@
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
+        "node_identifier": "Regex:.*{health_referrals_Siaab}.*",
+        "change": "{health_referrals_Siaab}",
+        "condition_var": "",
+        "category": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{health_referrals_Sarboland}.*",
+        "change": "{health_referrals_Sarboland}",
+        "condition_var": "",
+        "category": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{health_referrals_Koshkak Nayeb Kernail}.*",
+        "change": "{health_referrals_Koshkak Nayeb Kernail}",
+        "condition_var": "",
+        "category": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
         "node_identifier": "Regex:.*{family_referrals}.*",
         "change": "{family_referrals}",
+        "condition_var": "",
+        "category": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{family_referrals_Siaab}.*",
+        "change": "{family_referrals_Siaab}",
+        "condition_var": "",
+        "category": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{family_referrals_Sarboland}.*",
+        "change": "{family_referrals_Sarboland}",
+        "condition_var": "",
+        "category": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{family_referrals_Koshkak Nayeb Kernail}.*",
+        "change": "{family_referrals_Koshkak Nayeb Kernail}",
         "condition_var": "",
         "category": "Add referral"
       },
@@ -172,6 +424,33 @@
         "change": "{child_protection_referrals}",
         "condition_var": "",
         "category": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{child_protection_referrals_Siaab}.*",
+        "change": "{child_protection_referrals_Siaab}",
+        "condition_var": "",
+        "category": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{child_protection_referrals_Sarboland}.*",
+        "change": "{child_protection_referrals_Sarboland}",
+        "condition_var": "",
+        "category": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{child_protection_referrals_Koshkak Nayeb Kernail}.*",
+        "change": "{child_protection_referrals_Koshkak Nayeb Kernail}",
+        "condition_var": "",
+        "category": "Add referral"
       }
     ],
     "referrals_transl": [
@@ -179,7 +458,79 @@
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
+        "node_identifier": "Regex:.*{generic_referrals}.*",
+        "original": "{generic_referrals}",
+        "language": "prs",
+        "replacement": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{generic_referrals_Siaab}.*",
+        "original": "{generic_referrals}",
+        "language": "prs",
+        "replacement": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{generic_referrals_Sarboland}.*",
+        "original": "{generic_referrals}",
+        "language": "prs",
+        "replacement": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{generic_referrals_Koshkak Nayeb Kernail}.*",
+        "original": "{generic_referrals}",
+        "language": "prs",
+        "replacement": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
         "node_identifier": "Regex:.*{natural_disasters_referrals}.*",
+        "original": "{natural_disasters_referrals}",
+        "language": "prs",
+        "replacement": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{natural_disasters_referrals_Siaab}.*",
+        "original": "{natural_disasters_referrals}",
+        "language": "prs",
+        "replacement": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{child_protection_referrals jordan}.*",
+        "original": "{child_protection_referrals}",
+        "language": "ara",
+        "replacement": "منظمة إنقاذ الطفولة – الأردن - +962 6 565 6749 - https://savethechildren.org.jo"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{natural_disasters_referrals_Sarboland}.*",
+        "original": "{natural_disasters_referrals}",
+        "language": "prs",
+        "replacement": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{natural_disasters_referrals_Koshkak Nayeb Kernail}.*",
         "original": "{natural_disasters_referrals}",
         "language": "prs",
         "replacement": "Add referral"
@@ -197,6 +548,33 @@
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
+        "node_identifier": "Regex:.*{mental_health_referrals_Siaab}.*",
+        "original": "{mental_health_referrals}",
+        "language": "prs",
+        "replacement": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{mental_health_referrals_Sarboland}.*",
+        "original": "{mental_health_referrals}",
+        "language": "prs",
+        "replacement": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{mental_health_referrals_Koshkak Nayeb Kernail}.*",
+        "original": "{mental_health_referrals}",
+        "language": "prs",
+        "replacement": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
         "node_identifier": "Regex:.*{health_referrals}.*",
         "original": "{health_referrals}",
         "language": "prs",
@@ -206,8 +584,26 @@
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{generic_referrals}.*",
-        "original": "{generic_referrals}",
+        "node_identifier": "Regex:.*{health_referrals_Siaab}.*",
+        "original": "{health_referrals}",
+        "language": "prs",
+        "replacement": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{health_referrals_Sarboland}.*",
+        "original": "{health_referrals}",
+        "language": "prs",
+        "replacement": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{health_referrals_Koshkak Nayeb Kernail}.*",
+        "original": "{health_referrals}",
         "language": "prs",
         "replacement": "Add referral"
       },
@@ -216,6 +612,33 @@
         "flow_id": "Regex:.*",
         "original_row_id": "",
         "node_identifier": "Regex:.*{family_referrals}.*",
+        "original": "{family_referrals}",
+        "language": "prs",
+        "replacement": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{family_referrals_Siaab}.*",
+        "original": "{family_referrals}",
+        "language": "prs",
+        "replacement": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{family_referrals_Sarboland}.*",
+        "original": "{family_referrals}",
+        "language": "prs",
+        "replacement": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{family_referrals_Koshkak Nayeb Kernail}.*",
         "original": "{family_referrals}",
         "language": "prs",
         "replacement": "Add referral"
@@ -233,10 +656,28 @@
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{child_protection_referrals jordan}.*",
+        "node_identifier": "Regex:.*{child_protection_referrals_Siaab}.*",
         "original": "{child_protection_referrals}",
-        "language": "ara",
-        "replacement": "منظمة إنقاذ الطفولة – الأردن - +962 6 565 6749 - https://savethechildren.org.jo"
+        "language": "prs",
+        "replacement": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{child_protection_referrals_Sarboland}.*",
+        "original": "{child_protection_referrals}",
+        "language": "prs",
+        "replacement": "Add referral"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{child_protection_referrals_Koshkak Nayeb Kernail}.*",
+        "original": "{child_protection_referrals}",
+        "language": "prs",
+        "replacement": "Add referral"
       }
     ],
     "triggers_eng": [

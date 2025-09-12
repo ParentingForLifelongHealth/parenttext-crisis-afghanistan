@@ -579,40 +579,6 @@
         "wa_template_vars.2": ""
       }
     ],
-    "Sheet6": [
-      {
-        "help_children_cope": "make_a_routine",
-        "care_for_yourself": "make_a_routine"
-      },
-      {
-        "help_children_cope": "calm_encourage",
-        "care_for_yourself": "help_children_cope"
-      },
-      {
-        "help_children_cope": "prepare_to_travel",
-        "care_for_yourself": "when_someone_dies"
-      },
-      {
-        "help_children_cope": "travel_safely",
-        "care_for_yourself": "protect_sexual_violence"
-      },
-      {
-        "help_children_cope": "protect_sexual_violence",
-        "care_for_yourself": "keep_children_safe"
-      },
-      {
-        "help_children_cope": "when_someone_dies",
-        "care_for_yourself": "protect_from_traffickers"
-      },
-      {
-        "help_children_cope": "building_strength",
-        "care_for_yourself": "care_in_a_shelter"
-      },
-      {
-        "help_children_cope": "",
-        "care_for_yourself": "healthy_farm"
-      }
-    ],
     "activity_offer_data": [
       {
         "ID": "timed_programme",
