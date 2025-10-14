@@ -103,7 +103,7 @@
             "format": "media_assets",
             "mappings": {
                 "Language": {
-                    "Romanian": "ron"
+                    "Dari": "prs"
                 },
                 "Caregiver Gender": {
                     "F": "female",
