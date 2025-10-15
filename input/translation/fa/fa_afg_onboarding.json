@@ -42,6 +42,24 @@
     "note": ""
   },
   {
+    "SourceText": "Before we begin, {prog_name} is only for people 18 years and older. Are you 18 years or above?",
+    "text": "قبل از شروع، {prog_name} فقط برای افرادی است که ۱۸ سال به بالا دارند. آیا شما ۱۸ سال یا بیشتر سن دارید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you confirm that you are under the age of 18?",
+    "text": "آیا تأیید می‌کنید که کمتر از ۱۸ سال سن دارید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for being honest 💛 {prog_name} is only for people 18+. Please talk to a trusted adult who can support you. If they’d like to join, they can type {joining_trigger}.  🌸",
+    "text": "از صادق بودن شما سپاسگزاریم 💛 {prog_name} فقط برای افراد ۱۸ سال به بالا است. لطفاً با یک بزرگسال مورد اعتماد صحبت کنید که بتواند شما را حمایت کند. اگر آن‌ها بخواهند بپیوندند، می‌توانند کلمه‌ی {joining_trigger} را بنویسند. 🌸",
+    "type": "text",
+    "note": ""
+  },
+  {
     "SourceText": "🧡 You are a great parent. Thank you for joining us. ",
     "text": "🧡 شما یک والد فوق‌العاده هستید. تشکر که به ما پیوستید. ",
     "type": "text",
@@ -72,8 +90,8 @@
     "note": ""
   },
   {
-    "SourceText": "✅ To read our privacy policy, visit {consent}. If you are over 18 and consent to our privacy policy, select YES. Type \"EXIT\" if you do not want to participate.",
-    "text": "✅ برای خواندن پالیسی محرمیت ما، به {consent} مراجعه نمایید. اگر بالاتر از ۱۸ سال سن دارید و با پالیسی محرمیت ما موافق هستید، گزینه \"بلی\" را انتخاب کنید. اگر نمی‌خواهید در برنامه اشتراک کنید، کلمه\"خروج\" را بنویسید.",
+    "SourceText": "✅ To read our privacy policy, visit {consent}. If you consent to our privacy policy, select YES. Type \"EXIT\" if you do not want to participate.",
+    "text": "✅ برای مطالعهٔ سیاست حفظ حریم خصوصی ما، به {consent} مراجعه کنید. اگر با سیاست حفظ حریم خصوصی ما موافق هستید، گزینهٔ بله را انتخاب کنید. اگر نمی‌خواهید مشارکت کنید، کلمهٔ \"خروج\" را بنویسید.",
     "type": "text",
     "note": ""
   },
@@ -198,6 +216,30 @@
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
+    "SourceText": "Yes, I am 18 years old or older",
+    "text": "بلی، من ۱۸ سال یا بیشتر سن دارم",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "No, I am under 18",
+    "text": "نخیر، من کمتر 18 سال سن دارم",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes, I am under 18",
+    "text": "بلی، من کمتر 18 سال سن دارم",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "No, take me back to the question",
+    "text": "خیر، من را به سؤال قبلی بازگردانید",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
     "SourceText": "YES",
     "text": "بلی",
     "type": "quick_replies",
@@ -252,8 +294,20 @@
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
+    "SourceText": "45-54 years old",
+    "text": "45-54 ساله",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
     "SourceText": "Over 55 years old",
     "text": "بالای 55 سال سن",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Prefer not to say",
+    "text": "ترجیع میدهم جواب ندهم",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -266,12 +320,6 @@
   {
     "SourceText": "Man",
     "text": "مرد",
-    "type": "quick_replies",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
-  },
-  {
-    "SourceText": "Prefer not to say",
-    "text": "ترجیع میدهم جواب ندهم",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -354,6 +402,30 @@
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
+    "SourceText": "yes, i am 18 years old or older",
+    "text": "بله، من ۱۸ سال یا بیشتر سن دارم",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no, i am under 18",
+    "text": "خیر، من کمتر از ۱۸ سال سن دارم",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no, take me back to the question",
+    "text": "خیر، من را به سؤال قبلی بازگردانید",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes, i am under 18",
+    "text": "بلی، من کمتر از 18 سال سن دارم",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
     "SourceText": "yes",
     "text": "بلی",
     "type": "arguments",
@@ -408,8 +480,20 @@
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
+    "SourceText": "45-54 years old",
+    "text": "45-54 ساله",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
     "SourceText": "over 55 years old",
     "text": "بالای 55 سال سن",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "prefer not to say",
+    "text": "ترجیع میدهم پاسخ ندهم",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -422,12 +506,6 @@
   {
     "SourceText": "man",
     "text": "مرد",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "prefer not to say",
-    "text": "ترجیع میدهم پاسخ ندهم",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },

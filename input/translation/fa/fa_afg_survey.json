@@ -48,14 +48,32 @@
     "note": ""
   },
   {
-    "SourceText": "That's okay.",
-    "text": "مشکلی ندارد، صحیست.",
+    "SourceText": "That's okay. We'll check-in again with you tomorrow.",
+    "text": "مشکلی نیست. فردا مجدداً با شما تماس خواهیم گرفت.",
     "type": "text",
     "note": ""
   },
   {
     "SourceText": "Sorry, I don't understand what you mean.",
     "text": "متاسفم، متوجه منظور تان نشدم.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Hello again! ",
+    "text": "سلام مجدد! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to continue? 🙂",
+    "text": "مایلید ادامه دهید؟ 🙂",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for letting us know.",
+    "text": "تشکر ازینکه ما را در جریان گذاشتید.",
     "type": "text",
     "note": ""
   },
@@ -150,14 +168,26 @@
     "note": ""
   },
   {
-    "SourceText": "It’ll take only 2 minutes ⏱️, and your answers help make these tips better for you and other families 💛",
-    "text": "فقط 2 دقیقه⏱️ وقت می گیرد و پاسخ های شما کمک میکند این توصیه ها برای شما و دیگر خانواده ها بهتر شود💛",
+    "SourceText": "Some of the next questions are more personal, about mood and parenting. 💛",
+    "text": "برخی از سؤالات بعدی شخصی‌تر هستند و دربارهٔ روحیه و فرزندپروری می‌باشند. 💛",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "Would you like to continue?",
-    "text": "آیا می‌خواهید ادامه دهید؟",
+    "SourceText": "Your answers are private and help make the programme better for families.",
+    "text": "پاسخ‌های شما خصوصی هستند و به بهبود برنامه برای خانواده‌ها کمک می‌کنند.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You can skip any question you don’t want to answer.",
+    "text": "می‌توانید هر سؤالی را که نمی‌خواهید پاسخ دهید، رد کنید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you agree to answer these questions?",
+    "text": "آیا با پاسخ دادن به این سؤالات موافق هستید؟",
     "type": "text",
     "note": ""
   },
@@ -318,8 +348,8 @@
     "note": ""
   },
   {
-    "SourceText": "It’ll take only 2 minutes ⏱️,  and your answers help make these tips better for you and other families 💛",
-    "text": "این فقط 2 دقیقه طول می‌کشد ⏱️ و پاسخ‌های شما کمک می‌کند این توصیه ها برای شما و خانواده‌های دیگر بهتر شوند 💛",
+    "SourceText": "Finally, we’d like to ask 5 more questions before your final tip!",
+    "text": "در نهایت، می‌خواهیم قبل از ارائهٔ نکتهٔ پایانی، ۵ سؤال دیگر از شما بپرسیم!",
     "type": "text",
     "note": ""
   },

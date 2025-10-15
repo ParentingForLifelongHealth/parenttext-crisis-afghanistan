@@ -121,7 +121,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*",
         "original": "**",
-        "language": "prs",
+        "language": "fas",
         "replacement": "*"
       }
     ],
@@ -140,9 +140,9 @@
         "category:Sarboland": "{generic_referrals_Sarboland}",
         "condition:Sarboland": "Sarboland",
         "condition_type:Sarboland": "has_only_phrase",
-        "category:Koshkak Nayeb Kernail": "{generic_referrals_Koshkak Nayeb Kernail}",
-        "condition:Koshkak Nayeb Kernail": "Koshkak Nayeb Kernail",
-        "condition_type:Koshkak Nayeb Kernail": "has_only_phrase"
+        "category:Kajkal": "{generic_referrals_Kajkal}",
+        "condition:Kajkal": "Kajkal",
+        "condition_type:Kajkal": "has_only_phrase"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -158,9 +158,9 @@
         "category:Sarboland": "{natural_disasters_referrals_Sarboland}",
         "condition:Sarboland": "Sarboland",
         "condition_type:Sarboland": "has_only_phrase",
-        "category:Koshkak Nayeb Kernail": "{natural_disasters_referrals_Koshkak Nayeb Kernail}",
-        "condition:Koshkak Nayeb Kernail": "Koshkak Nayeb Kernail",
-        "condition_type:Koshkak Nayeb Kernail": "has_only_phrase"
+        "category:Kajkal": "{natural_disasters_referrals_Kajkal}",
+        "condition:Kajkal": "Kajkal",
+        "condition_type:Kajkal": "has_only_phrase"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -176,9 +176,9 @@
         "category:Sarboland": "{mental_health_referrals_Sarboland}",
         "condition:Sarboland": "Sarboland",
         "condition_type:Sarboland": "has_only_phrase",
-        "category:Koshkak Nayeb Kernail": "{mental_health_referrals_Koshkak Nayeb Kernail}",
-        "condition:Koshkak Nayeb Kernail": "Koshkak Nayeb Kernail",
-        "condition_type:Koshkak Nayeb Kernail": "has_only_phrase"
+        "category:Kajkal": "{mental_health_referrals_Kajkal}",
+        "condition:Kajkal": "Kajkal",
+        "condition_type:Kajkal": "has_only_phrase"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -194,9 +194,9 @@
         "category:Sarboland": "{health_referrals_Sarboland}",
         "condition:Sarboland": "Sarboland",
         "condition_type:Sarboland": "has_only_phrase",
-        "category:Koshkak Nayeb Kernail": "{health_referrals_Koshkak Nayeb Kernail}",
-        "condition:Koshkak Nayeb Kernail": "Koshkak Nayeb Kernail",
-        "condition_type:Koshkak Nayeb Kernail": "has_only_phrase"
+        "category:Kajkal": "{health_referrals_Kajkal}",
+        "condition:Kajkal": "Kajkal",
+        "condition_type:Kajkal": "has_only_phrase"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -212,9 +212,9 @@
         "category:Sarboland": "{family_referrals_Sarboland}",
         "condition:Sarboland": "Sarboland",
         "condition_type:Sarboland": "has_only_phrase",
-        "category:Koshkak Nayeb Kernail": "{family_referrals_Koshkak Nayeb Kernail}",
-        "condition:Koshkak Nayeb Kernail": "Koshkak Nayeb Kernail",
-        "condition_type:Koshkak Nayeb Kernail": "has_only_phrase"
+        "category:Kajkal": "{family_referrals_Kajkal}",
+        "condition:Kajkal": "Kajkal",
+        "condition_type:Kajkal": "has_only_phrase"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -230,9 +230,9 @@
         "category:Sarboland": "{child_protection_referrals_Sarboland}",
         "condition:Sarboland": "Sarboland",
         "condition_type:Sarboland": "has_only_phrase",
-        "category:Koshkak Nayeb Kernail": "{child_protection_referrals_Koshkak Nayeb Kernail}",
-        "condition:Koshkak Nayeb Kernail": "Koshkak Nayeb Kernail",
-        "condition_type:Koshkak Nayeb Kernail": "has_only_phrase"
+        "category:Kajkal": "{child_protection_referrals_Kajkal}",
+        "condition:Kajkal": "Kajkal",
+        "condition_type:Kajkal": "has_only_phrase"
       }
     ],
     "referrals_eng": [
@@ -252,7 +252,7 @@
         "node_identifier": "Regex:.*{generic_referrals_Siaab}.*",
         "change": "{generic_referrals_Siaab}",
         "condition_var": "",
-        "category": "Add referral"
+        "category": "**Available services in your area provided byWorld Vision Afghanistan – Herat Response Project:**\n\nPsychosocial Support\n📞 0797076137\n\nMedical Support (Sia Ab Clinic) \n📞 0799053609\n\nNatural Disaster Support (CESVI)\n📞 0799224283"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -261,16 +261,16 @@
         "node_identifier": "Regex:.*{generic_referrals_Sarboland}.*",
         "change": "{generic_referrals_Sarboland}",
         "condition_var": "",
-        "category": "Add referral"
+        "category": "**Available services in your area provided byWorld Vision Afghanistan – Herat Response Project:**\n\nPsychosocial Support\n📞 0797076137\n\nMedical Support (Sarboland Clinic) \n📞 0798381015\n\nNatural Disaster Support (CESVI)\n📞 0799224283"
       },
       {
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{generic_referrals_Koshkak Nayeb Kernail}.*",
-        "change": "{generic_referrals_Koshkak Nayeb Kernail}",
+        "node_identifier": "Regex:.*{generic_referrals_Kajkal}.*",
+        "change": "{generic_referrals_Kajkal}",
         "condition_var": "",
-        "category": "Add referral"
+        "category": "**Available services in your area provided by World Vision Afghanistan – Herat Response Project:**\n\nPsychosocial Support\n📞 0797076137\n\nMedical Support (Kajkal Clinic) \n📞 0799524749\n\nNatural Disaster Support (CESVI)\n📞 0799224283"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -288,7 +288,7 @@
         "node_identifier": "Regex:.*{natural_disasters_referrals_Siaab}.*",
         "change": "{natural_disasters_referrals_Siaab}",
         "condition_var": "",
-        "category": "Add referral"
+        "category": "**For immediate crisis response (fires, floods, storms, earthquake), contact**:  \nCESVI: 📞 0799224283"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -297,16 +297,16 @@
         "node_identifier": "Regex:.*{natural_disasters_referrals_Sarboland}.*",
         "change": "{natural_disasters_referrals_Sarboland}",
         "condition_var": "",
-        "category": "Add referral"
+        "category": "**For immediate crisis response (fires, floods, storms, earthquake), contact**:  \nCESVI: 📞 0799224283"
       },
       {
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{natural_disasters_referrals_Koshkak Nayeb Kernail}.*",
-        "change": "{natural_disasters_referrals_Koshkak Nayeb Kernail}",
+        "node_identifier": "Regex:.*{natural_disasters_referrals_Kajkal}.*",
+        "change": "{natural_disasters_referrals_Kajkal}",
         "condition_var": "",
-        "category": "Add referral"
+        "category": "**For immediate crisis response (fires, floods, storms, earthquake), contact**:  \nCESVI: 📞 0799224283"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -324,7 +324,7 @@
         "node_identifier": "Regex:.*{mental_health_referrals_Siaab}.*",
         "change": "{mental_health_referrals_Siaab}",
         "condition_var": "",
-        "category": "Add referral"
+        "category": "**Need emotional or psychological support? 💙**\nCall our Mental Health Support line for guidance and help accessing services:\n📞 0797076137"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -333,16 +333,16 @@
         "node_identifier": "Regex:.*{mental_health_referrals_Sarboland}.*",
         "change": "{mental_health_referrals_Sarboland}",
         "condition_var": "",
-        "category": "Add referral"
+        "category": "**Need emotional or psychological support? 💙**\nCall our Mental Health Support line for guidance and help accessing services:\n📞 0797076137"
       },
       {
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{mental_health_referrals_Koshkak Nayeb Kernail}.*",
-        "change": "{mental_health_referrals_Koshkak Nayeb Kernail}",
+        "node_identifier": "Regex:.*{mental_health_referrals_Kajkal}.*",
+        "change": "{mental_health_referrals_Kajkal}",
         "condition_var": "",
-        "category": "Add referral"
+        "category": "**Need emotional or psychological support? 💙**\nCall our Mental Health Support line for guidance and help accessing services:\n📞 0797076137"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -360,7 +360,7 @@
         "node_identifier": "Regex:.*{health_referrals_Siaab}.*",
         "change": "{health_referrals_Siaab}",
         "condition_var": "",
-        "category": "Add referral"
+        "category": "**Need medical support or medication for you or your family? 🏥**\nYou can contact the nearest clinic (Sia Ab Clinic) \n📞 0799053609"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -369,88 +369,16 @@
         "node_identifier": "Regex:.*{health_referrals_Sarboland}.*",
         "change": "{health_referrals_Sarboland}",
         "condition_var": "",
-        "category": "Add referral"
+        "category": "**Need medical support or medication for you or your family? 🏥**\nYou can contact the nearest clinic (Sarboland Clinic) \n📞 0798381015\n"
       },
       {
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{health_referrals_Koshkak Nayeb Kernail}.*",
-        "change": "{health_referrals_Koshkak Nayeb Kernail}",
+        "node_identifier": "Regex:.*{health_referrals_Kajkal}.*",
+        "change": "{health_referrals_Kajkal}",
         "condition_var": "",
-        "category": "Add referral"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{family_referrals}.*",
-        "change": "{family_referrals}",
-        "condition_var": "",
-        "category": "Add referral"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{family_referrals_Siaab}.*",
-        "change": "{family_referrals_Siaab}",
-        "condition_var": "",
-        "category": "Add referral"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{family_referrals_Sarboland}.*",
-        "change": "{family_referrals_Sarboland}",
-        "condition_var": "",
-        "category": "Add referral"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{family_referrals_Koshkak Nayeb Kernail}.*",
-        "change": "{family_referrals_Koshkak Nayeb Kernail}",
-        "condition_var": "",
-        "category": "Add referral"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{child_protection_referrals}.*",
-        "change": "{child_protection_referrals}",
-        "condition_var": "",
-        "category": "Add referral"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{child_protection_referrals_Siaab}.*",
-        "change": "{child_protection_referrals_Siaab}",
-        "condition_var": "",
-        "category": "Add referral"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{child_protection_referrals_Sarboland}.*",
-        "change": "{child_protection_referrals_Sarboland}",
-        "condition_var": "",
-        "category": "Add referral"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{child_protection_referrals_Koshkak Nayeb Kernail}.*",
-        "change": "{child_protection_referrals_Koshkak Nayeb Kernail}",
-        "condition_var": "",
-        "category": "Add referral"
+        "category": "**Need medical support or medication for you or your family? 🏥**\nYou can contact the nearest clinic (Kajkal Clinic) \n📞 0799524749"
       }
     ],
     "referrals_transl": [
@@ -460,7 +388,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{generic_referrals}.*",
         "original": "{generic_referrals}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "Add referral"
       },
       {
@@ -469,8 +397,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{generic_referrals_Siaab}.*",
         "original": "{generic_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
+        "language": "fas",
+        "replacement": "خدمات موجود در ساحهٔ شما که توسط پروژه پاسخدهی ورد ویژن افغانستان – هرات ارائه می‌گردد:\n\nحمایت روانی-اجتماعی\n📞  0797076137\n\nحمایت صحی (کلینیک سیاآب )\n📞  0799053609\n\nحمایت در حادثات ویا بلایای طبیعی (CESVI)\n📞 0799224283"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -478,17 +406,17 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{generic_referrals_Sarboland}.*",
         "original": "{generic_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
+        "language": "fas",
+        "replacement": "خدمات موجود در ساحهٔ شما که توسط پروژه پاسخدهی ورد ویژن افغانستان – هرات ارائه می‌گردد:\n\nحمایت روانی-اجتماعی\n📞 0797076137\n\nحمایت صحی (کلینیک سربلند)\n📞 0798381015\n\nحمایت در حادثات ویا بلایای طبیعی (CESVI)\n📞 0799224283"
       },
       {
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{generic_referrals_Koshkak Nayeb Kernail}.*",
+        "node_identifier": "Regex:.*{generic_referrals_Kajkal}.*",
         "original": "{generic_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
+        "language": "fas",
+        "replacement": "خدمات موجود در ساحهٔ شما که توسط پروژه پاسخدهی ورد ویژن افغانستان – هرات ارائه می‌گردد:\n\nحمایت روانی-اجتماعی\n📞  0797076137\n\nحمایت صحی (کلینیک کج کال )\n📞 0799524749\n\nحمایت در حادثات ویا بلایای طبیعی (CESVI)\n📞 0799224283"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -496,7 +424,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{natural_disasters_referrals}.*",
         "original": "{natural_disasters_referrals}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "Add referral"
       },
       {
@@ -505,17 +433,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{natural_disasters_referrals_Siaab}.*",
         "original": "{natural_disasters_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{child_protection_referrals jordan}.*",
-        "original": "{child_protection_referrals}",
-        "language": "ara",
-        "replacement": "منظمة إنقاذ الطفولة – الأردن - +962 6 565 6749 - https://savethechildren.org.jo"
+        "language": "fas",
+        "replacement": "برای پاسخدهی فوری در حالات بحران (آتش‌سوزی، سیلاب، طوفان، زلزله) تماس بگیرید با:\nCESVI: 📞 0799224283"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -523,17 +442,17 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{natural_disasters_referrals_Sarboland}.*",
         "original": "{natural_disasters_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
+        "language": "fas",
+        "replacement": "برای پاسخ‌دهی فوری در حالات بحران (آتش‌سوزی، سیلاب، طوفان، زلزله) تماس بگیرید با:\nCESVI: 📞 0799224283"
       },
       {
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{natural_disasters_referrals_Koshkak Nayeb Kernail}.*",
+        "node_identifier": "Regex:.*{natural_disasters_referrals_Kajkal}.*",
         "original": "{natural_disasters_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
+        "language": "fas",
+        "replacement": "برای پاسخدهی فوری در حالات بحران (آتش‌سوزی، سیلاب، طوفان، زلزله) تماس بگیرید با:\nCESVI: 📞 0799224283"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -541,7 +460,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{mental_health_referrals}.*",
         "original": "{mental_health_referrals}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "Add referral"
       },
       {
@@ -550,8 +469,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{mental_health_referrals_Siaab}.*",
         "original": "{mental_health_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
+        "language": "fas",
+        "replacement": "نیاز به حمایت عاطفی یا روانی دارید؟ \nبرای دریافت رهنمود و کمک به دسترسی به خدمات، با خط حمایوی صحت روانی ما تماس بگیرید:\n📞 0797076137"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -559,17 +478,17 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{mental_health_referrals_Sarboland}.*",
         "original": "{mental_health_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
+        "language": "fas",
+        "replacement": "نیاز به حمایت عاطفی یا روانی دارید؟ \nبرای دریافت رهنمود و کمک به دسترسی به خدمات، با خط حمایوی صحت روانی ما تماس بگیرید:\n📞 0797076137"
       },
       {
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{mental_health_referrals_Koshkak Nayeb Kernail}.*",
+        "node_identifier": "Regex:.*{mental_health_referrals_Kajkal}.*",
         "original": "{mental_health_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
+        "language": "fas",
+        "replacement": "برای پاسخدهی فوری در حالات بحران (آتش‌سوزی، سیلاب، طوفان، زلزله) تماس بگیرید با:\nCESVI: 📞 0799224283"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -577,7 +496,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{health_referrals}.*",
         "original": "{health_referrals}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "Add referral"
       },
       {
@@ -586,8 +505,8 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{health_referrals_Siaab}.*",
         "original": "{health_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
+        "language": "fas",
+        "replacement": "نیاز به حمایت صحی یا دوا برای خودتان یا خانواده‌تان دارید؟ \nمی‌توانید با نزدیک‌ترین کلینیک (کلینیک سیاآب) تماس بگیرید:\n📞 0799053609"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -595,89 +514,17 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{health_referrals_Sarboland}.*",
         "original": "{health_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
+        "language": "fas",
+        "replacement": "نیاز به حمایت صحی یا دوا برای خودتان یا خانواده‌تان دارید؟ \nمی‌توانید با نزدیک‌ترین کلینیک (کلینیک سربلند) تماس بگیرید:\n📞 0798381015"
       },
       {
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{health_referrals_Koshkak Nayeb Kernail}.*",
+        "node_identifier": "Regex:.*{health_referrals_Kajkal}.*",
         "original": "{health_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{family_referrals}.*",
-        "original": "{family_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{family_referrals_Siaab}.*",
-        "original": "{family_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{family_referrals_Sarboland}.*",
-        "original": "{family_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{family_referrals_Koshkak Nayeb Kernail}.*",
-        "original": "{family_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{child_protection_referrals}.*",
-        "original": "{child_protection_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{child_protection_referrals_Siaab}.*",
-        "original": "{child_protection_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{child_protection_referrals_Sarboland}.*",
-        "original": "{child_protection_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
-      },
-      {
-        "type_of_edit": "replace_bit_of_text",
-        "flow_id": "Regex:.*",
-        "original_row_id": "",
-        "node_identifier": "Regex:.*{child_protection_referrals_Koshkak Nayeb Kernail}.*",
-        "original": "{child_protection_referrals}",
-        "language": "prs",
-        "replacement": "Add referral"
+        "language": "fas",
+        "replacement": "نیاز به حمایت صحی یا دوا برای خودتان یا خانواده‌تان دارید؟ \nمی‌توانید با نزدیک‌ترین کلینیک (کلینیک کج کال) تماس بگیرید:\n📞 0799524749"
       }
     ],
     "triggers_eng": [
@@ -734,7 +581,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{HELP}.*",
         "original": "{HELP}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "کمک"
       },
       {
@@ -743,7 +590,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{MENU}.*",
         "original": "{MENU}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "فهرست"
       },
       {
@@ -752,7 +599,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{PLAY}.*",
         "original": "{PLAY}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "نمایش"
       },
       {
@@ -761,7 +608,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{STOP}.*",
         "original": "{STOP}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "توقف"
       },
       {
@@ -770,7 +617,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{PAUSE}.*",
         "original": "{PAUSE}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "مکث"
       }
     ],
@@ -779,19 +626,19 @@
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{share link}.*",
-        "change": "{share link}",
+        "node_identifier": "Regex:.*{consent}.*",
+        "change": "{consent}",
         "condition_var": "",
-        "category": "Add translation"
+        "category": "Add url"
       },
       {
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{consent_link}.*",
-        "change": "{consent_link}",
+        "node_identifier": "Regex:.*{gdprcontact}.*",
+        "change": "{gdprcontact}",
         "condition_var": "",
-        "category": "Add translation"
+        "category": "privacy@idems.international"
       }
     ],
     "urls_transl": [
@@ -799,19 +646,19 @@
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{share link}.*",
-        "original": "{share link}",
-        "language": "prs",
-        "replacement": "Add translation"
+        "node_identifier": "Regex:.*{consent}.*",
+        "original": "{consent}",
+        "language": "fas",
+        "replacement": "Add url"
       },
       {
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
         "original_row_id": "",
-        "node_identifier": "Regex:.*{consent_link}.*",
-        "original": "{consent_link}",
-        "language": "prs",
-        "replacement": "Add translation"
+        "node_identifier": "Regex:.*{gdprcontact}.*",
+        "original": "{gdprcontact}",
+        "language": "fas",
+        "replacement": "privacy@idems.international"
       }
     ],
     "joining_triggers_add_group": [
@@ -978,7 +825,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{joining_trigger_test_en}.*",
         "original": "{joining_trigger}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "test_eng"
       },
       {
@@ -987,7 +834,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{joining_trigger_test_dari}.*",
         "original": "{joining_trigger}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "test_dari"
       },
       {
@@ -996,7 +843,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{joining_trigger_af_wave_1_1}.*",
         "original": "{joining_trigger}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "صحت"
       },
       {
@@ -1005,7 +852,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{joining_trigger_af_wave_1_2}.*",
         "original": "{joining_trigger}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "امید"
       },
       {
@@ -1014,7 +861,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{joining_trigger_af_wave_1_3}.*",
         "original": "{joining_trigger}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "طفل"
       },
       {
@@ -1023,7 +870,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{joining_trigger_af_wave_1_4}.*",
         "original": "{joining_trigger}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "مواظبت"
       },
       {
@@ -1032,7 +879,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{joining_trigger_af_wave_1_5}.*",
         "original": "{joining_trigger}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "روشن"
       },
       {
@@ -1041,7 +888,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{joining_trigger_af_wave_2_1}.*",
         "original": "{joining_trigger}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "خوشحال"
       },
       {
@@ -1050,7 +897,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{joining_trigger_af_wave_2_2}.*",
         "original": "{joining_trigger}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "ایمان"
       },
       {
@@ -1059,7 +906,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{joining_trigger_af_wave_2_3}.*",
         "original": "{joining_trigger}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "زندگی"
       },
       {
@@ -1068,7 +915,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{joining_trigger_af_wave_2_4}.*",
         "original": "{joining_trigger}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "انگیزه"
       },
       {
@@ -1077,7 +924,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{joining_trigger_af_wave_2_5}.*",
         "original": "{joining_trigger}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "اراده"
       }
     ],
@@ -1108,7 +955,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*{prog_name}.*",
         "original": "{prog_name}",
-        "language": "prs",
+        "language": "fas",
         "replacement": "نور چشم"
       },
       {
@@ -1117,7 +964,7 @@
         "original_row_id": "",
         "node_identifier": "Regex:.*ParentText.*",
         "original": "ParentText",
-        "language": "prs",
+        "language": "fas",
         "replacement": "نور چشم"
       }
     ]

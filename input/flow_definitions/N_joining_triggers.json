@@ -61,7 +61,7 @@
         "ID": "test_en",
         "Description": "Joining trigger for testers who do not speak Dari: This Joining trigger initiates the English version of the chatbot, which is only available for internal testing by the PLH and IDEMS teams. It is not visible or accessible to end users.",
         "Trigger (en)": "test_eng",
-        "Trigger (prs)": "testers",
+        "Trigger (fas)": "testers",
         "Experience (user group)": "Digital",
         "Recruitment (user group)": "",
         "Additional (user group)": "",
@@ -75,7 +75,7 @@
         "ID": "test_dari",
         "Description": "Joining trigger for testers only and initates the chatbot in Dari. If you are not a caregiver and are testing the chatbot, please use this Joining trigger to use the chatbot. This helps ensure that real user data is not mixed with test data.",
         "Trigger (en)": "test_dari",
-        "Trigger (prs)": "testers",
+        "Trigger (fas)": "testers",
         "Experience (user group)": "Digital",
         "Recruitment (user group)": "",
         "Additional (user group)": "",
@@ -89,7 +89,7 @@
         "ID": "af_wave_1_1",
         "Description": "Joining trigger for parents in Zendajan who are part of wave 1 and recruited from Cheen Kalagh Village",
         "Trigger (en)": "Healthy",
-        "Trigger (prs)": "صحت",
+        "Trigger (fas)": "صحت",
         "Experience (user group)": "Hybrid",
         "Recruitment (user group)": "Wave 1",
         "Additional (user group)": "",
@@ -103,7 +103,7 @@
         "ID": "af_wave_1_2",
         "Description": "Joining trigger for parents in Zendajan who are part of wave 1 and recruited from Cheshma Ghori village",
         "Trigger (en)": "Hope",
-        "Trigger (prs)": "امید",
+        "Trigger (fas)": "امید",
         "Experience (user group)": "Hybrid",
         "Recruitment (user group)": "Wave 1",
         "Additional (user group)": "",
@@ -111,13 +111,13 @@
         "Cap Users At": "39",
         "Location, if applicable": "Cheshma Ghori Village",
         "Link (en)": "",
-        "Link (lan)": ""
+        "Link (lan)": "https://wa.me/+93729509252?text=صحت"
       },
       {
         "ID": "af_wave_1_3",
         "Description": "Joining trigger for parents in Zendajan who are part of wave 1 and recruited from Koshkak village",
         "Trigger (en)": "Child",
-        "Trigger (prs)": "طفل",
+        "Trigger (fas)": "طفل",
         "Experience (user group)": "Hybrid",
         "Recruitment (user group)": "Wave 1",
         "Additional (user group)": "",
@@ -125,27 +125,27 @@
         "Cap Users At": "127",
         "Location, if applicable": "Koshkak Village",
         "Link (en)": "",
-        "Link (lan)": ""
+        "Link (lan)": "https://wa.me/+93729509252?text=امید"
       },
       {
         "ID": "af_wave_1_4",
-        "Description": "Joining trigger for parents in Zendajan who are part of wave 1 and recruited from Koshkak village",
+        "Description": "Joining trigger for parents in Zendajan who are part of wave 1 and recruited from Kariz Marvi village",
         "Trigger (en)": "Care",
-        "Trigger (prs)": "مواظبت",
+        "Trigger (fas)": "مواظبت",
         "Experience (user group)": "Hybrid",
         "Recruitment (user group)": "Wave 1",
         "Additional (user group)": "",
         "Included in Reach? ": "Reach",
         "Cap Users At": "48",
-        "Location, if applicable": "Koshkak Village",
+        "Location, if applicable": "Kariz Marvi village",
         "Link (en)": "",
-        "Link (lan)": ""
+        "Link (lan)": "https://wa.me/+93729509252?text=طفل"
       },
       {
         "ID": "af_wave_1_5",
         "Description": "Joining trigger for parents in Zendajan who are part of wave 1 and recruited from Nayeb Rafee village",
         "Trigger (en)": "light",
-        "Trigger (prs)": "روشن",
+        "Trigger (fas)": "روشن",
         "Experience (user group)": "Hybrid",
         "Recruitment (user group)": "Wave 1",
         "Additional (user group)": "",
@@ -153,13 +153,13 @@
         "Cap Users At": "52",
         "Location, if applicable": "Nayeb Rafee Village",
         "Link (en)": "",
-        "Link (lan)": ""
+        "Link (lan)": "https://wa.me/+93729509252?text=مواظبت"
       },
       {
         "ID": "af_wave_2_1",
         "Description": "Joining trigger for parents in Zendajan who are part of wave 2 and recruited from Siaab village",
         "Trigger (en)": "Happy",
-        "Trigger (prs)": "خوشحال",
+        "Trigger (fas)": "خوشحال",
         "Experience (user group)": "Hybrid",
         "Recruitment (user group)": "Wave 2",
         "Additional (user group)": "",
@@ -167,13 +167,13 @@
         "Cap Users At": "99",
         "Location, if applicable": "Siaab Village",
         "Link (en)": "",
-        "Link (lan)": ""
+        "Link (lan)": "https://wa.me/+93729509252?text=روشن"
       },
       {
         "ID": "af_wave_2_2",
         "Description": "Joining trigger for parents in Zendajan who are part of wave 2 and recruited from Sarboland village",
         "Trigger (en)": "Faith",
-        "Trigger (prs)": "ایمان",
+        "Trigger (fas)": "ایمان",
         "Experience (user group)": "Hybrid",
         "Recruitment (user group)": "Wave 2",
         "Additional (user group)": "",
@@ -181,13 +181,13 @@
         "Cap Users At": "99",
         "Location, if applicable": "Sarboland Village",
         "Link (en)": "",
-        "Link (lan)": ""
+        "Link (lan)": "https://wa.me/+93729509252?text=خوشحال"
       },
       {
         "ID": "af_wave_2_3",
         "Description": "Joining trigger for parents in Zendajan who are part of wave 2 and recruited from Qala Noak Village",
         "Trigger (en)": "Life",
-        "Trigger (prs)": "زندگی",
+        "Trigger (fas)": "زندگی",
         "Experience (user group)": "Hybrid",
         "Recruitment (user group)": "Wave 2",
         "Additional (user group)": "",
@@ -195,13 +195,13 @@
         "Cap Users At": "27",
         "Location, if applicable": "Qala Noak Village",
         "Link (en)": "",
-        "Link (lan)": ""
+        "Link (lan)": "https://wa.me/+93729509252?text=ایمان"
       },
       {
         "ID": "af_wave_2_4",
         "Description": "Joining trigger for parents in Zendajan who are part of wave 2 and recruited from Eaz Qalak Village",
         "Trigger (en)": "Motivation",
-        "Trigger (prs)": "انگیزه",
+        "Trigger (fas)": "انگیزه",
         "Experience (user group)": "Hybrid",
         "Recruitment (user group)": "Wave 2",
         "Additional (user group)": "",
@@ -209,13 +209,13 @@
         "Cap Users At": "29",
         "Location, if applicable": "Eaz Qalak Village",
         "Link (en)": "",
-        "Link (lan)": ""
+        "Link (lan)": "https://wa.me/+93729509252?text=زندگی"
       },
       {
         "ID": "af_wave_2_5",
         "Description": "Joining trigger for parents in Zendajan who are part of wave 2 and recruited from Kernail Village",
         "Trigger (en)": "Determination",
-        "Trigger (prs)": "اراده",
+        "Trigger (fas)": "اراده",
         "Experience (user group)": "Hybrid",
         "Recruitment (user group)": "Wave 2",
         "Additional (user group)": "",
@@ -223,7 +223,7 @@
         "Cap Users At": "45",
         "Location, if applicable": "Kernail Village",
         "Link (en)": "",
-        "Link (lan)": ""
+        "Link (lan)": "https://wa.me/+93729509252?text=انگیزه"
       }
     ],
     "joining_triggers_data": [
@@ -252,7 +252,7 @@
         "cap": "35",
         "location": "Cheen Kalagh Village",
         "variables.1.name": "referral type",
-        "variables.1.value": "other"
+        "variables.1.value": "Sarboland"
       },
       {
         "ID": "af_wave_1_2",
@@ -261,7 +261,7 @@
         "cap": "39",
         "location": "Cheshma Ghori Village",
         "variables.1.name": "referral type",
-        "variables.1.value": "other"
+        "variables.1.value": "Sarboland"
       },
       {
         "ID": "af_wave_1_3",
@@ -270,16 +270,16 @@
         "cap": "127",
         "location": "Koshkak Village",
         "variables.1.name": "referral type",
-        "variables.1.value": "Koshkak Nayeb Kernail"
+        "variables.1.value": "Kajkal"
       },
       {
         "ID": "af_wave_1_4",
         "triggers": "Care;مواظبت",
         "groups": "Hybrid;Wave 1;Reach",
         "cap": "48",
-        "location": "Koshkak Village",
+        "location": "Kariz Marvi village",
         "variables.1.name": "referral type",
-        "variables.1.value": "Koshkak Nayeb Kernail"
+        "variables.1.value": "Siaab"
       },
       {
         "ID": "af_wave_1_5",
@@ -288,7 +288,7 @@
         "cap": "52",
         "location": "Nayeb Rafee Village",
         "variables.1.name": "referral type",
-        "variables.1.value": "Koshkak Nayeb Kernail"
+        "variables.1.value": "Kajkal"
       },
       {
         "ID": "af_wave_2_1",
@@ -315,7 +315,7 @@
         "cap": "27",
         "location": "Qala Noak Village",
         "variables.1.name": "referral type",
-        "variables.1.value": "other"
+        "variables.1.value": "Siaab"
       },
       {
         "ID": "af_wave_2_4",
@@ -324,7 +324,7 @@
         "cap": "29",
         "location": "Eaz Qalak Village",
         "variables.1.name": "referral type",
-        "variables.1.value": "other"
+        "variables.1.value": "Sarboland"
       },
       {
         "ID": "af_wave_2_5",
@@ -333,7 +333,7 @@
         "cap": "45",
         "location": "Kernail Village",
         "variables.1.name": "referral type",
-        "variables.1.value": "Koshkak Nayeb Kernail"
+        "variables.1.value": "Kajkal"
       }
     ],
     "content_index": [
@@ -380,14 +380,54 @@
         "var_value": ""
       },
       {
-        "ID": "#REF!",
-        "var_key": "#REF!",
-        "var_value": "#REF!"
+        "ID": "af_wave_1_1",
+        "var_key": "n_af_wave_1_1",
+        "var_value": "35"
       },
       {
-        "ID": "#REF!",
-        "var_key": "#REF!",
-        "var_value": "#REF!"
+        "ID": "af_wave_1_2",
+        "var_key": "n_af_wave_1_2",
+        "var_value": "39"
+      },
+      {
+        "ID": "af_wave_1_3",
+        "var_key": "n_af_wave_1_3",
+        "var_value": "127"
+      },
+      {
+        "ID": "af_wave_1_4",
+        "var_key": "n_af_wave_1_4",
+        "var_value": "48"
+      },
+      {
+        "ID": "af_wave_1_5",
+        "var_key": "n_af_wave_1_5",
+        "var_value": "52"
+      },
+      {
+        "ID": "af_wave_2_1",
+        "var_key": "n_af_wave_2_1",
+        "var_value": "99"
+      },
+      {
+        "ID": "af_wave_2_2",
+        "var_key": "n_af_wave_2_2",
+        "var_value": "99"
+      },
+      {
+        "ID": "af_wave_2_3",
+        "var_key": "n_af_wave_2_3",
+        "var_value": "27"
+      },
+      {
+        "ID": "af_wave_2_4",
+        "var_key": "n_af_wave_2_4",
+        "var_value": "29"
+      },
+      {
+        "ID": "af_wave_2_5",
+        "var_key": "n_af_wave_2_5",
+        "var_value": "45"
       }
     ]
   }

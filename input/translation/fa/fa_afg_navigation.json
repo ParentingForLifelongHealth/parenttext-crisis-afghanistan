@@ -138,38 +138,62 @@
     "note": ""
   },
   {
-    "SourceText": "Are you sure you want to stop receiving tips?",
-    "text": "آیا مطمئن هستید که می‌خواهید دریافت توصیه ها را متوقف کنید؟",
+    "SourceText": "It looks like you don't want to recieve messages from {prog_name} anymore.",
+    "text": "به نظر می‌رسد که دیگر نمی‌خواهید از {prog_name} پیام دریافت کنید.",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "If you do not want to receive any more messages, please type \"EXIT\".",
-    "text": "اگر نمی‌خواهید پیام‌های بیشتری دریافت کنید، لطفاً \"خروج\" را بنویسید.",
+    "SourceText": "Are you sure you want to STOP receiving daily tips?",
+    "text": "آیا مطمئن هستید که می‌خواهید دریافت توصیه های روزانه را متوقف کنید؟",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "If you made a mistake, please type \"BACK\".",
-    "text": "اگر اشتباه نوشته اید، لطفاً \"بازگشت\" را بنویسید.",
+    "SourceText": "Great! We’re happy you’re staying with {prog_name}! We will resume tomorrow.",
+    "text": "عالی! خوشحالیم که با {prog_name} همراه مانده‌اید! از فردا دوباره شروع خواهیم کرد.",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "Thank you for participating. If you want to return to continue receiving tips, type HELLO. ",
-    "text": "تشکر از همراهی شما. اگر می‌خواهید دوباره دریافت نکات را ادامه دهید، \"سلام\" را بنویسید. ",
+    "SourceText": "Thank you for joining {prog_name}.",
+    "text": "از اینکه به {prog_name} پیوستید، سپاسگزاریم.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you also want us to delete all your info?",
+    "text": "آیا می‌خواهید تمام اطلاعات شما را نیز حذف کنیم؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👉 This means we remove your contact and messages from our side.",
+    "text": "👉 این بدان معناست که اطلاعات تماس و پیام‌های شما از سمت ما حذف خواهند شد.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👉 You will still see the old messages you sent.",
+    "text": "👉 شما همچنان پیام‌های قبلی‌ای را که ارسال کرده‌اید، مشاهده خواهید کرد.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👉 If you join again, you will need to start from the beginning.",
+    "text": "👉 اگر دوباره بپیوندید، باید از ابتدا شروع کنید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you! If you want to return to receiving daily tips, just type HELLO.",
+    "text": "تشکر! اگر می‌خواهید دوباره توصیه های روزانه را دریافت کنید، کافی است کلمه‌ی سلام را بنویسید.",
     "type": "text",
     "note": ""
   },
   {
     "SourceText": "We hope to see you again soon.",
     "text": "به امید دیدار دوباره شما به زودی.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "We are so glad you want to stick around! We will resume your progress tomorrow.",
-    "text": "خوشحالیم که می‌خواهید با ما بمانید! روند ارسال توصیه ها از فردا ادامه خواهد یافت.",
     "type": "text",
     "note": ""
   },
@@ -320,12 +344,6 @@
   {
     "SourceText": "We’ll check in with you in a month to see how you’re doing. Your feedback helps us make sure these tips truly support families like yours 🙂",
     "text": "ما در یک ماه آینده دوباره با شما تماس خواهیم گرفت تا ببینیم اوضاع چطور پیش می‌رود. نظر و معلومات شما به ما کمک می‌کند مطمئن شویم این توصیه ها واقعاً به خانواده‌هایی مثل شما کمک می‌کنند 🙂",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "Was ParentText helpful? If so, share it with a friend. Just send this link: {share link}",
-    "text": "آیا ParentText برایتان مفید بود؟ اگر بله، آن را با یک دوست به اشتراک بگذارید. فقط این لینک را بفرستید: {share link}",
     "type": "text",
     "note": ""
   },
@@ -540,14 +558,26 @@
     "note": ""
   },
   {
+    "SourceText": "Are you sure you want to DELETE all your info? ",
+    "text": "آیا مطمئن هستید که می‌خواهید تمام اطلاعات خود را حذف کنید؟ ",
+    "type": "text",
+    "note": ""
+  },
+  {
     "SourceText": "You are receiving content with text and images.",
     "text": "شما مطالبی را که دریافت میکنید شامل متن و تصاویر می باشد.",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "You are receiving content with Audio.",
-    "text": "شما مطالبی را که دریافت میکنید شامل صدا و صوت می باشد.",
+    "SourceText": "You are receiving content with audio guides.",
+    "text": "شما در حال دریافت محتوایی همراه با راهنمای صوتی هستید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You are receiving content with video guides.",
+    "text": "شما در حال دریافت محتوایی همراه با راهنمای ویدیویی هستید.",
     "type": "text",
     "note": ""
   },
@@ -558,14 +588,14 @@
     "note": ""
   },
   {
-    "SourceText": "You didn't provide this info.",
-    "text": "شما این معلومات رای ارایه نکرده اید.",
+    "SourceText": "Would you like to change it?",
+    "text": "آیا می‌خواهید آن را تغییر دهید؟",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "Would you like to change it?",
-    "text": "آیا می‌خواهید آن را تغییر دهید؟",
+    "SourceText": "Great! Your media settings are now updated 🎉",
+    "text": "عالی! تنظیمات رسانه‌ای شما اکنون به‌روز شد 🎉",
     "type": "text",
     "note": ""
   },
@@ -596,6 +626,150 @@
   {
     "SourceText": "Would you like to update your gender?",
     "text": "آیا مایل هستید جنسیت خود را به‌روزرسانی کنید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Done! Your gender is now updated.",
+    "text": "انجام شد! جنسیت شما با موفقیت به‌روزرسانی شد.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your guide is Mr. Joenda.",
+    "text": "رهنمای شما آقای جوینده است.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your guide is Ms. Nizkay.",
+    "text": "رهنمای شما خانم نیکزی است.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your guide is",
+    "text": "رهنمای شما است",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to change your guide?",
+    "text": "آیا می خواهید رهنمای خود را تغییر دهید؟",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Great! Your media guide is now updated 🎉",
+    "text": "بسیار عالی! راهنمای رسانه‌ای شما اکنون به‌روزرسانی شده است 🎉",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You didn't provide this info.",
+    "text": "شما این معلومات رای ارایه نکرده اید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are 18-24 years old.",
+    "text": "شما گفتید که سن شما بین 18-24 سال است.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are 25-34 years old.",
+    "text": "شما گفتید که سن شما بین 25-34 سال است.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are 35-44 years old.",
+    "text": "شما گفتید که سن شما بین 35-44 سال است.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are 45-54 years old.",
+    "text": "شما گفتید که سن شما بین 45-54 سال است.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are Over 55 years old.",
+    "text": "شما گفتید که سن شما بالاتر از ۵۵ سال است.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are",
+    "text": "شما به ما گفتید که شما",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Done! Your age is now updated.",
+    "text": "انجام شد! سن شما اکنون به‌روز شد.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are single (not in a relationship).",
+    "text": "شما گفتید که مجرد هستید (در رابطه‌ای نیستید).",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are married.",
+    "text": "شما گفتید که متاهل هستید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are widowed.",
+    "text": "شما گفتید که همسر خود را از دست داده‌اید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Done! Your relationship status is now updated.",
+    "text": "انجام شد! وضعیت تاهل شما اکنون به‌روز شد.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you take care of no children.",
+    "text": "شما گفتید که از هیچ طفلی مراقبت نمی‌کنید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you take care of one to three children.",
+    "text": "شما گفتید که از یک تا سه طفل مراقبت می‌کنید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you take care of more than four children.",
+    "text": "شما گفتید که از بیش از چهار طفل مراقبت می‌کنید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you take care of .",
+    "text": "شما گفتید که مراقبت میکنید از .",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you take care of",
+    "text": "شما گفتید که مراقبت میکنید از",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Done! The number of children you take care of is now updated.",
+    "text": "انجام شد! تعداد طفلانی که از آن‌ها مراقبت می‌کنید اکنون به‌روز شد.",
     "type": "text",
     "note": ""
   },
@@ -638,6 +812,30 @@
   {
     "SourceText": "Here is a video about {prog_name}.",
     "text": "در این جا یک ویدیو درباره {prog_name} موجود است.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for participating. Your contact and all messages associated with your account will be deleted within 30 days from now.",
+    "text": "از اشتراک شما سپاسگزاریم. اطلاعات تماس و تمامی پیام‌های مرتبط با حساب شما ظرف ۳۰ روز آینده حذف خواهند شد.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Please contact {gdprcontact} to request a copy of all of your data we have. Please make sure to specify your user ID:",
+    "text": "لطفاً برای درخواست نسخه‌ای از تمامی داده‌های خود که در اختیار داریم، با {gdprcontact} تماس بگیرید. حتماً شناسه کاربری خود را مشخص کنید:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "@contact.id",
+    "text": "@contact.id",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Please contact {gdprcontact} to request to update any data we have. Please make sure to specify your user ID:",
+    "text": "لطفاً برای درخواست به‌روزرسانی هر یک از داده‌هایی که در اختیار داریم، با {gdprcontact} تماس بگیرید. حتماً شناسه کاربری خود را مشخص کنید:",
     "type": "text",
     "note": ""
   },
@@ -750,8 +948,26 @@
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
-    "SourceText": "BACK",
-    "text": "قبلی",
+    "SourceText": "No, I want to continue",
+    "text": "نخیر، من میخواهم ادامه بدهم",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes, stop sending me tips",
+    "text": "بلی، من میخواهم دریافت توصیه ها متوقف شود",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "YES, delete my account and progress",
+    "text": "بلی، حساب کاربری و اطلاعات من را حذف کنید",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "NO, I may use the chatbot again later",
+    "text": "خیر، ممکن است بعداً دوباره از چت‌بات استفاده کنم",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -912,6 +1128,24 @@
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
+    "SourceText": "Delete my account",
+    "text": "حساب کاربری‌ام را حذف کن",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Get a copy of my data",
+    "text": "دریافت کپی از اطلاعات من",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Request Account Data Rectification",
+    "text": "درخواست اصلاح اطلاعات حساب کاربری",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
     "SourceText": "Return to Main Menu",
     "text": "بازگشت به فهرست اصلی",
     "type": "quick_replies",
@@ -924,8 +1158,44 @@
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
+    "SourceText": "Change my guide",
+    "text": "تغییر رهنمای من",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
     "SourceText": "Change my gender",
     "text": "تغییر جنسیت",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change my age",
+    "text": "تغییر سن من",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change my relationship status",
+    "text": "تغییر وضعیت تاهل من",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change the number of children I take care of",
+    "text": "تعییر در تعداد طفلانی که از آن‌ها مراقبت می‌کنم",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "NO - I want to keep using this chatbot",
+    "text": "خیر – می‌خواهم به استفاده از این چت‌بات ادامه دهم",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "YES - Delete my account",
+    "text": "بلی – حساب کاربری‌ام را حذف کن",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -1074,14 +1344,26 @@
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "exit",
-    "text": "خروج",
+    "SourceText": "no, i want to continue",
+    "text": "خیر، می‌خواهم ادامه بدهم",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "back",
-    "text": "قبلی",
+    "SourceText": "yes, stop sending me tips",
+    "text": "بلی، می‌خواهم دریافت توصیه ها برایم متوقف شود",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no, i may use the chatbot again later",
+    "text": "خیر، ممکن است بعداً دوباره از چت‌بات استفاده کنم",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes, delete my account and progress",
+    "text": "بلی، حساب کاربری و اطلاعاتم را حذف شود",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -1248,6 +1530,24 @@
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
+    "SourceText": "delete my account",
+    "text": "حذف حساب کاربری ام",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "get a copy of my data",
+    "text": "دریافت کپی از اطلاعات من",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "request account data rectification",
+    "text": "درخواست اصلاح اطلاعات حساب کاربری",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
     "SourceText": "return to main menu",
     "text": "بازگشت به فهرست اصلی",
     "type": "arguments",
@@ -1260,8 +1560,44 @@
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
+    "SourceText": "change my guide",
+    "text": "تغییر رهنمای من",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
     "SourceText": "change my gender",
     "text": "تغییر جنسیت",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change my age",
+    "text": "تغییر سن من",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change my relationship status",
+    "text": "تغییر وضعیت تاهل من",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change the number of children i take care of",
+    "text": "تغییر در تعداد اطفالی که مراقبت میکنم",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no - i want to keep using this chatbot",
+    "text": "خیر – می‌خواهم به استفاده از این چت‌بات ادامه دهم",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes - delete my account",
+    "text": "بلی – حساب کاربری‌ام را حذف کن",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   }
