@@ -158,7 +158,7 @@
             "type": "translation",
             "sources": ["translation"],
             "languages": [
-                {"language": "prs", "code": "fa"}
+                {"language": "fas", "code": "fa"}
             ]
         },
         {
