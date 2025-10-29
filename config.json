@@ -5,13 +5,13 @@
     },
     "parents": {
         "base": {
-            "location": "https://github.com/IDEMSInternational/parenttext-crisis-base/archive/refs/tags/v1.1.7.zip"
+            "location": "https://github.com/IDEMSInternational/parenttext-crisis-base/archive/refs/tags/v1.1.8.zip"
         }
     },
     "flows_outputbasename": "parenttext_all",
     "output_split_number": 1,
     "sheet_names": {
-         "T_trial": "1BifL5eSoEo3b7WS8KsrnXDYg3t36yYLqzr75Y8V9Vhw",
+
         "C_ltp_activities":"1QVNh8evFfPDzkboyWN5yzE0r56XOPEqry26q0ayYR-Q",
         "C_modules_all_ages": "1kOh4Hu-XkiCbeBQ0Aohj-Ti0ohNA76Xef7jDJmgBsI8",
         "C_surveys": "107m8yoKgCXJh4cBEzQPL5xq4q79U3hhaWIUzJitkWEA",
@@ -46,7 +46,6 @@
                 "N_menu_data_response",
                 "N_joining_triggers",
                 "C_surveys",
-                "T_trial",
                 "deployment_localised_sheets"
             ]
         },
