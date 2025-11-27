@@ -78,20 +78,8 @@
     "note": ""
   },
   {
-    "SourceText": "✅Your anonymous information may also be shared with others working to help families like yours build strength and hope in tough times. All your information will be private and can’t be linked back to you.",
-    "text": "✅ معلومات ناشناس شما ممکن است با دیگرانی که در تلاش برای کمک به خانواده‌هایی مانند شما هستند، به اشتراک گذاشته شود. همه معلومات شما خصوصی باقی می‌ماند و قابل شناسایی نخواهد بود.",
-    "type": "text",
-    "note": ""
-  },
-  {
     "SourceText": "❌You can stop when you want. Just type {STOP}",
     "text": "❌ هر زمان که خواستید، می‌توانید متوقف کنید. فقط کلمه {STOP} را بنویسید",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "✅ To read our privacy policy, visit {consent}. If you consent to our privacy policy, select YES. Type \"EXIT\" if you do not want to participate.",
-    "text": "✅ برای مطالعهٔ سیاست حفظ حریم خصوصی ما، به {consent} مراجعه کنید. اگر با سیاست حفظ حریم خصوصی ما موافق هستید، گزینهٔ بله را انتخاب کنید. اگر نمی‌خواهید مشارکت کنید، کلمهٔ \"خروج\" را بنویسید.",
     "type": "text",
     "note": ""
   },

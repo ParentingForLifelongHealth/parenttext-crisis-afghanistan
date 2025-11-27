@@ -936,7 +936,7 @@
         "node_identifier": "Regex:.*{prog_name}.*",
         "change": "{prog_name}",
         "condition_var": "",
-        "category": "Light of Eye"
+        "category": "Parent's Light"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -945,7 +945,7 @@
         "node_identifier": "Regex:.*ParentText.*",
         "change": "ParentText",
         "condition_var": "",
-        "category": "Light of Eye"
+        "category": "Parent's Light"
       }
     ],
     "parenttext_name_transl": [
@@ -956,7 +956,7 @@
         "node_identifier": "Regex:.*{prog_name}.*",
         "original": "{prog_name}",
         "language": "fas",
-        "replacement": "نور چشم"
+        "replacement": "نور والدین"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -965,7 +965,7 @@
         "node_identifier": "Regex:.*ParentText.*",
         "original": "ParentText",
         "language": "fas",
-        "replacement": "نور چشم"
+        "replacement": "نور والدین"
       }
     ]
   }

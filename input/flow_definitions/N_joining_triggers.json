@@ -61,9 +61,9 @@
         "ID": "test_en",
         "Description": "Joining trigger for testers who do not speak Dari: This Joining trigger initiates the English version of the chatbot, which is only available for internal testing by the PLH and IDEMS teams. It is not visible or accessible to end users.",
         "Trigger (en)": "test_eng",
-        "Trigger (fas)": "testers",
+        "Trigger (fas)": "",
         "Experience (user group)": "Digital",
-        "Recruitment (user group)": "",
+        "Recruitment (user group)": "testers",
         "Additional (user group)": "",
         "Included in Reach? ": "",
         "Cap Users At": "",
@@ -75,9 +75,9 @@
         "ID": "test_dari",
         "Description": "Joining trigger for testers only and initates the chatbot in Dari. If you are not a caregiver and are testing the chatbot, please use this Joining trigger to use the chatbot. This helps ensure that real user data is not mixed with test data.",
         "Trigger (en)": "test_dari",
-        "Trigger (fas)": "testers",
+        "Trigger (fas)": "",
         "Experience (user group)": "Digital",
-        "Recruitment (user group)": "",
+        "Recruitment (user group)": "testers",
         "Additional (user group)": "",
         "Included in Reach? ": "",
         "Cap Users At": "",
@@ -137,7 +137,7 @@
         "Additional (user group)": "",
         "Included in Reach? ": "Reach",
         "Cap Users At": "48",
-        "Location, if applicable": "Kariz Marvi village",
+        "Location, if applicable": "Kariz Marvi Village",
         "Link (en)": "",
         "Link (lan)": "https://wa.me/+93729509252?text=طفل"
       },
@@ -229,21 +229,21 @@
     "joining_triggers_data": [
       {
         "ID": "test_en",
-        "triggers": "test_eng;testers",
-        "groups": "Digital",
+        "triggers": "test_eng",
+        "groups": "Digital;testers",
         "cap": "",
         "location": "",
-        "variables.1.name": "referral type",
-        "variables.1.value": "other"
+        "variables.1.name": "",
+        "variables.1.value": ""
       },
       {
         "ID": "test_dari",
-        "triggers": "test_dari;testers",
-        "groups": "Digital",
+        "triggers": "test_dari",
+        "groups": "Digital;testers",
         "cap": "",
         "location": "",
-        "variables.1.name": "referral type",
-        "variables.1.value": "other"
+        "variables.1.name": "",
+        "variables.1.value": ""
       },
       {
         "ID": "af_wave_1_1",
@@ -251,8 +251,8 @@
         "groups": "Hybrid;Wave 1;Reach",
         "cap": "35",
         "location": "Cheen Kalagh Village",
-        "variables.1.name": "referral type",
-        "variables.1.value": "Sarboland"
+        "variables.1.name": "location",
+        "variables.1.value": "Cheen Kalagh Village"
       },
       {
         "ID": "af_wave_1_2",
@@ -260,8 +260,8 @@
         "groups": "Hybrid;Wave 1;Reach",
         "cap": "39",
         "location": "Cheshma Ghori Village",
-        "variables.1.name": "referral type",
-        "variables.1.value": "Sarboland"
+        "variables.1.name": "location",
+        "variables.1.value": "Cheshma Ghori Village"
       },
       {
         "ID": "af_wave_1_3",
@@ -269,17 +269,17 @@
         "groups": "Hybrid;Wave 1;Reach",
         "cap": "127",
         "location": "Koshkak Village",
-        "variables.1.name": "referral type",
-        "variables.1.value": "Kajkal"
+        "variables.1.name": "location",
+        "variables.1.value": "Koshkak Village"
       },
       {
         "ID": "af_wave_1_4",
         "triggers": "Care;مواظبت",
         "groups": "Hybrid;Wave 1;Reach",
         "cap": "48",
-        "location": "Kariz Marvi village",
-        "variables.1.name": "referral type",
-        "variables.1.value": "Siaab"
+        "location": "Kariz Marvi Village",
+        "variables.1.name": "location",
+        "variables.1.value": "Kariz Marvi Village"
       },
       {
         "ID": "af_wave_1_5",
@@ -287,8 +287,8 @@
         "groups": "Hybrid;Wave 1;Reach",
         "cap": "52",
         "location": "Nayeb Rafee Village",
-        "variables.1.name": "referral type",
-        "variables.1.value": "Kajkal"
+        "variables.1.name": "location",
+        "variables.1.value": "Nayeb Rafee Village"
       },
       {
         "ID": "af_wave_2_1",
@@ -296,8 +296,8 @@
         "groups": "Hybrid;Wave 2;Reach",
         "cap": "99",
         "location": "Siaab Village",
-        "variables.1.name": "referral type",
-        "variables.1.value": "Siaab"
+        "variables.1.name": "location",
+        "variables.1.value": "Siaab Village"
       },
       {
         "ID": "af_wave_2_2",
@@ -305,8 +305,8 @@
         "groups": "Hybrid;Wave 2;Reach",
         "cap": "99",
         "location": "Sarboland Village",
-        "variables.1.name": "referral type",
-        "variables.1.value": "Sarboland"
+        "variables.1.name": "location",
+        "variables.1.value": "Sarboland Village"
       },
       {
         "ID": "af_wave_2_3",
@@ -314,8 +314,8 @@
         "groups": "Hybrid;Wave 2;Reach",
         "cap": "27",
         "location": "Qala Noak Village",
-        "variables.1.name": "referral type",
-        "variables.1.value": "Siaab"
+        "variables.1.name": "location",
+        "variables.1.value": "Qala Noak Village"
       },
       {
         "ID": "af_wave_2_4",
@@ -323,8 +323,8 @@
         "groups": "Hybrid;Wave 2;Reach",
         "cap": "29",
         "location": "Eaz Qalak Village",
-        "variables.1.name": "referral type",
-        "variables.1.value": "Sarboland"
+        "variables.1.name": "location",
+        "variables.1.value": "Eaz Qalak Village"
       },
       {
         "ID": "af_wave_2_5",
@@ -332,8 +332,8 @@
         "groups": "Hybrid;Wave 2;Reach",
         "cap": "45",
         "location": "Kernail Village",
-        "variables.1.name": "referral type",
-        "variables.1.value": "Kajkal"
+        "variables.1.name": "location",
+        "variables.1.value": "Kernail Village"
       }
     ],
     "content_index": [
