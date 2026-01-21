@@ -213,6 +213,21 @@
         "tags.1": "campaign",
         "tags.2": "",
         "tags.3": ""
+      },
+      {
+        "type": "create_campaign",
+        "sheet_name": "1month_reminder_campaign_event",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "",
+        "template_arguments": "",
+        "operation": "",
+        "status": "",
+        "group": "in 1month survey",
+        "tags.1": "campaign",
+        "tags.2": "",
+        "tags.3": ""
       }
     ],
     "testing_triggers": [
@@ -2167,7 +2182,7 @@
     ],
     "1month_campaign_event": [
       {
-        "offset": "42",
+        "offset": "30",
         "unit": "D",
         "event_type": "F",
         "delivery_hour": "",
@@ -2175,6 +2190,18 @@
         "relative_to": "consent time",
         "start_mode": "I",
         "flow": "1month_survey_wrapper"
+      }
+    ],
+    "1month_reminder_campaign_event": [
+      {
+        "offset": "2",
+        "unit": "D",
+        "event_type": "F",
+        "delivery_hour": "",
+        "message": "",
+        "relative_to": "survey delivery time 1month",
+        "start_mode": "I",
+        "flow": "1month_survey_reminder_wrapper"
       }
     ]
   }
