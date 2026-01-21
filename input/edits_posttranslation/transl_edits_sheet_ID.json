@@ -629,7 +629,16 @@
         "node_identifier": "Regex:.*{consent}.*",
         "change": "{consent}",
         "condition_var": "",
-        "category": "Add url"
+        "category": "https://bit.ly/afghanistan-pp-consent-ptext"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{tnc_link}.*",
+        "change": "{tnc_link}",
+        "condition_var": "",
+        "category": "https://bit.ly/afghanistan-tc-ptext"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -649,7 +658,16 @@
         "node_identifier": "Regex:.*{consent}.*",
         "original": "{consent}",
         "language": "fas",
-        "replacement": "Add url"
+        "replacement": "https://bit.ly/afghanistan-pp-consent-ptext"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{tnc_link}.*",
+        "original": "{tnc_link}",
+        "language": "fas",
+        "replacement": "https://bit.ly/afghanistan-tc-ptext"
       },
       {
         "type_of_edit": "replace_bit_of_text",

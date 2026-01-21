@@ -84,6 +84,30 @@
     "note": ""
   },
   {
+    "SourceText": "Before we start, we need to share some important information.",
+    "text": "قبل از آغاز، لازم است که چند معلومات مهم را با شما شریک بسازیم.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📘 Please read our Terms & Conditions here: {tnc_link}.",
+    "text": "لطفاً شرایط و ضوابط ما را در این‌جا مطالعه کنید: {tnc_link}.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you have read and accept the Terms & Conditions, please select YES.",
+    "text": "اگر شرایط و ضوابط را مطالعه نموده و آن را می‌پذیرید، لطفاً گزینهٔ «بلی» را انتخاب کنید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you do not accept, type \"EXIT\" to stop now.",
+    "text": "اگر آن را نمی‌پذیرید، برای توقف در همین مرحله، واژهٔ «خروج» را تایپ نمایید.",
+    "type": "text",
+    "note": ""
+  },
+  {
     "SourceText": "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please press NO. If you made a mistake, please press BACK and choose another option.",
     "text": "آیا مطمئن هستید که نمی‌خواهید این پیام‌ها را دریافت کنید؟ اگر نمی‌خواهید دیگر پیام‌ها را دریافت کنید، \"نخیر\" را فشار دهید. اگر مایلید و اشتباهاً انتخاب کرده اید، گزینه \"بازگشت\" را فشار دهید و انتخاب دیگری انجام دهید.",
     "type": "text",
@@ -98,6 +122,54 @@
   {
     "SourceText": "We hope to see you again soon.",
     "text": "به امید دیدار دوباره شما به زودی.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Now a quick note about your privacy.",
+    "text": "اکنون یک نکتهٔ کوتاه در مورد حریم خصوصی شما.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ Your personal information is safe and private. ",
+    "text": "معلومات شخصی شما مصون و محرم است ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ Your name and information will not be public, but your responses will be used by researchers to learn how to support families like yours. ",
+    "text": "نام و معلومات شما به‌صورت عمومی نشر نخواهد شد، اما پاسخ‌های شما توسط پژوهشگران برای آموختنِ چگونگی حمایت از خانواده‌هایی مانند خانوادهٔ شما مورد استفاده قرار می‌گیرد ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ The information you share may also be combined with other families’ experiences so that we can understand how these programmes work across the world.",
+    "text": "✅ معلوماتی که شما شریک می‌سازید ممکن است با تجربه‌های سایر خانواده‌ها یک‌جا گردآوری شود تا بتوانیم دریابیم این برنامه‌ها در سراسر جهان چگونه عمل می‌کنند.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🤐 If there are any questions that you feel uncomfortable answering, you do not have to answer them.",
+    "text": "🤐اگر به هر پرسشی احساس ناآرامی یا ناخوشایندی داشته باشید، لازم نیست به آن پاسخ بدهید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Please read this information carefully: {consent}",
+    "text": "لطفاً این معلومات را با دقت مطالعه کنید:{consent}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you have read it and agree, please select YES.",
+    "text": "اگر آن را مطالعه کرده و موافق هستید، لطفاً گزینهٔ بلی را انتخاب کنید.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you do not want to participate, type \"EXIT\" to stop now.",
+    "text": "اگر نمی‌خواهید مشارکت کنید، برای توقف در همین مرحله، واژهٔ «خروج» را تایپ نمایید.",
     "type": "text",
     "note": ""
   },

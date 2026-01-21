@@ -84,18 +84,6 @@
     "note": ""
   },
   {
-    "SourceText": "{family_referrals}",
-    "text": "{family_referrals}",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "{child_protection_referrals}",
-    "text": "{child_protection_referrals}",
-    "type": "text",
-    "note": ""
-  },
-  {
     "SourceText": "What would you like to do?",
     "text": "چه کاری میخواهید انجام دهید؟",
     "type": "text",
@@ -326,24 +314,6 @@
   {
     "SourceText": "Great, see you tomorrow!",
     "text": "عالیست، فردا خواهیم دید شما را!",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "You’ve completed the programme – well done!",
-    "text": "شما برنامه را کامل کردید – آفرین!",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "Remember, you can always return to {prog_name} to review any of the tips. Just type {MENU}.",
-    "text": "یاد‌تان باشد که همیشه می‌توانید به {prog_name} برگردید و هر کدام از توصیه ها را مرور کنید. فقط کافیست بنویسید {MENU}.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "We’ll check in with you in a month to see how you’re doing. Your feedback helps us make sure these tips truly support families like yours 🙂",
-    "text": "ما در یک ماه آینده دوباره با شما تماس خواهیم گرفت تا ببینیم اوضاع چطور پیش می‌رود. نظر و معلومات شما به ما کمک می‌کند مطمئن شویم این توصیه ها واقعاً به خانواده‌هایی مثل شما کمک می‌کنند 🙂",
     "type": "text",
     "note": ""
   },
@@ -840,6 +810,24 @@
     "note": ""
   },
   {
+    "SourceText": "You’ve completed the programme – well done!",
+    "text": "شما برنامه را کامل کردید – آفرین!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Remember, you can always return to {prog_name} to review any of the tips. Just type {MENU}.",
+    "text": "یاد‌تان باشد که همیشه می‌توانید به {prog_name} برگردید و هر کدام از توصیه ها را مرور کنید. فقط کافیست بنویسید {MENU}.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "We’ll check in with you in a month to see how you’re doing. Your feedback helps us make sure these tips truly support families like yours 🙂",
+    "text": "ما در یک ماه آینده دوباره با شما تماس خواهیم گرفت تا ببینیم اوضاع چطور پیش می‌رود. نظر و معلومات شما به ما کمک می‌کند مطمئن شویم این توصیه ها واقعاً به خانواده‌هایی مثل شما کمک می‌کنند 🙂",
+    "type": "text",
+    "note": ""
+  },
+  {
     "SourceText": "Welcome back to ParentText!",
     "text": "به ParentText باز خوش آمدید!",
     "type": "text",
@@ -906,20 +894,8 @@
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
-    "SourceText": "Family counselling services",
-    "text": "خدمات مشاوره خانوادگی",
-    "type": "quick_replies",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
-  },
-  {
     "SourceText": "Natural disasters",
     "text": "بلایای طبیعی",
-    "type": "quick_replies",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
-  },
-  {
-    "SourceText": "Child Protection",
-    "text": "محافظت اطفال",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -980,6 +956,12 @@
   {
     "SourceText": "A fun activity I can do with my child",
     "text": "یک فعالیت سرگرم کننده ای که می توانم با طفل خود انجام دهم",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Proceed to the next tip",
+    "text": "ادامه، به توصیه بعدی",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -1302,20 +1284,8 @@
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "family counselling services",
-    "text": "خدمات مشوره خانوادگی",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
     "SourceText": "natural disasters",
     "text": "بلایای طبیعی",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "child protection",
-    "text": "محافظت طفل",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -1388,6 +1358,12 @@
   {
     "SourceText": "a fun activity i can do with my child",
     "text": "یک فعالیت سرگرم کننده یی که می توانم با طفل خود انجام بدهم",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "proceed to the next tip",
+    "text": "ادامه، به توصیه بعدی",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
