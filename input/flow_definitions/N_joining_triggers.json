@@ -69,7 +69,7 @@
         "Cap Users At": "",
         "Location, if applicable": "",
         "Link (en)": "",
-        "Link (lan)": ""
+        "Link (lan)": "https://wa.me/+93729509252?text=test_eng"
       },
       {
         "ID": "test_dari",
@@ -224,6 +224,20 @@
         "Location, if applicable": "Kernail Village",
         "Link (en)": "",
         "Link (lan)": "https://wa.me/+93729509252?text=انگیزه"
+      },
+      {
+        "ID": "af_staff",
+        "Description": "Joining trigger",
+        "Trigger (en)": "Naranji",
+        "Trigger (fas)": "نارنجی",
+        "Experience (user group)": "Digital",
+        "Recruitment (user group)": "Wave 3",
+        "Additional (user group)": "",
+        "Included in Reach? ": "Reach",
+        "Cap Users At": "500",
+        "Location, if applicable": "Herat district",
+        "Link (en)": "",
+        "Link (lan)": ""
       }
     ],
     "joining_triggers_data": [
@@ -334,6 +348,15 @@
         "location": "Kernail Village",
         "variables.1.name": "location",
         "variables.1.value": "Kernail Village"
+      },
+      {
+        "ID": "af_staff",
+        "triggers": "Naranji;نارنجی",
+        "groups": "Digital;Wave 3;Reach",
+        "cap": "500",
+        "location": "Herat district",
+        "variables.1.name": "location",
+        "variables.1.value": "Herat district"
       }
     ],
     "content_index": [
@@ -428,6 +451,11 @@
         "ID": "af_wave_2_5",
         "var_key": "n_af_wave_2_5",
         "var_value": "45"
+      },
+      {
+        "ID": "af_staff",
+        "var_key": "n_af_staff",
+        "var_value": "500"
       }
     ]
   }

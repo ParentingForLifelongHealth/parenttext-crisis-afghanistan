@@ -243,7 +243,7 @@
         "node_identifier": "Regex:.*{generic_referrals}.*",
         "change": "{generic_referrals}",
         "condition_var": "",
-        "category": "Add referral"
+        "category": "**Available services in your area provided byWorld Vision Afghanistan – Herat Response Project:**\n\nPsychosocial Support\n📞 0797076137\n\nMedical Support \n📞 410\n\nNatural Disaster Support (CESVI)\n📞 0799224283"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -279,7 +279,7 @@
         "node_identifier": "Regex:.*{natural_disasters_referrals}.*",
         "change": "{natural_disasters_referrals}",
         "condition_var": "",
-        "category": "Add referral"
+        "category": "**For immediate crisis response (fires, floods, storms, earthquake), contact**:  \nCESVI: 📞 0799224283"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -315,7 +315,7 @@
         "node_identifier": "Regex:.*{mental_health_referrals}.*",
         "change": "{mental_health_referrals}",
         "condition_var": "",
-        "category": "Add referral"
+        "category": "**Need emotional or psychological support? 💙**\nCall our Mental Health Support line for guidance and help accessing services:\n📞 0797076137"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -351,7 +351,7 @@
         "node_identifier": "Regex:.*{health_referrals}.*",
         "change": "{health_referrals}",
         "condition_var": "",
-        "category": "Add referral"
+        "category": "**Need medical support or medication for you or your family? 🏥**\nYou can contact the nearest clinic \n📞410"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -389,7 +389,7 @@
         "node_identifier": "Regex:.*{generic_referrals}.*",
         "original": "{generic_referrals}",
         "language": "fas",
-        "replacement": "Add referral"
+        "replacement": "خدمات موجود در ساحهٔ شما که توسط پروژه پاسخدهی ورد ویژن افغانستان – هرات ارائه می‌گردد:\n\nحمایت روانی-اجتماعی\n📞  0797076137\n\nحمایت صحی \n📞  410\n\nحمایت در حادثات ویا بلایای طبیعی (CESVI)\n📞 0799224283"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -425,7 +425,7 @@
         "node_identifier": "Regex:.*{natural_disasters_referrals}.*",
         "original": "{natural_disasters_referrals}",
         "language": "fas",
-        "replacement": "Add referral"
+        "replacement": "برای پاسخدهی فوری در حالات بحران (آتش‌سوزی، سیلاب، طوفان، زلزله) تماس بگیرید با:\nCESVI: 📞 0799224283"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -461,7 +461,7 @@
         "node_identifier": "Regex:.*{mental_health_referrals}.*",
         "original": "{mental_health_referrals}",
         "language": "fas",
-        "replacement": "Add referral"
+        "replacement": "نیاز به حمایت عاطفی یا روانی دارید؟ \nبرای دریافت رهنمود و کمک به دسترسی به خدمات، با خط حمایوی صحت روانی ما تماس بگیرید:\n📞 0797076137"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -497,7 +497,7 @@
         "node_identifier": "Regex:.*{health_referrals}.*",
         "original": "{health_referrals}",
         "language": "fas",
-        "replacement": "Add referral"
+        "replacement": "نیاز به حمایت صحی یا دوا برای خودتان یا خانواده‌تان دارید؟ \nمی‌توانید با نزدیک‌ترین کلینیک  تماس بگیرید:\n📞 410"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -679,7 +679,7 @@
         "replacement": "privacy@idems.international"
       }
     ],
-    "joining_triggers_add_group": [
+    "MANUALjoining_triggers_add_group": [
       {
         "type_of_edit": "replace_bit_of_text",
         "flow_id": "Regex:.*",
@@ -723,7 +723,98 @@
         "condition_type:af_wave_2_4": "has_only_phrase",
         "category:af_wave_2_5": "{joining_trigger_af_wave_2_5}",
         "condition:af_wave_2_5": "Determination",
-        "condition_type:af_wave_2_5": "has_only_phrase"
+        "condition_type:af_wave_2_5": "has_only_phrase",
+        "category:af_staff": "{joining_trigger_af_staff}",
+        "condition:af_staff": "Naranji",
+        "condition_type:af_staff": "has_only_phrase"
+      }
+    ],
+    "joining_triggers_ids": [
+      {
+        "test_en": "test_dari"
+      },
+      {
+        "test_en": "af_wave_1_1"
+      },
+      {
+        "test_en": "af_wave_1_2"
+      },
+      {
+        "test_en": "af_wave_1_3"
+      },
+      {
+        "test_en": "af_wave_1_4"
+      },
+      {
+        "test_en": "af_wave_1_5"
+      },
+      {
+        "test_en": "af_wave_2_1"
+      },
+      {
+        "test_en": "af_wave_2_2"
+      },
+      {
+        "test_en": "af_wave_2_3"
+      },
+      {
+        "test_en": "af_wave_2_4"
+      },
+      {
+        "test_en": "af_wave_2_5"
+      },
+      {
+        "test_en": "af_staff"
+      }
+    ],
+    "joining_triggers_add_group": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger}.*",
+        "change": "{joining_trigger}",
+        "condition_var": "@fields.joining_trigger_id",
+        "category": "{joining_trigger}",
+        "category:test_en": "{joining_trigger_test_en}",
+        "condition:test_en": "test_en",
+        "condition_type:test_en": "has_only_phrase",
+        "category:test_dari": "{joining_trigger_test_dari}",
+        "condition:test_dari": "test_dari",
+        "condition_type:test_dari": "has_only_phrase",
+        "category:af_wave_1_1": "{joining_trigger_af_wave_1_1}",
+        "condition:af_wave_1_1": "af_wave_1_1",
+        "condition_type:af_wave_1_1": "has_only_phrase",
+        "category:af_wave_1_2": "{joining_trigger_af_wave_1_2}",
+        "condition:af_wave_1_2": "af_wave_1_2",
+        "condition_type:af_wave_1_2": "has_only_phrase",
+        "category:af_wave_1_3": "{joining_trigger_af_wave_1_3}",
+        "condition:af_wave_1_3": "af_wave_1_3",
+        "condition_type:af_wave_1_3": "has_only_phrase",
+        "category:af_wave_1_4": "{joining_trigger_af_wave_1_4}",
+        "condition:af_wave_1_4": "af_wave_1_4",
+        "condition_type:af_wave_1_4": "has_only_phrase",
+        "category:af_wave_1_5": "{joining_trigger_af_wave_1_5}",
+        "condition:af_wave_1_5": "af_wave_1_5",
+        "condition_type:af_wave_1_5": "has_only_phrase",
+        "category:af_wave_2_1": "{joining_trigger_af_wave_2_1}",
+        "condition:af_wave_2_1": "af_wave_2_1",
+        "condition_type:af_wave_2_1": "has_only_phrase",
+        "category:af_wave_2_2": "{joining_trigger_af_wave_2_2}",
+        "condition:af_wave_2_2": "af_wave_2_2",
+        "condition_type:af_wave_2_2": "has_only_phrase",
+        "category:af_wave_2_3": "{joining_trigger_af_wave_2_3}",
+        "condition:af_wave_2_3": "af_wave_2_3",
+        "condition_type:af_wave_2_3": "has_only_phrase",
+        "category:af_wave_2_4": "{joining_trigger_af_wave_2_4}",
+        "condition:af_wave_2_4": "af_wave_2_4",
+        "condition_type:af_wave_2_4": "has_only_phrase",
+        "category:af_wave_2_5": "{joining_trigger_af_wave_2_5}",
+        "condition:af_wave_2_5": "af_wave_2_5",
+        "condition_type:af_wave_2_5": "has_only_phrase",
+        "category:af_staff": "{joining_trigger_af_staff}",
+        "condition:af_staff": "af_staff",
+        "condition_type:af_staff": "has_only_phrase"
       }
     ],
     "joining_triggers_eng": [
@@ -834,6 +925,15 @@
         "change": "{joining_trigger_af_wave_2_5}",
         "condition_var": "",
         "category": "Determination"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger_af_staff}.*",
+        "change": "{joining_trigger_af_staff}",
+        "condition_var": "",
+        "category": "Naranji"
       }
     ],
     "joining_triggers_transl": [
@@ -944,6 +1044,15 @@
         "original": "{joining_trigger}",
         "language": "fas",
         "replacement": "اراده"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{joining_trigger_af_staff}.*",
+        "original": "{joining_trigger}",
+        "language": "fas",
+        "replacement": "نارنجی"
       }
     ],
     "parenttext_name_eng": [
