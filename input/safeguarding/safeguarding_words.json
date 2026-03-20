@@ -435,19 +435,16 @@
         {
             "English": {
                 "keywords": [
-                    "health",
-                    "healthy"
+                    "health"
                 ],
                 "mispellings": [
                     "haelth",
-                    "healthy",
                     "helath"
                 ]
             },
             "Translation": {
                 "fas": {
                     "keywords": [
-                        "\u0635\u062d\u062a",
                         "\u0635\u062d\u062a\u0645\u0646\u062f\u06cc"
                     ],
                     "mispellings": []
